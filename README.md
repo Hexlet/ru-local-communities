@@ -30,6 +30,7 @@
       * [TomskJS (vk)](https://vk.com/tomskjs): Небольшие frontend митапы.
   * Ульяновск
       * [it-ulsk (facebook)](https://www.facebook.com/groups/it.ulsk/): Общение обо всем, преимущественно местные новости и активности
+      * [CocoaHeads Ulyanovsk (facebook)](https://www.facebook.com/groups/cocoaheads.ulsk/): Сообщество и регулярные встречи разработчиков под iOS и Mac OS
 * Беларусь
   * Минск
       * [Belarus Big Data User Group (vk)](https://vk.com/belarus.big_data.user.group): Группа для всех, кто заинтересован в больших данных.
