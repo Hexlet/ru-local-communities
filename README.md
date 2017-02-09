@@ -16,3 +16,7 @@
 * Россия
   * Ульяновск
       * [it-uslk (facebook)](https://www.facebook.com/groups/it.ulsk/)
+* Беларусь
+  * Минск
+      * [brug (site)](http://brug.by/)
+      * [comaqa (site)](https://comaqa.by/)
