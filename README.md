@@ -23,6 +23,6 @@
   * Санкт-Петербург
       * [pitercss (vk)](https://vk.com/pitercss): Регулярные встречи по фронтенду в Петербурге: CSS, SVG, типографика, дизайн.
       * [Piter JS (vk)](https://vk.com/piterjs): JavaScript митап в Санкт-Петербурге.
-      * [SPB Frontens (vk)](https://vk.com/spb_frontend): Петербургское сообщество фронтенд-энтузиастов.
+      * [SPB Frontend (vk)](https://vk.com/spb_frontend): Петербургское сообщество фронтенд-энтузиастов.
   * Ульяновск
       * [it-ulsk (facebook)](https://www.facebook.com/groups/it.ulsk/): Общение обо всем, преимущественно местные новости и активности
