@@ -25,7 +25,7 @@
       * [Piter JS (vk)](https://vk.com/piterjs): JavaScript митап в Санкт-Петербурге.
       * [SPB Frontend (vk)](https://vk.com/spb_frontend): Петербургское сообщество фронтенд-энтузиастов.
   * Тверь
-      * [tverio (site)](http://tverio.ru): Тверское ИТ сообщество. Основное общение в slack. Периодические митапы и просто поседелки. Лекции в местных вузах на технических и математических факультетах.
+      * [tverio (site)](http://tver.io): Тверское ИТ сообщество. Основное общение в slack. Периодические митапы и просто поседелки. Лекции в местных вузах на технических и математических факультетах.
   * Томск
       * [TomskJS (vk)](https://vk.com/tomskjs): Небольшие frontend митапы.
   * Ульяновск
@@ -47,7 +47,7 @@
       * [LvivJS (twitter)](https://twitter.com/lvivjs): Конференции для JavaScript разработчиков
   * Одесса
       * [OdessaJS (twitter)](https://twitter.com/odessajs): Конференции для JavaScript разработчиков
-      * [OdHUG (site)](http://www.haskell.od.ua/site/): Одесская группа пользователей Haskell 
+      * [OdHUG (site)](http://www.haskell.od.ua/site/): Одесская группа пользователей Haskell
   * Харьков
       * [KharkivJS (site)](http://kharkivjs.org/): Конференции для JavaScript разработчиков
       * [KharkivCSS (site)](http://kharkivcss.org/): Конференции для фронтенд разработчиков, с уклоном в CSS
