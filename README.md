@@ -38,3 +38,25 @@
       * [brug (site)](http://brug.by/): Белорусская Ruby User Group - сообщество Ruby-разработчиков Беларуси, созданное для обмена идеями и опытом.
       * [comaqa (site)](https://comaqa.by/): Сообщество тестировщиков-автоматизаторов.
       * [Minsk MongoDB User Group (facebook)](https://www.facebook.com/groups/bymongo): Группа посвященная повышению знаний и осведомленности о MongoDB.
+* Украина
+  * Киев
+      * [KyivJS (site)](http://kyivjs.org/): Конференции для JavaScript разработчиков
+      * [Котаны (site)](http://kottans.org/): Уникальный образовательный проект, созданный программистами-энтузиастами. Все обучение проходит бесплатно. В сообщество входят программисты разных направлений, поэтому и обучающие программы разнообразные. Изначально базировались в Киеве, но сейчас у них уже есть опыт проведения мероприятий и в других городах Украины, благодаря вовлечению в сообщество опытных специалистов из других городов.
+      * [Kievfprog (site)](http://kievfprog.net/): встречи любителей функционального программирования
+  * Львов
+      * [LvivJS (twitter)](https://twitter.com/lvivjs): Конференции для JavaScript разработчиков
+  * Одесса
+      * [OdessaJS (twitter)](https://twitter.com/odessajs): Конференции для JavaScript разработчиков
+      * [OdHUG (site)](http://www.haskell.od.ua/site/): Одесская группа пользователей Haskell 
+  * Харьков
+      * [KharkivJS (site)](http://kharkivjs.org/): Конференции для JavaScript разработчиков
+      * [KharkivCSS (site)](http://kharkivcss.org/): Конференции для фронтенд разработчиков, с уклоном в CSS
+      * [KharkivPy (site)](http://kharkivpy.org.ua/): Встречи python разработчиков
+      * [DjangoGirls Харьков (vk)](https://vk.com/django_girls_kharkiv): Митап для девушек, на котором они создают свой блог на python и django. Django Girls - это всемирная инициатива, направленная на то, чтобы помочь девушкам сделать первые шаги в IT.
+      * [Съесть собаку (site)](https://eatdog.com.ua/): Регулярные встречи с экспертами в разработке. Приглашаются докладчики из различных отраслей
+      * [Smart Club (site)](https://vk.com/smart_clb): Регулярные митапы на различные темы
+      * [Kharkov AI club (site)](https://aikharkov.wordpress.com/): Встречи любителей искусственного интеллекта, Machine learning...
+  * Чернигов
+      * [ChernigivJS (site)](https://chernihivjs.org.ua/): Встречи JavaScript разработчиков
+  * Черновцы
+      * [ChernivtsiJS (site)](http://chernivtsi.js.org/): Встречи JavaScript разработчиков
