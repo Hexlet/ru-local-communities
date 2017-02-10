@@ -65,3 +65,9 @@
       * [ChernigivJS (site)](https://chernihivjs.org.ua/): Встречи JavaScript разработчиков
   * Черновцы
       * [ChernivtsiJS (site)](http://chernivtsi.js.org/): Встречи JavaScript разработчиков
+* Казахстан
+  * Астана
+      * [AST Frontend (facebook)](https://www.facebook.com/astfrontend/): Сообщество фронтенд-разработчиков в Астане. Регулярные митапы.
+      * [Astana JUG (facebook)](https://www.facebook.com/astanajug/): Сообщество людей, увлекающихся разработкой под платформу JVM и не только. Встречи в Астане.
+  * Алматы
+      * [IT Crowd Kazakhstan (Slack)](https://itcrowd-kz.slack.com/): Общение разработчиков Казахстана. Периодические митапы.
