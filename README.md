@@ -25,6 +25,8 @@
   * Ростов-на-Дону
       * [rndrug (facebook)](https://www.facebook.com/groups/rndrug/): Сообщество ruby-разработчиков.
       * [it61 (site)](https://it61.info): IT-сообщество Ростова-на-Дону. Регулярные митапы и конференции на технические и смежные с ними темы. Важная часть сообщества – онлайн-общение в slack.
+  * Самара
+      * [SamaraJS (site)](http://samarajs.ru): Сообщество (не только JavaScript) разработчиков. Основное общение в [slack](https://samarajsin.herokuapp.com).
   * Санкт-Петербург
       * [pitercss (vk)](https://vk.com/pitercss): Регулярные встречи по фронтенду в Петербурге: CSS, SVG, типографика, дизайн.
       * [Piter JS (vk)](https://vk.com/piterjs): JavaScript митап в Санкт-Петербурге.
