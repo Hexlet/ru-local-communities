@@ -48,6 +48,9 @@
       * [comaqa (site)](https://comaqa.by/): Сообщество тестировщиков-автоматизаторов.
       * [Minsk MongoDB User Group (facebook)](https://www.facebook.com/groups/bymongo): Группа посвященная повышению знаний и осведомленности о MongoDB.
 * Украина
+  * Днепр
+      * [LλMBDλ CLUB DNIPRO (site)](http://lambdaclub.net/8/): Доклады на этих встречах охватывают абсолютно разные темы и области программирования
+      * [DneprPy (site)](http://dneprpy.org.ua/): Встерчи python разработчиков
   * Киев
       * [KyivJS (site)](http://kyivjs.org/): Конференции для JavaScript разработчиков
       * [Котаны (site)](http://kottans.org/): Уникальный образовательный проект, созданный программистами-энтузиастами. Все обучение проходит бесплатно. В сообщество входят программисты разных направлений, поэтому и обучающие программы разнообразные. Изначально базировались в Киеве, но сейчас у них уже есть опыт проведения мероприятий и в других городах Украины, благодаря вовлечению в сообщество опытных специалистов из других городов.
@@ -58,7 +61,7 @@
       * [LvivJS (twitter)](https://twitter.com/lvivjs): Конференции для JavaScript разработчиков
   * Одесса
       * [OdessaJS (twitter)](https://twitter.com/odessajs): Конференции для JavaScript разработчиков
-      * [OdHUG (site)](http://www.haskell.od.ua/site/): Одесская группа пользователей Haskell
+      * [OdHUG (site)](http://www.haskell.od.ua/site/): Одесская группа пользователей Haskell 
   * Харьков
       * [KharkivJS (site)](http://kharkivjs.org/): Конференции для JavaScript разработчиков
       * [KharkivCSS (site)](http://kharkivcss.org/): Конференции для фронтенд разработчиков, с уклоном в CSS
