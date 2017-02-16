@@ -31,6 +31,7 @@
       * [freeCodeCamp Moscow](https://www.facebook.com/groups/free.code.camp.moscow/): Официальная Московская группа ФриКодКэмперов.
       * [Moscow (Clojure (Script)) Meetup (www.meetup.com)](https://www.meetup.com/Moscow-Clojure-Script-Meetup/): Встречи и митапы для всех, кто интересуется разработкой на Clojure и ClojureScript
       * [Московский клуб программистов](https://www.meetup.com/progmsk/): Неформальные встречи и разговоры обо всём понемногу.
+      * [ElixirLangMoscow](http://elixir-lang.moscow/): Московское Elixir сообщество: проводим встречи, общаемся, едим пиццу.
   * Омск
       * [omskit (vk)](https://vk.com/omskit): IT-субботники — это бесплатные мини-конференции, состоящие из 3-4 докладов и свободного общения, развивают горизонтальные связи внутри омского IT-сообщества.
   * Ростов-на-Дону
