@@ -25,7 +25,7 @@
       * [moscowcss (vk)](https://vk.com/css_moscow): Регулярные встречи по фронтенду в Москве: CSS, SVG, типографика, дизайн.
       * [Moscow JS (vk)](https://vk.com/moscowjs): Неформальные встречи JavaScript разработчиков Москвы. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.
       * [freeCodeCamp Moscow](https://www.facebook.com/groups/free.code.camp.moscow/): Официальная Московская группа ФриКодКэмперов.
-      * [Moscow (Clojure (Script)) Meetup](https://www.meetup.com/Moscow-Clojure-Script-Meetup/) Встречи и митапы для всех, кто интересуется разработкой на Clojure и ClojureScript
+      * [Moscow (Clojure (Script)) Meetup (www.meetup.com)](https://www.meetup.com/Moscow-Clojure-Script-Meetup/): Встречи и митапы для всех, кто интересуется разработкой на Clojure и ClojureScript
   * Омск
       * [omskit (vk)](https://vk.com/omskit): IT-субботники — это бесплатные мини-конференции, состоящие из 3-4 докладов и свободного общения, развивают горизонтальные связи внутри омского IT-сообщества.
   * Ростов-на-Дону
