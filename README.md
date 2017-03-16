@@ -51,7 +51,8 @@
   * Тверь
       * [tverio (site)](http://tver.io): Тверское ИТ сообщество. Основное общение в slack. Периодические митапы и просто посиделки. Лекции в местных вузах на технических и математических факультетах.
   * Томск
-      * [TomskJS (vk)](https://vk.com/tomskjs): Небольшие frontend митапы.
+      * [TomskJS (vk)](https://vk.com/tomskjs), [TomskJS (fb)](https://fb.com/tomskjs), [TomskJS (slack)](https://tomskjs.slack.com): Небольшие frontend митапы.
+      * [TomskML (vk)](https://vk.com/tomskml), [TomskML (slack)](https://tomskml.slack.com): Машинное обучение.
   * Ульяновск
       * [it-ulsk (facebook)](https://www.facebook.com/groups/it.ulsk/): Общение обо всем, преимущественно местные новости и активности
       * [CocoaHeads Ulyanovsk (facebook)](https://www.facebook.com/groups/cocoaheads.ulsk/): Сообщество и регулярные встречи разработчиков под iOS и Mac OS
