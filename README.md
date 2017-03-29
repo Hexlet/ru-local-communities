@@ -60,7 +60,7 @@
       * [Gorod.IT (www)](https://gorod.it/), [Gorod.IT (vk)](https://vk.com/gorodit), [CodeFest (@)](https://twitter.com/Gorod_IT): Ежегодная двухдневная конференция.
       * [Mobifest (vk)](https://vk.com/mobifest): Встречи разработчиков под мобильные платформы. Проходит в Томске и Новосибирске.
       * [DevPro (www)](http://devpro.tomsk.ru/), [DevPro (vk)](https://vk.com/dev_pro), [DevPro (yt)](https://www.youtube.com/channel/UCL9paXsOKnll7rYn5_4BESA) : Ежегодная конференция.
-      * [Debug-Time - Конференция (www)](http://debug-time.unigine.com/): Конференция по C++, 3D.
+      * [Debug-Time (www)](http://debug-time.unigine.com/): Конференция по C++, 3D графике.
   * Ульяновск
       * [it-ulsk (facebook)](https://www.facebook.com/groups/it.ulsk/): Общение обо всем, преимущественно местные новости и активности
       * [CocoaHeads Ulyanovsk (facebook)](https://www.facebook.com/groups/cocoaheads.ulsk/): Сообщество и регулярные встречи разработчиков под iOS и Mac OS
