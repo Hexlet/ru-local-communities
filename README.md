@@ -40,8 +40,9 @@
       * [IT52 - Нижегородское IT-сообщество (vk)](https://vk.com/it52info): IT и около в Нижнем Новгороде: конференции, митапы, хакатоны, встречи и, конечно, афтепати.
       * [rannts (site)](http://rannts.ru): Нижегородские питонисты.
   * Новосибирск
-      * [CodeFest - Ежегодная конференция (site)](https://codefest.ru/), [CodeFest (vk)](https://vk.com/codefest), [CodeFest (twitter)](https://twitter.com/codefest): Ежегодная двухдневная международная конференция.
+      * [CodeFest (www)](https://codefest.ru/), [CodeFest (fb)](https://fb.com/codefestru), [CodeFest (vk)](https://vk.com/codefest), [CodeFest (@)](https://twitter.com/codefest): Ежегодная двухдневная международная конференция.
       * [Mobifest (vk)](https://vk.com/mobifest): Встречи разработчиков под мобильные платформы. Проходит в Томске и Новосибирске.
+      * [DevFest Siberia (www)](https://gdg-siberia.com/), [DevFest (meetup)](https://www.meetup.com/GDGNsk/), [DevFest (g+)](https://plus.google.com/+GDGNovosibirsk), [DevFest (@)](https://twitter.com/GDGNsk), [DevFest (vk)](https://vk.com/gdgnsk), [CodeFest (fb)](https://fb.com/gdg66/): Ежегодная двухдневная конференция.
   * Омск
       * [omskit (vk)](https://vk.com/omskit): IT-субботники — это бесплатные мини-конференции, состоящие из 3-4 докладов и свободного общения, развивают горизонтальные связи внутри омского IT-сообщества.
   * Ростов-на-Дону
@@ -58,12 +59,12 @@
   * Тверь
       * [tverio (site)](http://tver.io): Тверское ИТ сообщество. Основное общение в slack. Периодические митапы и просто посиделки. Лекции в местных вузах на технических и математических факультетах.
   * Томск
-      * [TomskJS (vk)](https://vk.com/tomskjs), [TomskJS (fb)](https://fb.com/tomskjs), [TomskJS (slack)](https://tomskjs.slack.com): Небольшие frontend митапы.
-      * [TomskML (vk)](https://vk.com/tomskml), [TomskML (slack)](https://tomskml.slack.com): Машинное обучение.
-      * [Gorod.IT - Ежегодная конференция (site)](https://gorod.it/), [Gorod.IT (vk)](https://vk.com/gorodit), [CodeFest (twitter)](https://twitter.com/Gorod_IT): Ежегодная двухдневная конференция.
+      * [TomskJS (vk)](https://vk.com/tomskjs), [TomskJS (fb)](https://fb.com/tomskjs), [TomskJS (#)](https://tomskjs.slack.com): Встречи фронтендщиков.
+      * [TomskML (vk)](https://vk.com/tomskml), [TomskML (#)](https://tomskml.slack.com): Встречи по теме машинного обучения и больших данных.
+      * [Gorod.IT (www)](https://gorod.it/), [Gorod.IT (vk)](https://vk.com/gorodit), [CodeFest (@)](https://twitter.com/Gorod_IT): Ежегодная двухдневная конференция.
       * [Mobifest (vk)](https://vk.com/mobifest): Встречи разработчиков под мобильные платформы. Проходит в Томске и Новосибирске.
-      * [DevPro - Ежегодная конференция (site)](http://devpro.tomsk.ru/), [DevPro (vk)](https://vk.com/dev_pro), [DevPro (youtube)](https://www.youtube.com/channel/UCL9paXsOKnll7rYn5_4BESA) : Ежегодная конференция.
-      * [Debug-Time - Конференция (site)](http://debug-time.unigine.com/): Конференция по C++, 3D.
+      * [DevPro (www)](http://devpro.tomsk.ru/), [DevPro (vk)](https://vk.com/dev_pro), [DevPro (yt)](https://www.youtube.com/channel/UCL9paXsOKnll7rYn5_4BESA) : Ежегодная конференция.
+      * [Debug-Time (www)](http://debug-time.unigine.com/): Конференция по C++, 3D графике.
   * Ульяновск
       * [it-ulsk (facebook)](https://www.facebook.com/groups/it.ulsk/): Общение обо всем, преимущественно местные новости и активности
       * [CocoaHeads Ulyanovsk (facebook)](https://www.facebook.com/groups/cocoaheads.ulsk/): Сообщество и регулярные встречи разработчиков под iOS и Mac OS
