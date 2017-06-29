@@ -107,7 +107,8 @@
       * [Съесть собаку (site)](https://eatdog.com.ua/): Регулярные встречи с экспертами в разработке. Приглашаются докладчики из различных отраслей
       * [Smart Club (facebook)](https://www.facebook.com/groups/smartcl/?fref=ts): Регулярные митапы на различные темы
       * [Kharkov AI club (site)](https://aikharkov.wordpress.com/): Встречи любителей искусственного интеллекта, Machine learning...
-      * [ThinkPHP (site)](https://thinkphp.io/): Регулярные встречи веб-разработчиков и экспертов по PHP. 
+      * [ThinkPHP (site)](https://thinkphp.io/): Регулярные встречи веб-разработчиков и экспертов по PHP.
+      * [ThinkJAVA (site)](https://thinkjava.io/): Мы собираем джавистов Харькова (и не только), чтобы обсудить актуальные темы за чашкой чая, поделиться ценным опытом с коллегами и вместе найти решение сложных проблем.
   * Чернигов
       * [ChernigivJS (site)](https://chernihivjs.org.ua/): Встречи JavaScript разработчиков
   * Черновцы
