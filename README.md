@@ -94,18 +94,18 @@
   * Кривой Рог
       * [kranonit (site)](https://kranonit.wordpress.com/): криворожский клуб анонимных айтишников
   * Львов
-      * [LvivJS (twitter)](https://twitter.com/lvivjs): Конференции для JavaScript разработчиков
+      * [LvivJS (site)](http://lvivjs.org.ua/): Конференции для JavaScript разработчиков
   * Одесса
-      * [OdessaJS (twitter)](https://twitter.com/odessajs): Конференции для JavaScript разработчиков
+      * [OdessaJS (site)](http://odessajs.org/): Конференции для JavaScript разработчиков
       * [OdHUG (site)](http://www.haskell.od.ua/site/): Одесская группа пользователей Haskell 
   * Харьков
       * [KharkivJS (site)](http://kharkivjs.org/): Конференции для JavaScript разработчиков
-      * [KhJS](http://khjs.org/): Задачи KhJS - путем серии небольших, но регулярных встреч способствовать появлению в нашем сообществе новых лиц на сцене, осуществлять поддержку и сопровождение в подготовке к выступлениям для тех, кто делает это в первый или почти первый раз...
+      * [KhJS (site)](http://khjs.org/): Задачи KhJS - путем серии небольших, но регулярных встреч способствовать появлению в нашем сообществе новых лиц на сцене, осуществлять поддержку и сопровождение в подготовке к выступлениям для тех, кто делает это в первый или почти первый раз...
       * [KharkivCSS (site)](http://kharkivcss.org/): Конференции для фронтенд разработчиков, с уклоном в CSS
       * [KharkivPy (site)](http://kharkivpy.org.ua/): Встречи python разработчиков
-      * [DjangoGirls Харьков (vk)](https://vk.com/django_girls_kharkiv): Митап для девушек, на котором они создают свой блог на python и django. Django Girls - это всемирная инициатива, направленная на то, чтобы помочь девушкам сделать первые шаги в IT.
+      * [DjangoGirls Харьков (facebook)](https://www.facebook.com/djangogirlskh/?fref=ts): Митап для девушек, на котором они создают свой блог на python и django. Django Girls - это всемирная инициатива, направленная на то, чтобы помочь девушкам сделать первые шаги в IT.
       * [Съесть собаку (site)](https://eatdog.com.ua/): Регулярные встречи с экспертами в разработке. Приглашаются докладчики из различных отраслей
-      * [Smart Club (site)](https://vk.com/smart_clb): Регулярные митапы на различные темы
+      * [Smart Club (facebook)](https://www.facebook.com/groups/smartcl/?fref=ts): Регулярные митапы на различные темы
       * [Kharkov AI club (site)](https://aikharkov.wordpress.com/): Встречи любителей искусственного интеллекта, Machine learning...
       * [ThinkPHP (site)](https://thinkphp.io/): Регулярные встречи веб-разработчиков и экспертов по PHP. 
   * Чернигов
