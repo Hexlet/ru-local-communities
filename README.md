@@ -82,6 +82,9 @@
       * [brug (site)](http://brug.by/): Белорусская Ruby User Group - сообщество Ruby-разработчиков Беларуси, созданное для обмена идеями и опытом.
       * [comaqa (site)](https://comaqa.by/): Сообщество тестировщиков-автоматизаторов.
       * [Minsk MongoDB User Group (facebook)](https://www.facebook.com/groups/bymongo): Группа посвященная повышению знаний и осведомленности о MongoDB.
+      * [Frontend Belarus on Slack](https://frontendbelarus.slack.com): slack-чат сообщества frontend-разработчиков Беларуси.
+
+
 * Украина
   * Днепр
       * [LλMBDλ CLUB DNIPRO (site)](http://lambdaclub.net/8/): Доклады на этих встречах охватывают абсолютно разные темы и области программирования
