@@ -84,6 +84,7 @@
       * [Minsk MongoDB User Group (facebook)](https://www.facebook.com/groups/bymongo): Группа посвященная повышению знаний и осведомленности о MongoDB.
       * [FreeCodeCamp Minsk (facebook)](https://www.facebook.com/groups/free.code.camp.Minsk/): официальная группа freeCodeCamp'еров Минска.
       * [Frontend Belarus on Slack](https://frontendbelarus.slack.com): slack-чат сообщества frontend-разработчиков Беларуси.
+      * [dev.by on Slack](https://devby.slack.com): slack-чат портала [dev.by](https://dev.by/) для всех, кому небезразлична сфера IT в Беларуси. 
 
 
 * Украина
