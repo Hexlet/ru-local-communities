@@ -110,6 +110,7 @@
   * Харьков
       * [KharkivJS (site)](http://kharkivjs.org/): Конференции для JavaScript разработчиков
       * [KharkivCSS (site)](http://kharkivcss.org/): Конференции для фронтенд разработчиков, с уклоном в CSS
+      * [Kharkiv Frontend (site)](https://kharkivfrontend.org/), [(Facebook)](https://www.facebook.com/KharkivFrontend/), [(YouTube)](https://www.youtube.com/channel/UCjzSZ-j72m-AoAup9Tq6EoQ/playlists): митапы по фронтентду.
       * [KharkivPy (site)](http://kharkivpy.org.ua/): Встречи python разработчиков
       * [DjangoGirls Харьков (facebook)](https://www.facebook.com/djangogirlskh/?fref=ts): Митап для девушек, на котором они создают свой блог на python и django. Django Girls - это всемирная инициатива, направленная на то, чтобы помочь девушкам сделать первые шаги в IT.
       * [Съесть собаку (site)](https://eatdog.com.ua/): Регулярные встречи с экспертами в разработке. Приглашаются докладчики из различных отраслей
