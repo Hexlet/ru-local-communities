@@ -109,7 +109,6 @@
       * [OdHUG (site)](http://www.haskell.od.ua/site/): Одесская группа пользователей Haskell 
   * Харьков
       * [KharkivJS (site)](http://kharkivjs.org/): Конференции для JavaScript разработчиков
-      * [KhJS (site)](http://khjs.org/): Задачи KhJS - путем серии небольших, но регулярных встреч способствовать появлению в нашем сообществе новых лиц на сцене, осуществлять поддержку и сопровождение в подготовке к выступлениям для тех, кто делает это в первый или почти первый раз...
       * [KharkivCSS (site)](http://kharkivcss.org/): Конференции для фронтенд разработчиков, с уклоном в CSS
       * [KharkivPy (site)](http://kharkivpy.org.ua/): Встречи python разработчиков
       * [DjangoGirls Харьков (facebook)](https://www.facebook.com/djangogirlskh/?fref=ts): Митап для девушек, на котором они создают свой блог на python и django. Django Girls - это всемирная инициатива, направленная на то, чтобы помочь девушкам сделать первые шаги в IT.
