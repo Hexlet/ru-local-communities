@@ -55,6 +55,7 @@
       * [IT-Friday](https://vk.com/it_friday): IT-Friday - уникальное для Рыбинска мероприятие, куда приглашаются все те, кто живет ИТ-технологиями. Вас будут ждать интересные люди, различные проекты, соответствующая атмосфера, печеньки и плюшки.
   * Самара
       * [SamaraJS (site)](http://samarajs.ru): Сообщество (не только JavaScript) разработчиков. Основное общение в [slack](https://samarajsin.herokuapp.com).
+      * [Samara IT Community (vk)](https://vk.com/samara_it_community): Сообщество Самарских работников и новичков сферы ИТ.
   * Санкт-Петербург
       * [pitercss (vk)](https://vk.com/pitercss): Регулярные встречи по фронтенду в Петербурге: CSS, SVG, типографика, дизайн.
       * [Piter JS (vk)](https://vk.com/piterjs): JavaScript митап в Санкт-Петербурге.
