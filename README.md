@@ -104,6 +104,7 @@
       * [Frontend Belarus on Slack](https://frontendbelarus.slack.com): slack-чат сообщества frontend-разработчиков Беларуси.
       * [dev.by on Slack](https://devby.slack.com): slack-чат портала [dev.by](https://dev.by/) для всех, кому небезразлична сфера IT в Беларуси. 
       * [Minsk .NET User Group (facebook)](https://www.facebook.com/groups/dotnet.minsk/): сообщество .NET-разработчиков.
+      * [MODX Беларусь](https://modx.by): сообщество пользователей и разработчиков CMS/CMF MODX. [Чат в Telegram](https://t.me/modxby). 
   * Брест
       * [IT Shark Community](https://it-shark.pro/): Независимое профессиональное сообщество Web & Mobile разработчиков - конференции, тренинги, менторинг, митапы, хакатоны.
 
