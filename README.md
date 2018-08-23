@@ -75,6 +75,7 @@
       * [QA Community Saratov (vk)](https://vk.com/qasaratov): Площадка для поддержки и развития сферы тестирования в Саратове.
       * [Data Science Saratov (vk)](https://vk.com/datasciencesaratov): Саратовское сообщество дата сайнтистов и им сочувствующих.
       * [SaratovJS (vk)](https://vk.com/saratovjs): Саратовское сообщество веб-разработчиков и дизайнеров.
+      * [SarDotNet (vk)](https://vk.com/sardotnet): Саратовское сообщество .NET-разработчиков.
   * Таганрог
       * [JS Tgn Weekends (vk)](https://vk.com/js_tgn): Сообщество JavaScript-разработчиков. Встречаемся раз в месяц. Обсуждаем JavaScript и прочие аспекты жизни разработчиков - soft skills, менеджемент, поиск заказов на фрилансе и т.д. Активная часть сообщества сидит в [телеграм-чате](https://t.me/js_tgn).
   * Тверь
