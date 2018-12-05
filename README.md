@@ -154,6 +154,7 @@
       * [Astana JUG (facebook)](https://www.facebook.com/astanajug/): Сообщество людей, увлекающихся разработкой под платформу JVM и не только. Встречи в Астане.
   * Алматы
       * [IT Crowd Kazakhstan (Slack)](https://itcrowd-kz.slack.com/): Общение разработчиков Казахстана. Периодические митапы.
+      * [DrinkUp Almaty (meetup)](https://www.meetup.com/DrinkUp-Almaty/), [DrinkUp Almaty (telegram)](https://t.me/drinkup): Регулярные встречи разработчиков Алматы в расслабляющей атмосфере любимого бара 
 * Молдова
   * Кишинев
       * [DeveloperMD (facebook)](https://www.facebook.com/groups/DeveloperMD/): DeveloperMD is Moldova developer community that unites IT specialists from different domains from all over the country. DeveloperMD Community is the place where we discuss IT related topics and share our experience.
