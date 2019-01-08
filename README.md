@@ -94,6 +94,8 @@
       * [it-ulsk (facebook)](https://www.facebook.com/groups/it.ulsk/): Общение обо всем, преимущественно местные новости и активности
       * [CocoaHeads Ulyanovsk (facebook)](https://www.facebook.com/groups/cocoaheads.ulsk/): Сообщество и регулярные встречи разработчиков под iOS и Mac OS
       * [Fronthub (site)](http://fronthub.ru/), [slack](https://slack-fronthub.herokuapp.com/): городское front-end сообщество с ежегодной конференцией
+  * Уфа
+      * [Ufacoder (vk)](https://vk.com/ufacoder), [telegram](https://t.me/ufacoder): Уфимское IT сообщество. Встречи разработчиков в неформальной обстановке.
   * Хабаровск
       * [XADEV](https://xadev.ru): cамое большое и быстро растущее сообщество разработчиков Хабаровска.
       * [DersuDev](https://dersudev.wordpress.com): IT-сообщество профессиональных разработчиков в Хабаровске. Организуем онлайн обучение командной разработке для студентов дальневосточных университетов. Проводим конференцию "Программисты для программистов" раз в год. Без повода встречаемся гораздо чаще.
