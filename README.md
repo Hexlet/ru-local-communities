@@ -131,6 +131,7 @@
       * [MODX Беларусь](https://modx.by): сообщество пользователей и разработчиков CMS/CMF MODX. [Чат в Telegram](https://t.me/modxby). 
   * Брест
       * [IT Shark Community](https://it-shark.pro/): Независимое профессиональное сообщество Web & Mobile разработчиков - конференции, тренинги, менторинг, митапы, хакатоны.
+  * [belarusian-it-communities](https://github.com/gleb-kosteiko/belarusian-it-communities): больше белорусских IT сообществ 
 
 * Украина
   * Днепр
