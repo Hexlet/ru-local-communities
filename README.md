@@ -74,7 +74,7 @@
   * Пермь
       * [IT Perm - сообщество айтишников из П (vk)](https://vk.com/hacknewsperm), [IT Perm (telegram)](https://telegram.me/itperm): Интересное из мира IT в Перми. Митапы, конференции, вакансии, дискуссии, интервью. Без мотиваторов, котиков, цитат и 1С.
   * Ростов-на-Дону
-      * [rndrug (facebook)](https://www.facebook.com/groups/rndrug/): Сообщество ruby-разработчиков.
+      * [rndrug (facebook)](https://www.facebook.com/groups/rndrug/), [rndrug (telegram)](https://t.me/rndrug): Сообщество ruby-разработчиков.
       * [it61 (site)](https://it61.info): IT-сообщество Ростова-на-Дону. Регулярные митапы и конференции на технические и смежные с ними темы. Важная часть сообщества – онлайн-общение в slack и telegram.
       * [it61 (telegram)](https://t.me/it_61): IT-сообщество Ростова-на-Дону, участников меньше чем в slack, но обсуждения активнее. 
       * [JS Weekdays](https://t.me/jsweekdays): Периодические неформальные встречи любителей JavaScript в Ростов-на-Дону.
