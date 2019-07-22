@@ -45,6 +45,7 @@
   * Казань
       * [Kazan Frontend Developers](https://t.me/kazanfrontend): сообщество фронтенд разработчиков Казани
       * [Kazan DevDay](https://t.me/devdaykzn): Ежемесячный митап. Пьем чай, делимся опытом.
+      * [IT Way.Kzn](https://vk.com/it_way_kzn): Митапы IT Way для молодых специалистов в Казани
   * Комсомольск-на-Амуре
       * [FEIITC](https://t.me/feiitc_ru): Дальневосточное IT-сообщество.
   * Кострома
@@ -80,6 +81,7 @@
       * [omskit (vk)](https://vk.com/omskit): IT-субботники — это бесплатные мини-конференции, состоящие из 3-4 докладов и свободного общения, развивают горизонтальные связи внутри омского IT-сообщества.
   * Пермь
       * [IT Perm - сообщество айтишников из П (vk)](https://vk.com/hacknewsperm), [IT Perm (telegram)](https://telegram.me/itperm): Интересное из мира IT в Перми. Митапы, конференции, вакансии, дискуссии, интервью. Без мотиваторов, котиков, цитат и 1С.
+      * [IT Way.Perm](https://vk.com/it_way_perm): Митапы IT Way для молодых специалистов в Перми
   * Ростов-на-Дону
       * [rndrug (facebook)](https://www.facebook.com/groups/rndrug/), [rndrug (telegram)](https://t.me/rndrug): Сообщество ruby-разработчиков.
       * [it61 (site)](https://it61.info): IT-сообщество Ростова-на-Дону. Регулярные митапы и конференции на технические и смежные с ними темы. Важная часть сообщества – онлайн-общение в slack и telegram.
@@ -90,6 +92,7 @@
   * Самара
       * [SamaraJS (site)](http://samarajs.ru): Сообщество (не только JavaScript) разработчиков. Основное общение в [slack](https://samarajsin.herokuapp.com).
       * [Samara IT Community (vk)](https://vk.com/samara_it_community): Сообщество Самарских работников и новичков сферы ИТ.
+      * [IT Way.Samara](https://vk.com/it_way_samara): Митапы IT Way для молодых специалистов в Самаре
   * Санкт-Петербург
       * [pitercss (vk)](https://vk.com/pitercss): Регулярные встречи по фронтенду в Петербурге: CSS, SVG, типографика, дизайн.
       * [Piter JS (vk)](https://vk.com/piterjs): JavaScript митап в Санкт-Петербурге.
@@ -111,10 +114,12 @@
       * [Mobifest (vk)](https://vk.com/mobifest): Встречи разработчиков под мобильные платформы. Проходит в Томске и Новосибирске.
       * [DevPro - Ежегодная конференция (site)](http://devpro.tomsk.ru/), [DevPro (vk)](https://vk.com/dev_pro), [DevPro (youtube)](https://www.youtube.com/channel/UCL9paXsOKnll7rYn5_4BESA) : Ежегодная конференция.
       * [Debug-Time - Конференция (site)](http://debug-time.unigine.com/): Конференция по C++, 3D.
+      * [IT Way.Tomsk](https://vk.com/it_way_tsk): Митапы IT Way для молодых специалистов в Томске
   * Ульяновск
       * [it-ulsk (facebook)](https://www.facebook.com/groups/it.ulsk/): Общение обо всем, преимущественно местные новости и активности
       * [CocoaHeads Ulyanovsk (facebook)](https://www.facebook.com/groups/cocoaheads.ulsk/): Сообщество и регулярные встречи разработчиков под iOS и Mac OS
       * [Fronthub (site)](http://fronthub.ru/), [slack](https://slack-fronthub.herokuapp.com/): городское front-end сообщество с ежегодной конференцией
+      * [IT Way.ULSK](https://vk.com/it_way_conf): Митапы IT Way для молодых специалистов в Ульяновске
   * Уфа
       * [Ufacoder (vk)](https://vk.com/ufacoder), [telegram](https://t.me/ufacoder): Уфимское IT сообщество. Встречи разработчиков в неформальной обстановке.
   * Хабаровск
