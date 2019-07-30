@@ -33,7 +33,7 @@
   * Волгоград
       * [IT-сообщество Волгограда "iT-34""](https://vk.com/it34_community): Наша цель - объединить разработчиков Волгограда и всех, кто связан с IT, в одном месте.
   * Вологда
-      * [Конференция разработчиков «DevParty»](https://devparty.ru): объединяем IT-профессионалов города и области. Ежегодно проводим конференцию и регулярные митапы. Дружим с другими областями (Ярославь, Кострома, Иваново).
+      * [Конференция разработчиков «DevParty»](https://devparty.ru): объединяем IT-профессионалов города и области. Ежегодно проводим конференцию и регулярные митапы. Дружим с другими областями (Ярославль, Кострома, Иваново).
   * Воронеж
       * [Глубокий Рефакторинг(facebook)](https://www.facebook.com/groups/deeprefactoring/): открытый клуб разработчиков и профессионалов IT-индустрии Воронежа. Мы регулярно проводим встречи в неформальной обстановке, на которых любой желающий может сделать доклад
   * Екатеринбург
@@ -53,7 +53,7 @@
   * Краснодар
       * [Krasnodar Dev Days (vk)](https://vk.com/krddevdays): IT-сообщество Краснодара, организация конференций и митапов, а также освещение городских IT-событий.
       * [Ruby Krasnodar (telegram)](https://t.me/rubykrd): Cообщество Ruby-разработчиков Краснодара.
-      * [Golang Krasnodar (meetup)](https://www.meetup.com/ru-RU/Golang-Krasnodar): Сообщество Goalang-разработчиков Краснодара.
+      * [Golang Krasnodar (meetup)](https://www.meetup.com/ru-RU/Golang-Krasnodar): Сообщество Golang-разработчиков Краснодара.
       * [GDG Krasnodar (meetup)](https://www.meetup.com/ru-RU/meetup-group-IfBrKrSH/): GDG Krasnodar - некоммерческое IT коммьюнити, в основе которого лежат технологии Google для разработчиков - под Android, Maps, App Engine, Chrome, Web Toolkit, Google Plus и другие.
       * [Red Code (meetup)](https://www.meetup.com/ru-RU/RedCode/): Offline встречи разработчиков - обмен опытом, технологические новинки, живое общение.
       * [Meetouch (meetup)](https://www.meetup.com/ru-RU/meetouch/): Meetouch — площадка для обмена опытом среди мобильных разработчиков и дизайнеров.
@@ -104,7 +104,7 @@
       * [SaratovJS (vk)](https://vk.com/saratovjs): Саратовское сообщество веб-разработчиков и дизайнеров.
       * [SarDotNet (vk)](https://vk.com/sardotnet): Саратовское сообщество .NET-разработчиков.
   * Таганрог
-      * [JS Tgn Weekends (vk)](https://vk.com/js_tgn): Сообщество JavaScript-разработчиков. Встречаемся раз в месяц. Обсуждаем JavaScript и прочие аспекты жизни разработчиков - soft skills, менеджемент, поиск заказов на фрилансе и т.д. Активная часть сообщества сидит в [телеграм-чате](https://t.me/js_tgn).
+      * [JS Tgn Weekends (vk)](https://vk.com/js_tgn): Сообщество JavaScript-разработчиков. Встречаемся раз в месяц. Обсуждаем JavaScript и прочие аспекты жизни разработчиков - soft skills, менеджмент, поиск заказов на фрилансе и т.д. Активная часть сообщества сидит в [телеграм-чате](https://t.me/js_tgn).
   * Тверь
       * [tverio (site)](http://tver.io): Тверское ИТ сообщество. Основное общение в slack. Периодические митапы и просто посиделки. Лекции в местных вузах на технических и математических факультетах.
   * Томск
@@ -128,7 +128,7 @@
       * [DersuDev](https://dersudev.wordpress.com): IT-сообщество профессиональных разработчиков в Хабаровске. Организуем онлайн обучение командной разработке для студентов дальневосточных университетов. Проводим конференцию "Программисты для программистов" раз в год. Без повода встречаемся гораздо чаще.
       * [nixDV](http://nixdv.ru): Дальневосточная open source конференция. А также прямые текстовые/фото/видео/звуковые трансляции с ИТ-мероприятий в Хабаровске. [nixDV в фейсбуке](https://www.facebook.com/nixdv/)
   * Челябинск
-      * [Python Community Chelyabinsk (vk)](https://vk.com/pychel): сообщество Python-разработчиков Чалябинска. Проводит [митапы](https://pychel.timepad.ru/events/), общается в [телеграм-чате](https://t.me/pychel).
+      * [Python Community Chelyabinsk (vk)](https://vk.com/pychel): сообщество Python-разработчиков Челябинска. Проводит [митапы](https://pychel.timepad.ru/events/), общается в [телеграм-чате](https://t.me/pychel).
   * Якутск
       * [FARDEV](https://t.me/fardev_chat): Дальневосточное сообщество специалистов в сфере информационных технологий.
   * Ярославль
@@ -151,7 +151,7 @@
 * Украина
   * Днепр
       * [LλMBDλ CLUB DNIPRO (site)](http://lambdaclub.net/8/): Доклады на этих встречах охватывают абсолютно разные темы и области программирования
-      * [DneprPy (site)](http://dneprpy.org.ua/): Встерчи python разработчиков
+      * [DneprPy (site)](http://dneprpy.org.ua/): Встречи python разработчиков
   * Запорожье
       * [Zengineers (site)](http://zengineers.it/), [(vk group)](https://vk.com/zengineers): Встречи с докладами и практикой по программированию. Общение в Slack
   * Киев
@@ -169,7 +169,7 @@
   * Харьков
       * [KharkivJS (site)](http://kharkivjs.org/): Конференции для JavaScript разработчиков
       * [KharkivCSS (site)](http://kharkivcss.org/): Конференции для фронтенд разработчиков, с уклоном в CSS
-      * [Kharkiv Frontend (site)](https://kharkivfrontend.org/), [(Facebook)](https://www.facebook.com/KharkivFrontend/), [(YouTube)](https://www.youtube.com/channel/UCjzSZ-j72m-AoAup9Tq6EoQ/playlists): митапы по фронтентду.
+      * [Kharkiv Frontend (site)](https://kharkivfrontend.org/), [(Facebook)](https://www.facebook.com/KharkivFrontend/), [(YouTube)](https://www.youtube.com/channel/UCjzSZ-j72m-AoAup9Tq6EoQ/playlists): митапы по фронтенду.
       * [KharkivPy (site)](http://kharkivpy.org.ua/): Встречи python разработчиков
       * [DjangoGirls Харьков (facebook)](https://www.facebook.com/djangogirlskh/?fref=ts): Митап для девушек, на котором они создают свой блог на python и django. Django Girls - это всемирная инициатива, направленная на то, чтобы помочь девушкам сделать первые шаги в IT.
       * [Съесть собаку (site)](https://eatdog.com.ua/): Регулярные встречи с экспертами в разработке. Приглашаются докладчики из различных отраслей
