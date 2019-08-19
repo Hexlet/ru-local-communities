@@ -116,6 +116,8 @@
       * [DevPro - Ежегодная конференция (site)](http://devpro.tomsk.ru/), [DevPro (vk)](https://vk.com/dev_pro), [DevPro (youtube)](https://www.youtube.com/channel/UCL9paXsOKnll7rYn5_4BESA) : Ежегодная конференция.
       * [Debug-Time - Конференция (site)](http://debug-time.unigine.com/): Конференция по C++, 3D.
       * [IT Way.Tomsk](https://vk.com/it_way_tsk): Митапы IT Way для молодых специалистов в Томске
+  *  Тюмень
+      * [GDG Tyumen](http://tmncode.cio72.ru/): Сообщество программистов Тюмени. Проводим митапы, встречаемся, общаемся
   * Ульяновск
       * [it-ulsk (facebook)](https://www.facebook.com/groups/it.ulsk/): Общение обо всем, преимущественно местные новости и активности
       * [CocoaHeads Ulyanovsk (facebook)](https://www.facebook.com/groups/cocoaheads.ulsk/): Сообщество и регулярные встречи разработчиков под iOS и Mac OS
