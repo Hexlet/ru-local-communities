@@ -72,8 +72,14 @@
       * [ElixirLangMoscow](http://elixir-lang.moscow/): Московское Elixir сообщество: проводим встречи, общаемся, едим пиццу.
       * [MoscowPython](https://www.facebook.com/groups/MoscowDjango/): Московское Python сообщество. Регулярные митапы, ежегодная конференция про Python и связанные технологии
   * Нижний Новгород
+      * [it52.info (site)](https://www.it52.info/): Нижегородское IT-сообщество
       * [IT52 - Нижегородское IT-сообщество (vk)](https://vk.com/it52info): IT и около в Нижнем Новгороде: конференции, митапы, хакатоны, встречи и, конечно, афтепати.
+      * [it52.info (telegram)](https://t.me/it52info): IT события в Нижнем Новгороде
       * [rannts (site)](http://rannts.ru): Нижегородские питонисты.
+      * [Scala NN (vk)](https://vk.com/scala_nn): Scala-митапы в Нижнем Новгороде
+      * [Scala NN (telegram)](https://t.me/scala_nn): Scala-митапы в Нижнем Новгороде
+      * [Kotlin Nizhny Novgorod User Group (vk)](https://vk.com/kotlin_nn): Kotlin-митапы в Нижнем Новгороде
+      * [Kotlin Nizhny Novgorod User Group (telegram)](https://t.me/kotlin_nn): Kotlin-митапы в Нижнем Новгороде
   * Новосибирск
       * [CodeFest - Ежегодная конференция (site)](https://codefest.ru/), [CodeFest (vk)](https://vk.com/codefest), [CodeFest (twitter)](https://twitter.com/codefest): Ежегодная двухдневная международная конференция.
       * [Mobifest (vk)](https://vk.com/mobifest): Встречи разработчиков под мобильные платформы. Проходит в Томске и Новосибирске.
