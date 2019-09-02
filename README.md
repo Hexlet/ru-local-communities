@@ -75,11 +75,35 @@
       * [it52.info (site)](https://www.it52.info/): Нижегородское IT-сообщество
       * [IT52 - Нижегородское IT-сообщество (vk)](https://vk.com/it52info): IT и около в Нижнем Новгороде: конференции, митапы, хакатоны, встречи и, конечно, афтепати.
       * [it52.info (telegram)](https://t.me/it52info): IT события в Нижнем Новгороде
-      * [rannts (site)](http://rannts.ru): Нижегородские питонисты.
-      * [Scala NN (vk)](https://vk.com/scala_nn): Scala-митапы в Нижнем Новгороде
-      * [Scala NN (telegram)](https://t.me/scala_nn): Scala-митапы в Нижнем Новгороде
+      * [Android NN (telegram)](https://t.me/android_nn): Android (Java, Kotlin)
+      * [DEFCON Нижний Новгород (site)](http://defcon-nn.ru): DEFCON Нижний Новгород
+      * [DEFCON Нижний Новгород (vk)](https://vk.com/defcon_nn): DEFCON Нижний Новгород
+      * [DEFCON Нижний Новгород (telegram)](https://t.me/defcon_nn): DEFCON Нижний Новгород
+      * [GDG Нижний Новгород (telegram channel)](https://t.me/gdgnn): Google Developers Group в Нижнем Новгороде
+      * [Golang Nizhny Novgorod (telegram)](https://t.me/golang_events_nizhny): События, связанные с Go в Нижнем Новгороде
+      * [Golang Nizhny Novgorod (vk)](https://vk.com/golang_nizhny): События, связанные с Go в Нижнем Новгороде
+      * [Golang Nizhny Novgorod (slack)](http://slack.golang-ru.com): Go в Нижнем Новгороде
+      * [Gamedevnn (telegram)](https://t.me/gamedevnn): Сообщество людей, неравнодушных к геймдеву
+      * [iOS NN devs (telegram)](https://t.me/iosnndevs): iOS (Objective-C, Swift), шарим книжки, статьи и экспириенс
+      * [Java User Group NN (telegram)](https://t.me/jugnn): Сообщество Java/Scala/Kotlin/Groovy программистов Нижнего Новгорода
+      * [JavaScript NN (telegram)](https://t.me/js_nn): Нижегородские JavaScript-программисты
+      * [Jenkins НиНо (telegram)](https://t.me/jenkins_nn): Чат организаторов и активистов сообщества Jenkins в Нижнем Новгороде
       * [Kotlin Nizhny Novgorod User Group (vk)](https://vk.com/kotlin_nn): Kotlin-митапы в Нижнем Новгороде
       * [Kotlin Nizhny Novgorod User Group (telegram)](https://t.me/kotlin_nn): Kotlin-митапы в Нижнем Новгороде
+      * [Nizhny Novgorod Linux Users Group (telegram)](https://t.me/nnlug): NN Linux user group
+      * [NN CV (telegram)](https://t.me/nn_cv): Computer Vision development community
+      * [NN GameDev (vk)](https://vk.com/gamedevnn): Разработка игр в Нижнем Новгороде
+      * [nnHack (telegram)](https://t.me/nnov_globalcityhack): Чат участников Global City Hackathon
+      * [nnstartups (telegram)](https://t.me/startupnn): стартаперы (и задумывающиеся) в Нижнем Новгороде  
+      * [rannts (site)](http://rannts.ru): Нижегородские питонисты.
+      * [rannts (telegram)](https://t.me/rannts): Нижегородские питонисты
+      * [Qt (telegram)](https://t.me/qt_52): Qt (C++)
+      * [Ruby User Group NN (telegram)](https://t.me/nnrug): Ruby в Нижнем Новгороде
+      * [Scala NN (vk)](https://vk.com/scala_nn): Scala-митапы в Нижнем Новгороде
+      * [Scala NN (telegram)](https://t.me/scala_nn): Scala-митапы в Нижнем Новгороде 
+      * [WTM Nizhny Novgorod (telegram channel)](https://t.me/wtm_nn): Women Techmakers от Google в Нижнем Новгороде
+      * [Хакерспейс CADR (site)](https://cadrspace.ru): Нижегородский хакерспейс CADR
+      * [Хакерспейс CADR (telegram)](https://t.me/cadr_hackerspace): Нижегородский хакерспейс CADR
   * Новосибирск
       * [CodeFest - Ежегодная конференция (site)](https://codefest.ru/), [CodeFest (vk)](https://vk.com/codefest), [CodeFest (twitter)](https://twitter.com/codefest): Ежегодная двухдневная международная конференция.
       * [Mobifest (vk)](https://vk.com/mobifest): Встречи разработчиков под мобильные платформы. Проходит в Томске и Новосибирске.
