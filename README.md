@@ -57,6 +57,7 @@
   * Краснодар
       * [Krasnodar Dev Days (vk)](https://vk.com/krddevdays): IT-сообщество Краснодара, организация конференций и митапов, а также освещение городских IT-событий.
       * [Ruby Krasnodar (telegram)](https://t.me/rubykrd): Cообщество Ruby-разработчиков Краснодара.
+      * [Krasnodar Frontend (telegram)](https://t.me/krdfrontend): Cообщество frontend-разработчиков Краснодара.
       * [Golang Krasnodar (meetup)](https://www.meetup.com/ru-RU/Golang-Krasnodar): Сообщество Golang-разработчиков Краснодара.
       * [GDG Krasnodar (meetup)](https://www.meetup.com/ru-RU/meetup-group-IfBrKrSH/): GDG Krasnodar - некоммерческое IT коммьюнити, в основе которого лежат технологии Google для разработчиков - под Android, Maps, App Engine, Chrome, Web Toolkit, Google Plus и другие.
       * [Red Code (meetup)](https://www.meetup.com/ru-RU/RedCode/): Offline встречи разработчиков - обмен опытом, технологические новинки, живое общение.
