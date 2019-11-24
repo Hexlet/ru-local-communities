@@ -115,7 +115,7 @@
   * Омск
       * [omskit (vk)](https://vk.com/omskit): IT-субботники — это бесплатные мини-конференции, состоящие из 3-4 докладов и свободного общения, развивают горизонтальные связи внутри омского IT-сообщества.
   * Пермь
-      * [IT Perm - сообщество айтишников из П (vk)](https://vk.com/hacknewsperm), [IT Perm (telegram)](https://telegram.me/itperm): Интересное из мира IT в Перми. Митапы, конференции, вакансии, дискуссии, интервью. Без мотиваторов, котиков, цитат и 1С.
+      * [IT Perm - Пермское сообщество разработчиков и IT инженеров. (vk)](https://vk.com/itperm), [IT Perm (telegram)](https://telegram.me/itperm): Интересное из мира IT в Перми. Митапы, конференции, вакансии, дискуссии, интервью. Без мотиваторов, котиков, цитат и 1С.
       * [IT Way.Perm](https://vk.com/it_way_perm): Митапы IT Way для молодых специалистов в Перми
   * Ростов-на-Дону
       * [rndrug (facebook)](https://www.facebook.com/groups/rndrug/), [rndrug (telegram)](https://t.me/rndrug): Сообщество ruby-разработчиков.
