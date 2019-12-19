@@ -23,6 +23,8 @@
 * Россия
   * Абакан
       * [Абаканский клуб программистов "λ-calculus"](http://lambda-calculus.ru/): Организация IT-конференций и турниров по программированию.
+  * Барнаул
+      * [Barnaul Digital community](https://vk.com/digicombarnaul) — первое профессиональное сообщество специалистов и управленцев, неравнодушных к digital и IT в целом. Чаты в Telegram: [Основной](https://t.me/dmcbarnaul), [Чат разработчиков](https://t.me/devbarnaul), [PM чат](https://t.me/pmbrn), [Чат дизайнеров](https://t.me/designbrn), [GameDev чат](https://t.me/brn_gamedev).
   * Биробиджан
       * [FARDEV](https://t.me/fardev_chat): Дальневосточное сообщество специалистов в сфере информационных технологий.
   * Благовещенск
