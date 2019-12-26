@@ -23,6 +23,8 @@
 * Россия
   * Абакан
       * [Абаканский клуб программистов "λ-calculus"](http://lambda-calculus.ru/): Организация IT-конференций и турниров по программированию.
+  * Барнаул
+      * [Barnaul Digital community](https://vk.com/digicombarnaul) — первое профессиональное сообщество специалистов и управленцев, неравнодушных к digital и IT в целом. Чаты в Telegram: [Основной](https://t.me/dmcbarnaul), [Чат разработчиков](https://t.me/devbarnaul), [PM чат](https://t.me/pmbrn), [Чат дизайнеров](https://t.me/designbrn), [GameDev чат](https://t.me/brn_gamedev).
   * Биробиджан
       * [FARDEV](https://t.me/fardev_chat): Дальневосточное сообщество специалистов в сфере информационных технологий.
   * Благовещенск
@@ -57,6 +59,7 @@
   * Краснодар
       * [Krasnodar Dev Days (vk)](https://vk.com/krddevdays): IT-сообщество Краснодара, организация конференций и митапов, а также освещение городских IT-событий.
       * [Ruby Krasnodar (telegram)](https://t.me/rubykrd): Cообщество Ruby-разработчиков Краснодара.
+      * [Krasnodar Frontend (telegram)](https://t.me/krdfrontend): Cообщество frontend-разработчиков Краснодара.
       * [Golang Krasnodar (meetup)](https://www.meetup.com/ru-RU/Golang-Krasnodar): Сообщество Golang-разработчиков Краснодара.
       * [GDG Krasnodar (meetup)](https://www.meetup.com/ru-RU/meetup-group-IfBrKrSH/): GDG Krasnodar - некоммерческое IT коммьюнити, в основе которого лежат технологии Google для разработчиков - под Android, Maps, App Engine, Chrome, Web Toolkit, Google Plus и другие.
       * [Red Code (meetup)](https://www.meetup.com/ru-RU/RedCode/): Offline встречи разработчиков - обмен опытом, технологические новинки, живое общение.
@@ -114,7 +117,7 @@
   * Омск
       * [omskit (vk)](https://vk.com/omskit): IT-субботники — это бесплатные мини-конференции, состоящие из 3-4 докладов и свободного общения, развивают горизонтальные связи внутри омского IT-сообщества.
   * Пермь
-      * [IT Perm - сообщество айтишников из П (vk)](https://vk.com/hacknewsperm), [IT Perm (telegram)](https://telegram.me/itperm): Интересное из мира IT в Перми. Митапы, конференции, вакансии, дискуссии, интервью. Без мотиваторов, котиков, цитат и 1С.
+      * [IT Perm - Пермское сообщество разработчиков и IT инженеров. (vk)](https://vk.com/itperm), [IT Perm (telegram)](https://telegram.me/itperm): Интересное из мира IT в Перми. Митапы, конференции, вакансии, дискуссии, интервью. Без мотиваторов, котиков, цитат и 1С.
       * [IT Way.Perm](https://vk.com/it_way_perm): Митапы IT Way для молодых специалистов в Перми
   * Ростов-на-Дону
       * [rndrug (facebook)](https://www.facebook.com/groups/rndrug/), [rndrug (telegram)](https://t.me/rndrug): Сообщество ruby-разработчиков.
@@ -137,6 +140,8 @@
       * [Data Science Saratov (vk)](https://vk.com/datasciencesaratov): Саратовское сообщество дата сайнтистов и им сочувствующих.
       * [SaratovJS (vk)](https://vk.com/saratovjs): Саратовское сообщество веб-разработчиков и дизайнеров.
       * [SarDotNet (vk)](https://vk.com/sardotnet): Саратовское сообщество .NET-разработчиков.
+  * Сочи
+      * [IT Сообщество Сочи (telegram)](https://t.me/it_sochi): Пространство для людей из всех направлений IT-индустрии, которые живут или хотят переехать в Сочи.
   * Таганрог
       * [JS Tgn Weekends (vk)](https://vk.com/js_tgn): Сообщество JavaScript-разработчиков. Встречаемся раз в месяц. Обсуждаем JavaScript и прочие аспекты жизни разработчиков - soft skills, менеджмент, поиск заказов на фрилансе и т.д. Активная часть сообщества сидит в [телеграм-чате](https://t.me/js_tgn).
   * Тверь
