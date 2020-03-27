@@ -120,6 +120,7 @@
   * Пермь
       * [IT Perm - Пермское сообщество разработчиков и IT инженеров. (vk)](https://vk.com/itperm), [IT Perm (telegram)](https://telegram.me/itperm): Интересное из мира IT в Перми. Митапы, конференции, вакансии, дискуссии, интервью. Без мотиваторов, котиков, цитат и 1С.
       * [IT Way.Perm](https://vk.com/it_way_perm): Митапы IT Way для молодых специалистов в Перми
+      * [Cherdak Events. DevRel Perm (telegram)](https://t.me/DevRelPerm) - площадка Xsolla. IT встречи, доклады, митапы, нетворкинг
   * Ростов-на-Дону
       * [rndrug (facebook)](https://www.facebook.com/groups/rndrug/), [rndrug (telegram)](https://t.me/rndrug): Сообщество ruby-разработчиков.
       * [it61 (site)](https://it61.info): IT-сообщество Ростова-на-Дону. Регулярные митапы и конференции на технические и смежные с ними темы. Важная часть сообщества – онлайн-общение в slack и telegram.
