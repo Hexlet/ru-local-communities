@@ -65,6 +65,7 @@
       * [GDG Krasnodar (meetup)](https://www.meetup.com/ru-RU/meetup-group-IfBrKrSH/): GDG Krasnodar - некоммерческое IT коммьюнити, в основе которого лежат технологии Google для разработчиков - под Android, Maps, App Engine, Chrome, Web Toolkit, Google Plus и другие.
       * [Red Code (meetup)](https://www.meetup.com/ru-RU/RedCode/): Offline встречи разработчиков - обмен опытом, технологические новинки, живое общение.
       * [Meetouch (meetup)](https://www.meetup.com/ru-RU/meetouch/): Meetouch — площадка для обмена опытом среди мобильных разработчиков и дизайнеров.
+      * [Южное сообщество Drupal (vk)](https://vk.com/drupalyug): Cообщество Drupal-разработчиков Краснодара.
   * Красноярск
       * [Dev2Dev (vk)](https://vk.com/dev2dev): IT-сообщество, созданное разработчиками для разработчиков. Конференции, мастер-классы, митапы.
       * [Krasdevmeetups](https://devmeetups.ru/): Еженедельные неформальные встречи разработчиков. Мы встречаемся, чтобы делиться опытом, обсуждать интересные темы, вместе создавать проекты и общаться с единомышленниками.
