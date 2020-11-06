@@ -156,7 +156,7 @@
       * [TomskML (vk)](https://vk.com/tomskml), [TomskML (slack)](https://tomskml.slack.com): Машинное обучение.
       * [Gorod.IT - Ежегодная конференция (site)](https://gorod.it/), [Gorod.IT (vk)](https://vk.com/gorodit), [CodeFest (twitter)](https://twitter.com/Gorod_IT): Ежегодная двухдневная конференция.
       * [Mobifest (vk)](https://vk.com/mobifest): Встречи разработчиков под мобильные платформы. Проходит в Томске и Новосибирске.
-      * [DevPro - Ежегодная конференция (site)](http://devpro.tomsk.ru/), [DevPro (vk)](https://vk.com/dev_pro), [DevPro (youtube)](https://www.youtube.com/channel/UCL9paXsOKnll7rYn5_4BESA) : Ежегодная конференция.
+      * [DevPro (vk)](https://vk.com/dev_pro), [DevPro (youtube)](https://www.youtube.com/channel/UCL9paXsOKnll7rYn5_4BESA) : Ежегодная конференция.
       * [Debug-Time - Конференция (site)](http://debug-time.unigine.com/): Конференция по C++, 3D.
       * [IT Way.Tomsk](https://vk.com/it_way_tsk): Митапы IT Way для молодых специалистов в Томске
   *  Тюмень
