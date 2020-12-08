@@ -25,12 +25,7 @@
       * [Абаканский клуб программистов "λ-calculus" (site)](http://lambda-calculus.ru/), ["λ-calculus" (vk)](https://vk.com/lambda_club): Организация IT-конференций и турниров по программированию, анонсы мероприятий, предложения о работе.
   * Барнаул
       * [Barnaul Digital community](https://vk.com/digicombarnaul) — первое профессиональное сообщество специалистов и управленцев, неравнодушных к digital и IT в целом. Чаты в Telegram: [Основной](https://t.me/dmcbarnaul), [Чат разработчиков](https://t.me/devbarnaul), [PM чат](https://t.me/pmbrn), [Чат дизайнеров](https://t.me/designbrn), [GameDev чат](https://t.me/brn_gamedev).
-  * Биробиджан
-      * [FARDEV](https://t.me/fardev_chat): Дальневосточное сообщество специалистов в сфере информационных технологий.
-  * Благовещенск
-      * [FARDEV](https://t.me/fardev_chat): Дальневосточное сообщество специалистов в сфере информационных технологий.
   * Владивосток
-      * [FARDEV](https://t.me/fardev_chat): Дальневосточное сообщество специалистов в сфере информационных технологий.
       * [VLDC (site)](https://vldc.org): IT-сообщество Владивостока. Стараемся проводить хотя бы одну-две встречи в год. Годится любой повод: Google DevFest или I/O, Андрей Ситник прилетел, или ещё что. Активная часть сообщества сидит в [телеграм-чате](https://t.me/vldchat).
   * Волгоград
       * [IT-сообщество Волгограда "iT-34""](https://vk.com/it34_community): Наша цель - объединить разработчиков Волгограда и всех, кто связан с IT, в одном месте.
@@ -51,10 +46,8 @@
       * [IT Way.Kzn](https://vk.com/it_way_kzn): Митапы IT Way для молодых специалистов в Казани
       * [KazanJS](https://t.me/kazanjs): Крупнейшее сообщество разработчиков в Казани. Примерно раз в два месяца проводятся митапы с местными и приглашенными спикерами и раз в два месяца неформальные встречи.
   * Калининград
-      * [GDG Kaliningrad Чат](https://t.me/gdgkaliningrad): Чат местного сообщества GDG (Google Developer Group)
-      * [DevFest](http://devfest.kantiana.ru/): Ежегодная ИТ-конференция в Калининграде
-  * Комсомольск-на-Амуре
-      * [FARDEV](https://t.me/fardev_chat): Дальневосточное сообщество специалистов в сфере информационных технологий.
+      * [GDG Kaliningrad Чат](https://t.me/gdgkaliningrad): Чат местного сообщества GDG (Google Developer Group).
+      * [DevFest](http://devfest.kantiana.ru/): Ежегодная ИТ-конференция в Калининграде.
   * Краснодар
       * [Krasnodar Dev Days (vk)](https://vk.com/krddevdays): IT-сообщество Краснодара, организация конференций и митапов, а также освещение городских IT-событий.
       * [Ruby Krasnodar (telegram)](https://t.me/rubykrd): Cообщество Ruby-разработчиков Краснодара.
@@ -120,6 +113,7 @@
       * [IT Perm - Пермское сообщество разработчиков и IT инженеров. (vk)](https://vk.com/itperm), [IT Perm (telegram)](https://telegram.me/itperm): Интересное из мира IT в Перми. Митапы, конференции, вакансии, дискуссии, интервью. Без мотиваторов, котиков, цитат и 1С.
       * [IT Way.Perm](https://vk.com/it_way_perm): Митапы IT Way для молодых специалистов в Перми
       * [Cherdak Events. DevRel Perm (telegram)](https://t.me/DevRelPerm) - площадка Xsolla. IT встречи, доклады, митапы, нетворкинг
+      * [GameDev Perm (telegram)](https://t.me/GameDev_Perm) - Открытое сообщество игровых разработчиков Перми и тех, кто интересуется игровой индустрией в принципе.
   * Ростов-на-Дону
       * [rndrug (facebook)](https://www.facebook.com/groups/rndrug/), [rndrug (telegram)](https://t.me/rndrug): Сообщество ruby-разработчиков.
       * [it61 (site)](https://it61.info): IT-сообщество Ростова-на-Дону. Регулярные митапы и конференции на технические и смежные с ними темы. Важная часть сообщества – онлайн-общение в slack и telegram.
@@ -154,7 +148,7 @@
       * [TomskML (vk)](https://vk.com/tomskml), [TomskML (slack)](https://tomskml.slack.com): Машинное обучение.
       * [Gorod.IT - Ежегодная конференция (site)](https://gorod.it/), [Gorod.IT (vk)](https://vk.com/gorodit), [CodeFest (twitter)](https://twitter.com/Gorod_IT): Ежегодная двухдневная конференция.
       * [Mobifest (vk)](https://vk.com/mobifest): Встречи разработчиков под мобильные платформы. Проходит в Томске и Новосибирске.
-      * [DevPro - Ежегодная конференция (site)](http://devpro.tomsk.ru/), [DevPro (vk)](https://vk.com/dev_pro), [DevPro (youtube)](https://www.youtube.com/channel/UCL9paXsOKnll7rYn5_4BESA) : Ежегодная конференция.
+      * [DevPro (vk)](https://vk.com/dev_pro), [DevPro (youtube)](https://www.youtube.com/channel/UCL9paXsOKnll7rYn5_4BESA) : Ежегодная конференция.
       * [Debug-Time - Конференция (site)](http://debug-time.unigine.com/): Конференция по C++, 3D.
       * [IT Way.Tomsk](https://vk.com/it_way_tsk): Митапы IT Way для молодых специалистов в Томске
   *  Тюмень
@@ -167,16 +161,13 @@
   * Уфа
       * [Ufacoder (vk)](https://vk.com/ufacoder), [telegram](https://t.me/ufacoder): Уфимское IT сообщество. Встречи разработчиков в неформальной обстановке.
   * Хабаровск
-      * [FARDEV](https://t.me/fardev_chat): Дальневосточное сообщество специалистов в сфере информационных технологий.
       * [XADEV](https://t.me/xadev_chat): Самое большое и быстро растущее сообщество разработчиков Хабаровска.
       * [DersuDev](https://dersudev.wordpress.com): IT-сообщество профессиональных разработчиков в Хабаровске. Организуем онлайн обучение командной разработке для студентов дальневосточных университетов. Проводим конференцию "Программисты для программистов" раз в год. Без повода встречаемся гораздо чаще.
-      * [nixDV](http://nixdv.ru): Дальневосточная open source конференция. А также прямые текстовые/фото/видео/звуковые трансляции с ИТ-мероприятий в Хабаровске. [nixDV в фейсбуке](https://www.facebook.com/nixdv/)
+      * [nixDV](https://nixdv.org/): Дальневосточная open source конференция. А также прямые текстовые/фото/видео/звуковые трансляции с ИТ-мероприятий в Хабаровске. [nixDV в фейсбуке](https://www.facebook.com/nixdv/)
   * Чебоксары
       * [IT в солнечной Чувашии](https://t.me/itcheb): Группа в Telegram об ИТ в солнечной Чувашии.
   * Челябинск
       * [Python Community Chelyabinsk (vk)](https://vk.com/pychel): сообщество Python-разработчиков Челябинска. Проводит [митапы](https://pychel.timepad.ru/events/), общается в [телеграм-чате](https://t.me/pychel).
-  * Якутск
-      * [FARDEV](https://t.me/fardev_chat): Дальневосточное сообщество специалистов в сфере информационных технологий.
   * Ярославль
       * [Yaroslavl Frontend Meetup](http://yarfrontend.ru): Площадка для регулярного неформального общения разработчиков, объединенных „по технологическому признаку“, занимающихся разработкой на веб-технологиях (JavaScript, HTML, CSS, и т.д.)
 * Беларусь
