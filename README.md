@@ -107,6 +107,7 @@
       * [Хакерспейс CADR (telegram)](https://t.me/cadr_hackerspace): Нижегородский хакерспейс CADR
   * Новосибирск
       * [CodeFest - Ежегодная конференция (site)](https://codefest.ru/), [CodeFest (vk)](https://vk.com/codefest), [CodeFest (twitter)](https://twitter.com/codefest): Ежегодная двухдневная международная конференция.
+      * [DEVNSK (telegram)](https://t.me/DEVNSK): Сообщество IT-инженеров г. Новосибирск.
       * [Mobifest (vk)](https://vk.com/mobifest): Встречи разработчиков под мобильные платформы. Проходит в Томске и Новосибирске.
       * [JUGNsk (meetup)](https://www.meetup.com/JUGNsk/), [JUGNsk (vk)](https://vk.com/jugnsk), [JUGNsk (twitter)](https://twitter.com/jugnsk), [JUGNsk (telegram)](https://t.me/jugnsk): Сообщество Java разработчиков в Новосибирске. Митапы, встречи, обсуждения про Java.
   * Омск
