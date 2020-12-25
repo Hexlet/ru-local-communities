@@ -48,8 +48,6 @@
   * Калининград
       * [GDG Kaliningrad Чат](https://t.me/gdgkaliningrad): Чат местного сообщества GDG (Google Developer Group)
       * [DevFest](http://devfest.kantiana.ru/): Ежегодная ИТ-конференция в Калининграде
-  * Кострома
-      * [Kostroma Backend Meetup](https://kosbackend.ru): Площадка для регулярного неформального общения разработчиков и системных администраторов. Основной круг тем, предлагаемых для обсуждения на площадке — это вопросы разработки и эксплуатации серверных приложений.
   * Краснодар
       * [Krasnodar Dev Days (vk)](https://vk.com/krddevdays): IT-сообщество Краснодара, организация конференций и митапов, а также освещение городских IT-событий.
       * [Ruby Krasnodar (telegram)](https://t.me/rubykrd): Cообщество Ruby-разработчиков Краснодара.
