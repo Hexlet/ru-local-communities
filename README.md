@@ -152,6 +152,8 @@
       * [DevPro (vk)](https://vk.com/dev_pro), [DevPro (youtube)](https://www.youtube.com/channel/UCL9paXsOKnll7rYn5_4BESA) : Ежегодная конференция.
       * [Debug-Time - Конференция (site)](http://debug-time.unigine.com/): Конференция по C++, 3D.
       * [IT Way.Tomsk](https://vk.com/it_way_tsk): Митапы IT Way для молодых специалистов в Томске
+  * Тула
+      * [IT Community Tula](https://tulaitcommunity.ru/), [IT Community Tula (vk)](https://vk.com/it_community_tula), [IT Community Tula (fb)](https://www.facebook.com/itcommunitytula/): Разговоры о цифровых продуктах и инновациях IT-среды
   *  Тюмень
       * [GDG Tyumen](http://tmncode.cio72.ru/): Сообщество программистов Тюмени. Проводим митапы, встречаемся, общаемся
   * Ульяновск
