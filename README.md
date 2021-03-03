@@ -40,6 +40,8 @@
       * [Конференция разработчиков DUMP-2019 (vk)](https://vk.com/dumpconf): Уральская IT-конференция DUMP (Development, Usability, Management, Practice). Доклады идут в 8 секциях: Backend, Frontend, Mobile, Тестирование и QA, Devops, Design, Science и Management.
   * Иркутск
       * [BaikalDev.Club (facebook)](https://www.facebook.com/BaikalDev.Club/): IT-сообщество Иркутска, организация докладов, хакатонов.
+      * [IrkPHP](https://t.me/irkphp) Сообщество PHP-разработчиков
+      * [ITLobby](https://t.me/lobbyit) Чат Иркутского IT-сообщества
   * Йошкар-Ола
       * [IT-мероприятия Йошкар-Олы](https://t.me/it_yola): Мероприятия в сфере высоких технологий (конференции, хакатоны, митапы, курсы).
       * [Frontend Yola](https://t.me/frontend_yola): Сообщество фронтенд разработчиков Йошкар-Олы.
