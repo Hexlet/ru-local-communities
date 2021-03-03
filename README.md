@@ -217,7 +217,7 @@
   * Одесса
       * [OdessaJS (site)](http://odessajs.org/): Конференции для JavaScript разработчиков
       * [OdHUG (site)](http://www.haskell.od.ua/site/): Одесская группа пользователей Haskell 
-      * [It-клуб Одессы(Telegram)](https://t.me/itClubOdessa) [site](http://it-club.od.ua) Официальный сайт Одесского IT-Клуба, мероприятия из жизни Клуба
+      * [It-клуб Одессы(Telegram)](https://t.me/itClubOdessa) [site](http://it-club.od.ua) Одесский IT-Клуб
   * Харьков
       * [KharkivJS (site)](http://kharkivjs.org/): Конференции для JavaScript разработчиков
       * [KharkivCSS (site)](http://kharkivcss.org/): Конференции для фронтенд разработчиков, с уклоном в CSS
