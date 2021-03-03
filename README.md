@@ -42,7 +42,7 @@
       * [BaikalDev.Club (facebook)](https://www.facebook.com/BaikalDev.Club/): IT-сообщество Иркутска, организация докладов, хакатонов.
   * Йошкар-Ола
       * [IT-мероприятия Йошкар-Олы](https://t.me/it_yola): Мероприятия в сфере высоких технологий (конференции, хакатоны, митапы, курсы).
-      * [Frontend Yola](https://t.me/it_yola): Сообщество фронтенд разработчиков Йошкар-Олы.
+      * [Frontend Yola](https://t.me/frontend_yola): Сообщество фронтенд разработчиков Йошкар-Олы.
       * [DevOps Yola](https://t.me/devops_yola): Канал для митапов DevOps в Йошкар-Оле.
       * [Yola Mobile Dev](https://t.me/yolamobiledev): Сообщество мобильных разработчиков Йошкар-Олы.
       * [PHP Yola](https://t.me/php_yola): PHP сообщество Йошкар-Олы.
