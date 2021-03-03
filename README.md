@@ -40,6 +40,15 @@
       * [Конференция разработчиков DUMP-2019 (vk)](https://vk.com/dumpconf): Уральская IT-конференция DUMP (Development, Usability, Management, Practice). Доклады идут в 8 секциях: Backend, Frontend, Mobile, Тестирование и QA, Devops, Design, Science и Management.
   * Иркутск
       * [BaikalDev.Club (facebook)](https://www.facebook.com/BaikalDev.Club/): IT-сообщество Иркутска, организация докладов, хакатонов.
+  * Йошкар-Ола
+      * [IT-мероприятия Йошкар-Олы](https://t.me/it_yola): Мероприятия в сфере высоких технологий (конференции, хакатоны, митапы, курсы).
+      * [Frontend Yola](https://t.me/it_yola): Сообщество фронтенд разработчиков Йошкар-Олы.
+      * [DevOps Yola](https://t.me/devops_yola): Канал для митапов DevOps в Йошкар-Оле.
+      * [Yola Mobile Dev](https://t.me/yolamobiledev): Сообщество мобильных разработчиков Йошкар-Олы.
+      * [PHP Yola](https://t.me/php_yola): PHP сообщество Йошкар-Олы.
+      * [QA_OLA](https://t.me/qa_ola): Сообщество тестировщиков Йошкар-Олы.
+      * [Go Yola](https://t.me/go_yola): Golang сообщество Йошкар-Олы.
+      * [IT-вакансии Йошкар-Олы](https://t.me/it_job_yola): IT-вакансии Йошкар-Олы.
   * Казань
       * [Kazan Frontend Developers](https://t.me/kazanfrontend): сообщество фронтенд разработчиков Казани
       * [Kazan DevDay](https://t.me/devdaykzn): Ежемесячный митап. Пьем чай, делимся опытом.
