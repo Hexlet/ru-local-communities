@@ -134,6 +134,8 @@
       * [RndTech (vk)](https://vk.com/rndtech), [RndTech (telegram)](https://t.me/rndtechchat), [RndTech (meetup)](https://www.meetup.com/ru-RU/RostovITEvents/): городское IT-сообщество Ростова-на-Дону и Таганрога. Митапы, конференции, соревнования и общение.
   * Рыбинск
       * [IT-Friday](https://vk.com/it_friday): IT-Friday - уникальное для Рыбинска мероприятие, куда приглашаются все те, кто живет ИТ-технологиями. Вас будут ждать интересные люди, различные проекты, соответствующая атмосфера, печеньки и плюшки.
+  * Рязань
+      * [WebPurple](https://webpurple.net/): Рязанское сообщество веб-разработчиков и веб-дизайнеров. Общаемся и организуемся в чатике в [Telegram](https://t.me/WebPurple).
   * Самара
       * [SamaraJS (site)](http://samarajs.ru): Сообщество (не только JavaScript) разработчиков. Основное общение в [slack](https://samarajsin.herokuapp.com).
       * [Samara IT Community (vk)](https://vk.com/samara_it_community): Сообщество Самарских работников и новичков сферы ИТ.
