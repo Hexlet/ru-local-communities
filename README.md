@@ -121,6 +121,7 @@
       * [DEVNSK (telegram)](https://t.me/DEVNSK): Сообщество IT-инженеров г. Новосибирск.
       * [Mobifest (vk)](https://vk.com/mobifest): Встречи разработчиков под мобильные платформы. Проходит в Томске и Новосибирске.
       * [JUGNsk (meetup)](https://www.meetup.com/JUGNsk/), [JUGNsk (vk)](https://vk.com/jugnsk), [JUGNsk (twitter)](https://twitter.com/jugnsk), [JUGNsk (telegram)](https://t.me/jugnsk): Сообщество Java разработчиков в Новосибирске. Митапы, встречи, обсуждения про Java.
+      * [BeerPHP (telegram)](https://t.me/beerphp_nsk): Сообщество PHP разработчиков г. Новосибирск.
   * Омск
       * [omskit (vk)](https://vk.com/omskit): IT-субботники — это бесплатные мини-конференции, состоящие из 3-4 докладов и свободного общения, развивают горизонтальные связи внутри омского IT-сообщества.
   * Пермь
