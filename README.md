@@ -59,6 +59,8 @@
   * Калининград
       * [GDG Kaliningrad Чат](https://t.me/gdgkaliningrad): Чат местного сообщества GDG (Google Developer Group)
       * [DevFest](http://devfest.kantiana.ru/): Ежегодная ИТ-конференция в Калининграде
+  * Кемерово
+      * [IT-community Kemerovo (tg)](https://t.me/IT_kmr): IT-тусовка Кемерово. Мероприятия: митапы, хакатоны и встречи.
   * Краснодар
       * [Krasnodar Dev Days (vk)](https://vk.com/krddevdays): IT-сообщество Краснодара, организация конференций и митапов, а также освещение городских IT-событий.
       * [Ruby Krasnodar (telegram)](https://t.me/rubykrd): Cообщество Ruby-разработчиков Краснодара.
