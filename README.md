@@ -121,7 +121,6 @@
   * Новосибирск
       * [CodeFest - Ежегодная конференция (site)](https://codefest.ru/), [CodeFest (vk)](https://vk.com/codefest), [CodeFest (twitter)](https://twitter.com/codefest): Ежегодная двухдневная международная конференция.
       * [DEVNSK (telegram)](https://t.me/DEVNSK): Сообщество IT-инженеров г. Новосибирск.
-      * [Mobifest (vk)](https://vk.com/mobifest): Встречи разработчиков под мобильные платформы. Проходит в Томске и Новосибирске.
       * [JUGNsk (meetup)](https://www.meetup.com/JUGNsk/), [JUGNsk (vk)](https://vk.com/jugnsk), [JUGNsk (twitter)](https://twitter.com/jugnsk), [JUGNsk (telegram)](https://t.me/jugnsk): Сообщество Java разработчиков в Новосибирске. Митапы, встречи, обсуждения про Java.
       * [BeerPHP (telegram)](https://t.me/beerphp_nsk): Сообщество PHP разработчиков г. Новосибирск.
   * Омск
@@ -166,7 +165,6 @@
       * [TomskJS (vk)](https://vk.com/tomskjs), [TomskJS (fb)](https://fb.com/tomskjs), [TomskJS (slack)](https://tomskjs.slack.com): Небольшие frontend митапы.
       * [TomskML (vk)](https://vk.com/tomskml), [TomskML (slack)](https://tomskml.slack.com): Машинное обучение.
       * [Gorod.IT - Ежегодная конференция (site)](https://gorod.it/), [Gorod.IT (vk)](https://vk.com/gorodit), [CodeFest (twitter)](https://twitter.com/Gorod_IT): Ежегодная двухдневная конференция.
-      * [Mobifest (vk)](https://vk.com/mobifest): Встречи разработчиков под мобильные платформы. Проходит в Томске и Новосибирске.
       * [DevPro (vk)](https://vk.com/dev_pro), [DevPro (youtube)](https://www.youtube.com/channel/UCL9paXsOKnll7rYn5_4BESA) : Ежегодная конференция.
       * [Debug-Time - Конференция (site)](http://debug-time.unigine.com/): Конференция по C++, 3D.
       * [IT Way.Tomsk](https://vk.com/it_way_tsk): Митапы IT Way для молодых специалистов в Томске
