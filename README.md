@@ -187,6 +187,7 @@
       * [IT в солнечной Чувашии](https://t.me/itcheb): Группа в Telegram об ИТ в солнечной Чувашии.
   * Челябинск
       * [Python Community Chelyabinsk (vk)](https://vk.com/pychel): сообщество Python-разработчиков Челябинска. Проводит [митапы](https://pychel.timepad.ru/events/), общается в [телеграм-чате](https://t.me/pychel).
+      * [Beer.js Chelyabinsk](https://github.com/beerjs/chelyabinsk): Неформальные встречи челябинских фронтенд разработчиков. Обсуждаем Javascript, фреймворки, новости, проблемы и лучшие практики. Иногда проводим небольшие доклады. [Телеграм-чат](https://t.me/beerjs_chel)
   * Ярославль
       * [Yaroslavl Frontend Meetup](http://yarfrontend.ru): Площадка для регулярного неформального общения разработчиков, объединенных „по технологическому признаку“, занимающихся разработкой на веб-технологиях (JavaScript, HTML, CSS, и т.д.)
 * Беларусь
