@@ -125,6 +125,8 @@
       * [BeerPHP (telegram)](https://t.me/beerphp_nsk): Сообщество PHP разработчиков г. Новосибирск.
   * Омск
       * [omskit (vk)](https://vk.com/omskit): IT-субботники — это бесплатные мини-конференции, состоящие из 3-4 докладов и свободного общения, развивают горизонтальные связи внутри омского IT-сообщества.
+  * Орехово-Зуево
+      * [Oz IT (telegram)](https://t.me/oz_it_club): IT-сообщество г.о. Орехово-Зуево.
   * Пермь
       * [IT Perm - Пермское сообщество разработчиков и IT инженеров. (vk)](https://vk.com/itperm), [IT Perm (telegram)](https://telegram.me/itperm): Интересное из мира IT в Перми. Митапы, конференции, вакансии, дискуссии, интервью. Без мотиваторов, котиков, цитат и 1С.
       * [IT Way.Perm](https://vk.com/it_way_perm): Митапы IT Way для молодых специалистов в Перми
@@ -170,7 +172,7 @@
       * [IT Way.Tomsk](https://vk.com/it_way_tsk): Митапы IT Way для молодых специалистов в Томске
   * Тула
       * [IT Community Tula](https://tulaitcommunity.ru/), [IT Community Tula (vk)](https://vk.com/it_community_tula), [IT Community Tula (fb)](https://www.facebook.com/itcommunitytula/): Разговоры о цифровых продуктах и инновациях IT-среды
-  *  Тюмень
+  * Тюмень
       * [GDG Tyumen](http://tmncode.cio72.ru/): Сообщество программистов Тюмени. Проводим митапы, встречаемся, общаемся
   * Ульяновск
       * [it-ulsk (facebook)](https://www.facebook.com/groups/it.ulsk/): Общение обо всем, преимущественно местные новости и активности
