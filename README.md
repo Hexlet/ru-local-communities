@@ -25,6 +25,8 @@
       * [Абаканский клуб программистов "λ-calculus" (site)](http://lambda-calculus.ru/), ["λ-calculus" (vk)](https://vk.com/lambda_club): Организация IT-конференций и турниров по программированию, анонсы мероприятий, предложения о работе.
   * Барнаул
       * [Barnaul Digital community](https://vk.com/digicombarnaul) — первое профессиональное сообщество специалистов и управленцев, неравнодушных к digital и IT в целом. Чаты в Telegram: [Основной](https://t.me/dmcbarnaul), [Чат разработчиков](https://t.me/devbarnaul), [PM чат](https://t.me/pmbrn), [Чат дизайнеров](https://t.me/designbrn), [GameDev чат](https://t.me/brn_gamedev).
+  * Белгород
+      * [Belgorod Frontend](https://t.me/belgorod_frontend): сообщество фронтендеров, проводим встречи, общаемся.
   * Владивосток
       * [VLDC (site)](https://vldc.org): IT-сообщество Владивостока. Стараемся проводить хотя бы одну-две встречи в год. Годится любой повод: Google DevFest или I/O, Андрей Ситник прилетел, или ещё что. Активная часть сообщества сидит в [телеграм-чате](https://t.me/vldchat).
   * Волгоград
