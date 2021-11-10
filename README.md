@@ -158,6 +158,7 @@
       * [Piter JS (vk)](https://vk.com/piterjs): JavaScript митап в Санкт-Петербурге.
       * [SPB Frontend (vk)](https://vk.com/spb_frontend): Петербургское сообщество фронтенд-энтузиастов.
       * [Saint P Ruby community (kommunity)](https://kommunity.com/saintpruby), [Saint P Ruby community (telegram)](https://t.me/saintprug): Митапы по Ruby в Санкт-Петербурге
+      * [BeerPHP (telegram)](https://t.me/beerphp_spb): Сообщество PHP разработчиков г. Санкт-Петербург.
   * Саратов
       * [Saratov IT (vk)](https://vk.com/saratovit): ИТ сообщество Саратовской области.
       * [QA Community Saratov (vk)](https://vk.com/qasaratov): Площадка для поддержки и развития сферы тестирования в Саратове.
