@@ -2,6 +2,9 @@
 [![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://ru.hexlet.io/pages/about?utm_source=github&utm_medium=link&utm_campaign=ru-local-communities)
 
 Данный репозиторий создан и поддерживается командой и сообществом образовательного проекта _Хекслет_. [Подробнее о проекте](https://ru.hexlet.io/pages/about?utm_source=github&utm_medium=link&utm_campaign=ru-local-communities).
+
+See most active contributers on [hexlet-friends](https://friends.hexlet.io/).
+
 ##
 
 ### Список русскоязычных локальных it-сообществ
