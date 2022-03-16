@@ -46,7 +46,6 @@ See most active contributers on [hexlet-friends](https://friends.hexlet.io/).
   * Иркутск
       * [BaikalDev.Club (facebook)](https://www.facebook.com/BaikalDev.Club/): IT-сообщество Иркутска, организация докладов, хакатонов.
       * [IrkPHP](https://t.me/irkphp) Сообщество PHP-разработчиков
-      * [ITLobby](https://t.me/lobbyit) Чат Иркутского IT-сообщества
   * Йошкар-Ола
       * [IT-мероприятия Йошкар-Олы](https://t.me/it_yola): Мероприятия в сфере высоких технологий (конференции, хакатоны, митапы, курсы).
       * [Frontend Yola](https://t.me/frontend_yola): Сообщество фронтенд разработчиков Йошкар-Олы.
