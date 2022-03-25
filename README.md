@@ -172,7 +172,7 @@ See most active contributers on [hexlet-friends](https://friends.hexlet.io/).
       * [IT Сообщество Сочи (telegram)](https://t.me/it_sochi): Пространство для людей из всех направлений IT-индустрии, которые живут или хотят переехать в Сочи.
       * [Sochi JS (telegram)](https://t.me/sochijs): Сообщество JavaScript-разработчиков в городе Сочи.
   * Сыктывкар
-      * [telegram](https://t.me/it_Komi): Группа в Telegram IT специалистов Республики Коми. Объединяемся и общаемся
+      * [telegram](https://t.me/it_Komi): Telegram группа IT специалистов Республики Коми. Объединяемся и общаемся
   * Таганрог
       * [JS Tgn Weekends (vk)](https://vk.com/js_tgn): Сообщество JavaScript-разработчиков. Встречаемся раз в месяц. Обсуждаем JavaScript и прочие аспекты жизни разработчиков - soft skills, менеджмент, поиск заказов на фрилансе и т.д. Активная часть сообщества сидит в [телеграм-чате](https://t.me/js_tgn).
   * Тверь
@@ -196,7 +196,7 @@ See most active contributers on [hexlet-friends](https://friends.hexlet.io/).
   * Уфа
       * [Ufacoder (vk)](https://vk.com/ufacoder), [telegram](https://t.me/ufacoder): Уфимское IT сообщество. Встречи разработчиков в неформальной обстановке.
   * Ухта
-      * [telegram](https://t.me/it_Komi): Группа в Telegram IT специалистов Республики Коми. Объединяемся и общаемся
+      * [telegram](https://t.me/it_Komi): Telegram группа IT специалистов Республики Коми. Объединяемся и общаемся
   * Хабаровск
       * [XADEV](https://t.me/xadev_chat): Самое большое и быстро растущее сообщество разработчиков Хабаровска.
       * [DersuDev](https://dersudev.wordpress.com): IT-сообщество профессиональных разработчиков в Хабаровске. Организуем онлайн обучение командной разработке для студентов дальневосточных университетов. Проводим конференцию "Программисты для программистов" раз в год. Без повода встречаемся гораздо чаще.
