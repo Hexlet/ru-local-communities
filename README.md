@@ -39,6 +39,7 @@ See most active contributers on [hexlet-friends](https://friends.hexlet.io/).
   * Воронеж
       * [Глубокий Рефакторинг(facebook)](https://www.facebook.com/groups/deeprefactoring/): открытый клуб разработчиков и профессионалов IT-индустрии Воронежа. Мы регулярно проводим встречи в неформальной обстановке, на которых любой желающий может сделать доклад
       * [BeerJS Voronezh](https://github.com/beerjs/voronezh): пабные JavaScript посиделки с докладами и опциональным пивом
+      * [PHP_VRN](https://github.com/phpvrn): Общение php (и около того) разработчиков из Воронежа ([чат](https://t.me/php_vrn), [сайт](https://phpvrn.github.io))
   * Екатеринбург
       * [JUG.EKB (vk)](https://vk.com/jugekb): cообщество Java разработчиков Екатеринбурга. Мы регулярно проводим встречи JUG.EKB с лекциями Java экспертов на самые интересные темы. Организатор: Naumen.
       * [java.ural.Meetup (vk)](https://vk.com/java.ural.meetup): cообщество Java-разработчиков Екатеринбурга. Мы хотим обсуждать актуальные задачи в Java-разработке и смежных областях: никаких умирающих технологий и страшных монолитных систем. Организатор: СКБ-Контур.
