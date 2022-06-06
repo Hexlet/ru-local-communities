@@ -173,7 +173,6 @@ See most active contributers on [hexlet-friends](https://friends.hexlet.io/).
       * [SarDotNet (vk)](https://vk.com/sardotnet): Саратовское сообщество .NET-разработчиков.
   * Сочи
       * [IT Сообщество Сочи (telegram)](https://t.me/it_sochi): Пространство для людей из всех направлений IT-индустрии, которые живут или хотят переехать в Сочи.
-      * [Sochi JS (telegram)](https://t.me/sochijs): Сообщество JavaScript-разработчиков в городе Сочи.
   * Сыктывкар
       * [It_Komi](https://t.me/it_Komi): Telegram группа IT специалистов Республики Коми. Объединяемся и общаемся
   * Таганрог
