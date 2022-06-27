@@ -30,6 +30,7 @@ See most active contributers on [hexlet-friends](https://friends.hexlet.io/).
       * [Barnaul Digital community](https://vk.com/digicombarnaul) — первое профессиональное сообщество специалистов и управленцев, неравнодушных к digital и IT в целом. Чаты в Telegram: [Основной](https://t.me/dmcbarnaul), [Чат разработчиков](https://t.me/devbarnaul), [PM чат](https://t.me/pmbrn), [Чат дизайнеров](https://t.me/designbrn), [GameDev чат](https://t.me/brn_gamedev).
   * Белгород
       * [Belgorod Frontend](https://t.me/belgorod_frontend): сообщество фронтендеров, проводим встречи, общаемся.
+      * [Белгородский IT-Кластер](https://vk.com/belitcluster): IT-кластер Белгородской области - это коммуникационная площадка для участников IT-сообщества и всех, кто заинтересован сферой информационных технологий. Здесь мы рассказываем обо всех новостях, событиях и возможностях региональной IT-отрасли.
   * Владивосток
       * [VLDC (site)](https://vldc.org): IT-сообщество Владивостока. Стараемся проводить хотя бы одну-две встречи в год. Годится любой повод: Google DevFest или I/O, Андрей Ситник прилетел, или ещё что. Активная часть сообщества сидит в [телеграм-чате](https://t.me/vldchat).
   * Волгоград
