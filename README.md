@@ -216,7 +216,6 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
       * [Belarus Big Data User Group (vk)](https://vk.com/belarus.big_data.user.group): Группа для всех, кто заинтересован в больших данных.
       * [Belarus Java User Group (site)](http://belarusjug.org/): сообщество Java-разработчиков, группа ориентируемся на регулярные встречи и обмен опытом, рекомендациями и идеями о том, как наилучшим образом использовать Java-технологии в ежедневной работе.
       * [brug (site)](http://brug.by/): Белорусская Ruby User Group - сообщество Ruby-разработчиков Беларуси, созданное для обмена идеями и опытом.
-      * [comaqa (site)](https://comaqa.by/): Сообщество тестировщиков-автоматизаторов.
       * [Minsk MongoDB User Group (facebook)](https://www.facebook.com/groups/bymongo): Группа посвященная повышению знаний и осведомленности о MongoDB.
       * [FreeCodeCamp Minsk (facebook)](https://www.facebook.com/groups/free.code.camp.Minsk/): официальная группа freeCodeCamp'еров Минска.
       * [Frontend Belarus on Slack](https://frontendbelarus.slack.com): slack-чат сообщества frontend-разработчиков Беларуси.
