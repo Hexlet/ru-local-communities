@@ -1,9 +1,9 @@
 ##
-[![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://ru.hexlet.io/pages/about?utm_source=github&utm_medium=link&utm_campaign=ru-local-communities)
+[![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://hexlet.io/utm_source=github&utm_medium=link&utm_campaign=ru-local-communities)
 
-Данный репозиторий создан и поддерживается командой и сообществом образовательного проекта _Хекслет_. [Подробнее о проекте](https://ru.hexlet.io/pages/about?utm_source=github&utm_medium=link&utm_campaign=ru-local-communities).
+This repository is created and maintained by the team and the community of Hexlet, an educational project. [Read more about Hexlet](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-local-communities).
 
-See most active contributers on [hexlet-friends](https://friends.hexlet.io/).
+See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 
 ##
 
@@ -120,13 +120,13 @@ See most active contributers on [hexlet-friends](https://friends.hexlet.io/).
       * [NN CV (telegram)](https://t.me/nn_cv): Computer Vision development community
       * [NN GameDev (vk)](https://vk.com/gamedevnn): Разработка игр в Нижнем Новгороде
       * [nnHack (telegram)](https://t.me/nnov_globalcityhack): Чат участников Global City Hackathon
-      * [nnstartups (telegram)](https://t.me/startupnn): стартаперы (и задумывающиеся) в Нижнем Новгороде  
+      * [nnstartups (telegram)](https://t.me/startupnn): стартаперы (и задумывающиеся) в Нижнем Новгороде
       * [rannts (site)](http://rannts.ru): Нижегородские питонисты.
       * [rannts (telegram)](https://t.me/rannts): Нижегородские питонисты
       * [Qt (telegram)](https://t.me/qt_52): Qt (C++)
       * [Ruby User Group NN (telegram)](https://t.me/nnrug): Ruby в Нижнем Новгороде
       * [Scala NN (vk)](https://vk.com/scala_nn): Scala-митапы в Нижнем Новгороде
-      * [Scala NN (telegram)](https://t.me/scala_nn): Scala-митапы в Нижнем Новгороде 
+      * [Scala NN (telegram)](https://t.me/scala_nn): Scala-митапы в Нижнем Новгороде
       * [WTM Nizhny Novgorod (telegram channel)](https://t.me/wtm_nn): Women Techmakers от Google в Нижнем Новгороде
       * [Хакерспейс CADR (site)](https://cadrspace.ru): Нижегородский хакерспейс CADR
       * [Хакерспейс CADR (telegram)](https://t.me/cadr_hackerspace): Нижегородский хакерспейс CADR
@@ -149,7 +149,7 @@ See most active contributers on [hexlet-friends](https://friends.hexlet.io/).
   * Ростов-на-Дону
       * [rndrug (facebook)](https://www.facebook.com/groups/rndrug/), [rndrug (telegram)](https://t.me/rndrug): Сообщество ruby-разработчиков.
       * [it61 (site)](https://it61.info): IT-сообщество Ростова-на-Дону. Регулярные митапы и конференции на технические и смежные с ними темы. Важная часть сообщества – онлайн-общение в slack и telegram.
-      * [it61 (telegram)](https://t.me/it_61): IT-сообщество Ростова-на-Дону, участников меньше чем в slack, но обсуждения активнее. 
+      * [it61 (telegram)](https://t.me/it_61): IT-сообщество Ростова-на-Дону, участников меньше чем в slack, но обсуждения активнее.
       * [JS Weekdays](https://t.me/jsweekdays): Периодические неформальные встречи любителей JavaScript в Ростов-на-Дону.
       * [RndTech (vk)](https://vk.com/rndtech), [RndTech (telegram)](https://t.me/rndtechchat), [RndTech (meetup)](https://www.meetup.com/ru-RU/RostovITEvents/): городское IT-сообщество Ростова-на-Дону и Таганрога. Митапы, конференции, соревнования и общение.
   * Рыбинск
@@ -220,10 +220,10 @@ See most active contributers on [hexlet-friends](https://friends.hexlet.io/).
       * [Minsk MongoDB User Group (facebook)](https://www.facebook.com/groups/bymongo): Группа посвященная повышению знаний и осведомленности о MongoDB.
       * [FreeCodeCamp Minsk (facebook)](https://www.facebook.com/groups/free.code.camp.Minsk/): официальная группа freeCodeCamp'еров Минска.
       * [Frontend Belarus on Slack](https://frontendbelarus.slack.com): slack-чат сообщества frontend-разработчиков Беларуси.
-      * [dev.by on Slack](https://devby.slack.com): slack-чат портала [dev.by](https://dev.by/) для всех, кому небезразлична сфера IT в Беларуси. 
+      * [dev.by on Slack](https://devby.slack.com): slack-чат портала [dev.by](https://dev.by/) для всех, кому небезразлична сфера IT в Беларуси.
       * [Minsk .NET User Group (facebook)](https://www.facebook.com/groups/dotnet.minsk/): сообщество .NET-разработчиков.
       * [MODX Беларусь](https://modx.by): сообщество пользователей и разработчиков CMS/CMF MODX. [Чат в Telegram](https://t.me/modxby).
-      * [SSMinskJS Belarus](https://css-minsk-js.by/): Площадка и конференции для эффективного общения всех IT-специалистов в контексте Front-end разработки. [Чат в Telegram](https://t.me/CSSMinskJS). 
+      * [SSMinskJS Belarus](https://css-minsk-js.by/): Площадка и конференции для эффективного общения всех IT-специалистов в контексте Front-end разработки. [Чат в Telegram](https://t.me/CSSMinskJS).
   * Брест
       * [IT Shark Community](https://it-shark.pro/): Независимое профессиональное сообщество Web & Mobile разработчиков - конференции, тренинги, менторинг, митапы, хакатоны.
 
@@ -245,7 +245,7 @@ See most active contributers on [hexlet-friends](https://friends.hexlet.io/).
       * [LvivJS (site)](http://lvivjs.org.ua/): Конференции для JavaScript разработчиков
   * Одесса
       * [OdessaJS (site)](http://odessajs.org/): Конференции для JavaScript разработчиков
-      * [OdHUG (site)](http://www.haskell.od.ua/site/): Одесская группа пользователей Haskell 
+      * [OdHUG (site)](http://www.haskell.od.ua/site/): Одесская группа пользователей Haskell
       * [It-клуб Одессы(Telegram)](https://t.me/itClubOdessa) [site](http://it-club.od.ua) Одесский IT-Клуб
   * Харьков
       * [KharkivJS (site)](http://kharkivjs.org/): Конференции для JavaScript разработчиков
@@ -270,7 +270,7 @@ See most active contributers on [hexlet-friends](https://friends.hexlet.io/).
       * [Astana JUG (facebook)](https://www.facebook.com/astanajug/): Сообщество людей, увлекающихся разработкой под платформу JVM и не только. Встречи в Астане.
   * Алматы
       * [IT Crowd Kazakhstan (Slack)](https://itcrowd-kz.slack.com/): Общение разработчиков Казахстана. Периодические митапы.
-      * [DrinkUp Almaty (meetup)](https://www.meetup.com/DrinkUp-Almaty/), [DrinkUp Almaty (telegram)](https://t.me/drinkup): Регулярные встречи разработчиков Алматы в расслабляющей атмосфере любимого бара 
+      * [DrinkUp Almaty (meetup)](https://www.meetup.com/DrinkUp-Almaty/), [DrinkUp Almaty (telegram)](https://t.me/drinkup): Регулярные встречи разработчиков Алматы в расслабляющей атмосфере любимого бара
 * Молдова
   * Кишинев
       * [DeveloperMD (facebook)](https://www.facebook.com/groups/DeveloperMD/): DeveloperMD is Moldova developer community that unites IT specialists from different domains from all over the country. DeveloperMD Community is the place where we discuss IT related topics and share our experience.
