@@ -215,7 +215,6 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
   * Минск
       * [Belarus Big Data User Group (vk)](https://vk.com/belarus.big_data.user.group): Группа для всех, кто заинтересован в больших данных.
       * [brug (site)](http://brug.by/): Белорусская Ruby User Group - сообщество Ruby-разработчиков Беларуси, созданное для обмена идеями и опытом.
-      * [Minsk MongoDB User Group (facebook)](https://www.facebook.com/groups/bymongo): Группа посвященная повышению знаний и осведомленности о MongoDB.
       * [Frontend Belarus on Slack](https://frontendbelarus.slack.com): slack-чат сообщества frontend-разработчиков Беларуси.
       * [dev.by on Slack](https://devby.slack.com): slack-чат портала [dev.by](https://dev.by/) для всех, кому небезразлична сфера IT в Беларуси.
       * [Minsk .NET User Group (facebook)](https://www.facebook.com/groups/dotnet.minsk/): сообщество .NET-разработчиков.
