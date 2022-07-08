@@ -214,18 +214,12 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 * Беларусь
   * Минск
       * [Belarus Big Data User Group (vk)](https://vk.com/belarus.big_data.user.group): Группа для всех, кто заинтересован в больших данных.
-      * [Belarus Java User Group (site)](http://belarusjug.org/): сообщество Java-разработчиков, группа ориентируемся на регулярные встречи и обмен опытом, рекомендациями и идеями о том, как наилучшим образом использовать Java-технологии в ежедневной работе.
       * [brug (site)](http://brug.by/): Белорусская Ruby User Group - сообщество Ruby-разработчиков Беларуси, созданное для обмена идеями и опытом.
-      * [comaqa (site)](https://comaqa.by/): Сообщество тестировщиков-автоматизаторов.
-      * [Minsk MongoDB User Group (facebook)](https://www.facebook.com/groups/bymongo): Группа посвященная повышению знаний и осведомленности о MongoDB.
-      * [FreeCodeCamp Minsk (facebook)](https://www.facebook.com/groups/free.code.camp.Minsk/): официальная группа freeCodeCamp'еров Минска.
       * [Frontend Belarus on Slack](https://frontendbelarus.slack.com): slack-чат сообщества frontend-разработчиков Беларуси.
       * [dev.by on Slack](https://devby.slack.com): slack-чат портала [dev.by](https://dev.by/) для всех, кому небезразлична сфера IT в Беларуси.
       * [Minsk .NET User Group (facebook)](https://www.facebook.com/groups/dotnet.minsk/): сообщество .NET-разработчиков.
-      * [MODX Беларусь](https://modx.by): сообщество пользователей и разработчиков CMS/CMF MODX. [Чат в Telegram](https://t.me/modxby).
-      * [SSMinskJS Belarus](https://css-minsk-js.by/): Площадка и конференции для эффективного общения всех IT-специалистов в контексте Front-end разработки. [Чат в Telegram](https://t.me/CSSMinskJS).
-  * Брест
-      * [IT Shark Community](https://it-shark.pro/): Независимое профессиональное сообщество Web & Mobile разработчиков - конференции, тренинги, менторинг, митапы, хакатоны.
+
+
 
 * Украина
   * Днепр
