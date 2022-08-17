@@ -47,6 +47,8 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
       * [JUG.EKB (vk)](https://vk.com/jugekb): cообщество Java разработчиков Екатеринбурга. Мы регулярно проводим встречи JUG.EKB с лекциями Java экспертов на самые интересные темы. Организатор: Naumen.
       * [java.ural.Meetup (vk)](https://vk.com/java.ural.meetup): cообщество Java-разработчиков Екатеринбурга. Мы хотим обсуждать актуальные задачи в Java-разработке и смежных областях: никаких умирающих технологий и страшных монолитных систем. Организатор: СКБ-Контур.
       * [Конференция разработчиков DUMP-2019 (vk)](https://vk.com/dumpconf): Уральская IT-конференция DUMP (Development, Usability, Management, Practice). Доклады идут в 8 секциях: Backend, Frontend, Mobile, Тестирование и QA, Devops, Design, Science и Management.
+  * Иваново
+      * [Ivanovo IT Weekend (site)](https://ivanovo-it-weekend.github.io/ivanovo-it-weekend/), [telegram](https://t.me/ivanovo_it_weekend), [youtube](https://www.youtube.com/channel/UCvNa9tbtI1_xgiY6F1QvQZQ): Организация докладов в Ивановском IT-сообществе. Разработка, DevOps, менеджмент, системный анализ, VR, embedded разработка. 
   * Иркутск
       * [BaikalDev.Club (facebook)](https://www.facebook.com/BaikalDev.Club/): IT-сообщество Иркутска, организация докладов, хакатонов.
       * [IrkPHP](https://t.me/irkphp) Сообщество PHP-разработчиков
