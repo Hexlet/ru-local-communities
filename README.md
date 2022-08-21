@@ -72,13 +72,25 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
   * Кемерово
       * [IT-community Kemerovo (tg)](https://t.me/IT_kmr): IT-тусовка Кемерово. Мероприятия: митапы, хакатоны и встречи.
   * Краснодар
-      * [krd.dev/career (telegram)](https://t.me/krddevcareer): Чат краснодарского сообщества с вакансиями и резюме.
-      * [krd.dev/news (ex Krasnodar Dev Days) (telegram)](https://t.me/krddevdays): IT-сообщество Краснодара, организация конференций и митапов, а также освещение городских IT-событий.
-      * [krd.dev/community (ex Krasnodar Dev Days) (telegram)](https://t.me/krddevdays_chat): Чат краснодарского IT-сообщества.
-      * [Krasnodar Dev Days (vk)](https://vk.com/krddevdays): IT-сообщество Краснодара, организация конференций и митапов, а также освещение городских IT-событий.
-      * [Ruby Krasnodar (telegram)](https://t.me/rubykrd): Cообщество Ruby-разработчиков Краснодара.
-      * [Krasnodar Frontend (telegram)](https://t.me/krdfrontend): Cообщество frontend-разработчиков Краснодара.
-      * [Krasnodar Mobile (telegram)](https://t.me/krdmobile): Cообщество мобильных разработчиков Краснодара.
+      * [krd.dev (ex Krasnodar Dev Days)](https://krd.dev/): Крупнейшее IT-сообщество Краснодара, организация конференций и митапов, а также освещение городских IT-событий.
+        Чаты и каналы сообщества в Telegram:
+        * [krd.dev/news](https://t.me/krddevdays): Канал с новостями.
+        * [krd.dev/community](https://t.me/krddevdays_chat): Чат на общие темы.
+        * [krd.dev/career](https://t.me/krddevcareer): Чат с вакансиями и резюме.
+        * [krd.dev/vacancies](https://t.me/krddevvacancies): Канал с вакансиями (без обсуждений).
+        * [krd.dev/removedev](https://t.me/removedev): Чат для тех, кто работает удалённо или хочет начать (+ вакансии).
+        Чаты в Telegram по стеку:
+        * [Krasnodar Frontend](https://t.me/krdfrontend): Cообщество Frontend-разработчиков Краснодара.
+        * [Krasnodar Backend](https://t.me/krdbackend): Cообщество Backend-разработчиков Краснодара.
+        * [Krasnodar Mobile](https://t.me/krdmobile): Cообщество мобильных разработчиков Краснодара.
+        * [Krasnodar Android](https://t.me/androidkrd): Cообщество Android-разработчиков Краснодара.
+        * [Krasnodar QA](https://t.me/krdQA): Cообщество тестировщиков Краснодара.
+        * [Python Krasnodar](https://t.me/pythonkrd): Cообщество Python-разработчиков Краснодара.
+        * [Golang Krasnodar](https://t.me/golangkrasnodar): Сообщество Golang-разработчиков Краснодара.
+        * [Ruby Krasnodar](https://t.me/rubykrd): Cообщество Ruby-разработчиков Краснодара.
+        * [PHP Krasnodar](https://t.me/phpkrd): Cообщество PHP-разработчиков Краснодара.
+        * [KrdDotNet](https://t.me/KrdDotNetCommunity): Cообщество DotNet-разработчиков Краснодара.
+        Сообщество на других площадках: [ВКонтакте](http://vk.com/krddevdays), [Facebook](http://fb.com/krddevdays), [YouTube](http://youtube.com/c/krddevdays), [Twitter](http://twitter.com/krddevdays), [Instagram](http://instagram.com/krddevdays).
       * [Golang Krasnodar (meetup)](https://www.meetup.com/ru-RU/Golang-Krasnodar): Сообщество Golang-разработчиков Краснодара.
       * [GDG Krasnodar (meetup)](https://www.meetup.com/ru-RU/meetup-group-IfBrKrSH/): GDG Krasnodar - некоммерческое IT коммьюнити, в основе которого лежат технологии Google для разработчиков - под Android, Maps, App Engine, Chrome, Web Toolkit, Google Plus и другие.
       * [Red Code (meetup)](https://www.meetup.com/ru-RU/RedCode/): Offline встречи разработчиков - обмен опытом, технологические новинки, живое общение.
