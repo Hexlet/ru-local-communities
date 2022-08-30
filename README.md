@@ -187,7 +187,6 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
   * Саратов
       * [Saratov IT (vk)](https://vk.com/saratovit): ИТ сообщество Саратовской области.
       * [QA Community Saratov (vk)](https://vk.com/qasaratov): Площадка для поддержки и развития сферы тестирования в Саратове.
-      * [Data Science Saratov (vk)](https://vk.com/datasciencesaratov): Саратовское сообщество дата сайнтистов и им сочувствующих.
       * [SaratovJS (vk)](https://vk.com/saratovjs): Саратовское сообщество веб-разработчиков и дизайнеров.
       * [SarDotNet (vk)](https://vk.com/sardotnet): Саратовское сообщество .NET-разработчиков.
   * Сочи
