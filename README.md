@@ -68,7 +68,6 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
       * [KazanJS](https://t.me/kazanjs): Крупнейшее сообщество разработчиков в Казани. Примерно раз в два месяца проводятся митапы с местными и приглашенными спикерами и раз в два месяца неформальные встречи.
   * Калининград
       * [GDG Kaliningrad Чат](https://t.me/gdgkaliningrad): Чат местного сообщества GDG (Google Developer Group)
-      * [DevFest](http://devfest.kantiana.ru/): Ежегодная ИТ-конференция в Калининграде
   * Кемерово
       * [IT-community Kemerovo (tg)](https://t.me/IT_kmr): IT-тусовка Кемерово. Мероприятия: митапы, хакатоны и встречи.
   * Краснодар
@@ -109,7 +108,6 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
       * [freeCodeCamp Moscow](https://www.facebook.com/groups/free.code.camp.moscow/): Официальная Московская группа ФриКодКэмперов.
       * [Moscow (Clojure (Script)) Meetup (www.meetup.com)](https://www.meetup.com/Moscow-Clojure-Script-Meetup/): Встречи и митапы для всех, кто интересуется разработкой на Clojure и ClojureScript
       * [Московский клуб программистов](https://www.meetup.com/progmsk/): Неформальные встречи и разговоры обо всём понемногу.
-      * [ElixirLangMoscow](http://elixir-lang.moscow/): Московское Elixir сообщество: проводим встречи, общаемся, едим пиццу.
       * [MoscowPython](https://www.facebook.com/groups/MoscowDjango/): Московское Python сообщество. Регулярные митапы, ежегодная конференция про Python и связанные технологии
       * [DC7495](https://dc7495.org/): DC7495 - Москва/Зеленоград - неформальное сообщество энтузиастов, объединяющее под собой программистов, разработчиков, инженеров, студентов и всех тех, кто хоть иногда задумывается об информационной безопасности.
       * [holywar4j](https://boiarshinov.github.io/holywar4j/): Сообщество молодых Java-разработчиков. Устраиваем еженедельные встречи в онлайне и холиварим на выбранную тему.
@@ -187,7 +185,6 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
   * Саратов
       * [Saratov IT (vk)](https://vk.com/saratovit): ИТ сообщество Саратовской области.
       * [QA Community Saratov (vk)](https://vk.com/qasaratov): Площадка для поддержки и развития сферы тестирования в Саратове.
-      * [Data Science Saratov (vk)](https://vk.com/datasciencesaratov): Саратовское сообщество дата сайнтистов и им сочувствующих.
       * [SaratovJS (vk)](https://vk.com/saratovjs): Саратовское сообщество веб-разработчиков и дизайнеров.
       * [SarDotNet (vk)](https://vk.com/sardotnet): Саратовское сообщество .NET-разработчиков.
   * Сочи
@@ -221,7 +218,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
   * Хабаровск
       * [XADEV](https://t.me/xadev_chat): Самое большое и быстро растущее сообщество разработчиков Хабаровска.
       * [DersuDev](https://dersudev.wordpress.com): IT-сообщество профессиональных разработчиков в Хабаровске. Организуем онлайн обучение командной разработке для студентов дальневосточных университетов. Проводим конференцию "Программисты для программистов" раз в год. Без повода встречаемся гораздо чаще.
-      * [nixDV](https://nixdv.org/): Дальневосточная open source конференция. А также прямые текстовые/фото/видео/звуковые трансляции с ИТ-мероприятий в Хабаровске. [nixDV в фейсбуке](https://www.facebook.com/nixdv/)
+      * [nixDV](hhttps://www.facebook.com/nixdv/): Дальневосточная open source конференция. А также прямые текстовые/фото/видео/звуковые трансляции с ИТ-мероприятий в Хабаровске.
   * Чебоксары
       * [IT в солнечной Чувашии](https://t.me/itcheb): Группа в Telegram об ИТ в солнечной Чувашии.
   * Челябинск
@@ -241,9 +238,6 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 
 
 * Украина
-  * Днепр
-      * [LλMBDλ CLUB DNIPRO (site)](http://lambdaclub.net/8/): Доклады на этих встречах охватывают абсолютно разные темы и области программирования
-      * [DneprPy (site)](http://dneprpy.org.ua/): Встречи python разработчиков
   * Запорожье
       * [Zengineers (site)](http://zengineers.it/), [(vk group)](https://vk.com/zengineers): Встречи с докладами и практикой по программированию. Общение в Slack
   * Киев
