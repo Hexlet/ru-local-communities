@@ -277,6 +277,8 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
       * [Astana JUG (facebook)](https://www.facebook.com/astanajug/): Сообщество людей, увлекающихся разработкой под платформу JVM и не только. Встречи в Астане.
   * Алматы
       * [IT Crowd Kazakhstan (Slack)](https://itcrowd-kz.slack.com/): Общение разработчиков Казахстана. Периодические митапы.
+  * Караганда
+      * [IT-общение. Караганда. (Терриконовая долина) (Telegram)](https://t.me/Terricon): Площадка нетворкинга IT-сообщества Караганды.
 * Молдова
   * Кишинев
       * [DeveloperMD (facebook)](https://www.facebook.com/groups/DeveloperMD/): DeveloperMD is Moldova developer community that unites IT specialists from different domains from all over the country. DeveloperMD Community is the place where we discuss IT related topics and share our experience.
