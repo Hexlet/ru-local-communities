@@ -98,6 +98,8 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
   * Красноярск
       * [Dev2Dev (vk)](https://vk.com/d2dcommunity): IT-сообщество, созданное разработчиками для разработчиков. Конференции, мастер-классы, митапы.
       * [Krasdevmeetups](https://devmeetups.ru/): Еженедельные неформальные встречи разработчиков. Мы встречаемся, чтобы делиться опытом, обсуждать интересные темы, вместе создавать проекты и общаться с единомышленниками.
+  * Крым
+      * [CrimeaJS (telegram)](https://t.me/crimeajschat/): Сообщество фронтенд-разработчиков Крыма и города Севастополь. Также есть связанный [канал](https://t.me/crimeajs).
   * Липецк
       * [PHP Community Lipetsk](https://t.me/php_community_lipetsk): Чат PHP Community города Липецк. Обсуждаем темы языка PHP и всё, что вокруг него.
   * Махачкала
