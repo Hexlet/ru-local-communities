@@ -105,9 +105,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
   * Москва
       * [moscowcss (vk)](https://vk.com/css_moscow): Регулярные встречи по фронтенду в Москве: CSS, SVG, типографика, дизайн.
       * [Moscow JS (vk)](https://vk.com/moscowjs): Неформальные встречи JavaScript разработчиков Москвы. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.
-      * [freeCodeCamp Moscow](https://www.facebook.com/groups/free.code.camp.moscow/): Официальная Московская группа ФриКодКэмперов.
       * [Moscow (Clojure (Script)) Meetup (www.meetup.com)](https://www.meetup.com/Moscow-Clojure-Script-Meetup/): Встречи и митапы для всех, кто интересуется разработкой на Clojure и ClojureScript
-      * [Московский клуб программистов](https://www.meetup.com/progmsk/): Неформальные встречи и разговоры обо всём понемногу.
       * [MoscowPython](https://www.facebook.com/groups/MoscowDjango/): Московское Python сообщество. Регулярные митапы, ежегодная конференция про Python и связанные технологии
       * [DC7495](https://dc7495.org/): DC7495 - Москва/Зеленоград - неформальное сообщество энтузиастов, объединяющее под собой программистов, разработчиков, инженеров, студентов и всех тех, кто хоть иногда задумывается об информационной безопасности.
       * [holywar4j](https://boiarshinov.github.io/holywar4j/): Сообщество молодых Java-разработчиков. Устраиваем еженедельные встречи в онлайне и холиварим на выбранную тему.
