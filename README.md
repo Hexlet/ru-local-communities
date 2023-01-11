@@ -66,6 +66,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
       * [Kazan DevDay](https://t.me/devdaykzn): Ежемесячный митап. Пьем чай, делимся опытом.
       * [IT Way.Kzn](https://vk.com/it_way_kzn): Митапы IT Way для молодых специалистов в Казани
       * [KazanJS](https://t.me/kazanjs): Крупнейшее сообщество разработчиков в Казани. Примерно раз в два месяца проводятся митапы с местными и приглашенными спикерами и раз в два месяца неформальные встречи.
+      * [IT-мероприятия Татарстана](https://t.me/it_tatarstan): Мероприятия в сфере высоких технологий. Конференции, Форумы, Хакатоны, Митапы.
   * Калининград
       * [GDG Kaliningrad Чат](https://t.me/gdgkaliningrad): Чат местного сообщества GDG (Google Developer Group)
   * Кемерово
