@@ -281,6 +281,10 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 * Молдова
   * Кишинев
       * [DeveloperMD (facebook)](https://www.facebook.com/groups/DeveloperMD/): DeveloperMD is Moldova developer community that unites IT specialists from different domains from all over the country. DeveloperMD Community is the place where we discuss IT related topics and share our experience.
+* Азербайджан
+  * Баку
+      * [NewZeon(site)](https://newzeon.az/): IT-HUB предпринимателей, специалистов и команд стартаперов в городе Баку
+      
 * Весь Мир
   * Русскоязычное  
       * [QA House (Telegram)](https://t.me/QA_House): QA House это международное комьюнити айти специалистов со всех уголков земли. Основное направление QA, но в нем присутствуют специалисты всех специальностей (Тестировщики, Разработчики, Менеджеры, HR).  
