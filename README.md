@@ -47,8 +47,11 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
       * [JUG.EKB (vk)](https://vk.com/jugekb): cообщество Java разработчиков Екатеринбурга. Мы регулярно проводим встречи JUG.EKB с лекциями Java экспертов на самые интересные темы. Организатор: Naumen.
       * [java.ural.Meetup (vk)](https://vk.com/java.ural.meetup): cообщество Java-разработчиков Екатеринбурга. Мы хотим обсуждать актуальные задачи в Java-разработке и смежных областях: никаких умирающих технологий и страшных монолитных систем. Организатор: СКБ-Контур.
       * [Конференция разработчиков DUMP-2019 (vk)](https://vk.com/dumpconf): Уральская IT-конференция DUMP (Development, Usability, Management, Practice). Доклады идут в 8 секциях: Backend, Frontend, Mobile, Тестирование и QA, Devops, Design, Science и Management.
+      * [PHP Ural Meetups](https://t.me/phpuralmeetups): PHP сообщество в Екатеринбурге.
   * Иваново
       * [Ivanovo IT Weekend (site)](https://ivanovo-it-weekend.github.io/ivanovo-it-weekend/), [telegram](https://t.me/ivanovo_it_weekend), [youtube](https://www.youtube.com/channel/UCvNa9tbtI1_xgiY6F1QvQZQ): Организация докладов в Ивановском IT-сообществе. Разработка, DevOps, менеджмент, системный анализ, VR, embedded разработка. 
+  * Ижевск
+      * [BeerPHP Izhevsk](https://t.me/beerphp_izhevsk) PHP сообщество в Ижевске
   * Иркутск
       * [BaikalDev.Club (facebook)](https://www.facebook.com/BaikalDev.Club/): IT-сообщество Иркутска, организация докладов, хакатонов.
       * [IrkPHP](https://t.me/irkphp) Сообщество PHP-разработчиков
@@ -67,8 +70,10 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
       * [IT Way.Kzn](https://vk.com/it_way_kzn): Митапы IT Way для молодых специалистов в Казани
       * [KazanJS](https://t.me/kazanjs): Крупнейшее сообщество разработчиков в Казани. Примерно раз в два месяца проводятся митапы с местными и приглашенными спикерами и раз в два месяца неформальные встречи.
       * [IT-мероприятия Татарстана](https://t.me/it_tatarstan): Мероприятия в сфере высоких технологий. Конференции, Форумы, Хакатоны, Митапы.
+      * [PHP Kazan](https://t.me/beerphp_kazan): PHP сообщество в Казани.
   * Калининград
       * [GDG Kaliningrad Чат](https://t.me/gdgkaliningrad): Чат местного сообщества GDG (Google Developer Group)
+      * [PHP Kaliningrad](https://t.me/php39): PHP сообщество в Калининграде.
   * Кемерово
       * [IT-community Kemerovo (tg)](https://t.me/IT_kmr): IT-тусовка Кемерово. Мероприятия: митапы, хакатоны и встречи.
   * Краснодар
@@ -99,6 +104,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
   * Красноярск
       * [Dev2Dev (vk)](https://vk.com/d2dcommunity): IT-сообщество, созданное разработчиками для разработчиков. Конференции, мастер-классы, митапы.
       * [Krasdevmeetups](https://devmeetups.ru/): Еженедельные неформальные встречи разработчиков. Мы встречаемся, чтобы делиться опытом, обсуждать интересные темы, вместе создавать проекты и общаться с единомышленниками.
+      * [PHP Красноярск](https://t.me/php_krsk): PHP сообщество в Красноярске.
   * Липецк
       * [PHP Community Lipetsk](https://t.me/php_community_lipetsk): Чат PHP Community города Липецк. Обсуждаем темы языка PHP и всё, что вокруг него.
   * Махачкала
@@ -110,6 +116,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
       * [MoscowPython](https://www.facebook.com/groups/MoscowDjango/): Московское Python сообщество. Регулярные митапы, ежегодная конференция про Python и связанные технологии
       * [DC7495](https://dc7495.org/): DC7495 - Москва/Зеленоград - неформальное сообщество энтузиастов, объединяющее под собой программистов, разработчиков, инженеров, студентов и всех тех, кто хоть иногда задумывается об информационной безопасности.
       * [holywar4j](https://boiarshinov.github.io/holywar4j/): Сообщество молодых Java-разработчиков. Устраиваем еженедельные встречи в онлайне и холиварим на выбранную тему.
+      * [Beer PHP Moscow](https://t.me/beerphp_moscow): PHP сообщество в Москве.
   * Нижний Новгород
       * [it52.info (site)](https://www.it52.info/): Нижегородское IT-сообщество
       * [IT52 - Нижегородское IT-сообщество (vk)](https://vk.com/it52info): IT и около в Нижнем Новгороде: конференции, митапы, хакатоны, встречи и, конечно, афтепати.
@@ -143,6 +150,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
       * [WTM Nizhny Novgorod (telegram channel)](https://t.me/wtm_nn): Women Techmakers от Google в Нижнем Новгороде
       * [Хакерспейс CADR (site)](https://cadrspace.ru): Нижегородский хакерспейс CADR
       * [Хакерспейс CADR (telegram)](https://t.me/cadr_hackerspace): Нижегородский хакерспейс CADR
+      * [PHP NN](https://t.me/php_nn): PHP сообщество в Нижнем Новгороде.
   * Новосибирск
       * [CodeFest - Ежегодная конференция (site)](https://codefest.ru/), [CodeFest (vk)](https://vk.com/codefest), [CodeFest (twitter)](https://twitter.com/codefest): Ежегодная двухдневная международная конференция.
       * [DEVNSK (telegram)](https://t.me/DEVNSK): Сообщество IT-инженеров г. Новосибирск.
@@ -167,6 +175,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
       * [it61 (telegram)](https://t.me/it_61): IT-сообщество Ростова-на-Дону, участников меньше чем в slack, но обсуждения активнее.
       * [JS Weekdays](https://t.me/jsweekdays): Периодические неформальные встречи любителей JavaScript в Ростов-на-Дону.
       * [RndTech (vk)](https://vk.com/rndtech), [RndTech (telegram)](https://t.me/rndtechchat), [RndTech (meetup)](https://www.meetup.com/ru-RU/RostovITEvents/): городское IT-сообщество Ростова-на-Дону и Таганрога. Митапы, конференции, соревнования и общение.
+      * [Ростов PHP](https://t.me/rndphp): Сообщество PHP разработчиков в Ростове-на-Дону.
   * Рыбинск
       * [IT-Friday](https://vk.com/it_friday): IT-Friday - уникальное для Рыбинска мероприятие, куда приглашаются все те, кто живет ИТ-технологиями. Вас будут ждать интересные люди, различные проекты, соответствующая атмосфера, печеньки и плюшки.
   * Рязань
@@ -175,6 +184,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
       * [SamaraJS (site)](http://samarajs.ru): Сообщество (не только JavaScript) разработчиков. Основное общение в [slack](https://samarajsin.herokuapp.com).
       * [Samara IT Community (vk)](https://vk.com/samara_it_community): Сообщество Самарских работников и новичков сферы ИТ.
       * [IT Way.Samara](https://vk.com/it_way_samara): Митапы IT Way для молодых специалистов в Самаре
+      * [PHP Самара](https://t.me/samara_php): PHP сообщество в Самаре ([Youtube](https://www.youtube.com/@phpSamara)).
   * Санкт-Петербург
       * [pitercss (vk)](https://vk.com/pitercss): Регулярные встречи по фронтенду в Петербурге: CSS, SVG, типографика, дизайн.
       * [Piter JS (vk)](https://vk.com/piterjs): JavaScript митап в Санкт-Петербурге.
@@ -186,6 +196,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
       * [QA Community Saratov (vk)](https://vk.com/qasaratov): Площадка для поддержки и развития сферы тестирования в Саратове.
       * [SaratovJS (vk)](https://vk.com/saratovjs): Саратовское сообщество веб-разработчиков и дизайнеров.
       * [SarDotNet (vk)](https://vk.com/sardotnet): Саратовское сообщество .NET-разработчиков.
+      * [PHP Saratov](https://t.me/beerphp_saratov): PHP сообщество в Саратове.
   * Сочи
       * [IT Сообщество Сочи (telegram)](https://t.me/it_sochi): Пространство для людей из всех направлений IT-индустрии, которые живут или хотят переехать в Сочи.
   * Сыктывкар
@@ -205,11 +216,13 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
       * [IT Community Tula](https://tulaitcommunity.ru/), [IT Community Tula (vk)](https://vk.com/it_community_tula), [IT Community Tula (fb)](https://www.facebook.com/itcommunitytula/): Разговоры о цифровых продуктах и инновациях IT-среды
   * Тюмень
       * [GDG Tyumen](http://tmncode.cio72.ru/): Сообщество программистов Тюмени. Проводим митапы, встречаемся, общаемся
+      * [PHP Tyumen](https://t.me/php_tyumen): PHP сообщество в Тюмени.
   * Ульяновск
       * [it-ulsk (facebook)](https://www.facebook.com/groups/it.ulsk/): Общение обо всем, преимущественно местные новости и активности
       * [CocoaHeads Ulyanovsk (facebook)](https://www.facebook.com/groups/cocoaheads.ulsk/): Сообщество и регулярные встречи разработчиков под iOS и Mac OS
       * [Fronthub (site)](http://fronthub.ru/), [slack](https://slack-fronthub.herokuapp.com/): городское front-end сообщество с ежегодной конференцией
       * [IT Way.ULSK](https://vk.com/it_way_conf): Митапы IT Way для молодых специалистов в Ульяновске
+      * [ulskPHP](https://t.me/ulskphp): PHP сообщество в Ульяновске.
   * Уфа
       * [Ufacoder (vk)](https://vk.com/ufacoder), [telegram](https://t.me/ufacoder): Уфимское IT сообщество. Встречи разработчиков в неформальной обстановке.
   * Ухта
@@ -225,6 +238,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
       * [Beer.js Chelyabinsk](https://github.com/beerjs/chelyabinsk): Неформальные встречи челябинских фронтенд разработчиков. Обсуждаем Javascript, фреймворки, новости, проблемы и лучшие практики. Иногда проводим небольшие доклады. [Телеграм-чат](https://t.me/beerjs_chel)
   * Ярославль
       * [Yaroslavl Frontend Meetup](http://yarfrontend.ru): Площадка для регулярного неформального общения разработчиков, объединенных „по технологическому признаку“, занимающихся разработкой на веб-технологиях (JavaScript, HTML, CSS, и т.д.)
+      * [BeerPHP Yaroslavl](https://t.me/beerphp_yaroslavl): PHP сообщество в Ярославле.
 * Беларусь
   * Минск
       * [Belarus Big Data User Group (vk)](https://vk.com/belarus.big_data.user.group): Группа для всех, кто заинтересован в больших данных.
