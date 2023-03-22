@@ -107,6 +107,8 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
       * [PHP Красноярск](https://t.me/php_krsk): PHP сообщество в Красноярске.
   * Липецк
       * [PHP Community Lipetsk](https://t.me/php_community_lipetsk): Чат PHP Community города Липецк. Обсуждаем темы языка PHP и всё, что вокруг него.
+  * Майкоп
+      * [Run it mkp](https://t.me/run_it_mkp): IT-сообщество города Майкоп
   * Махачкала
       * [Dev Seagulls (vk)](https://vk.com/devseagulls): IT-сообщество Махачкалы. Регулярно проводим встречи и мастер-классы на различные темы: от верстки до нейронных сетей. Активная часть сообщества сидит в [телеграм-чате](https://t.me/dev_seagulls)
   * Москва
