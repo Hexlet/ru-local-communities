@@ -193,6 +193,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
       * [SPB Frontend (vk)](https://vk.com/spb_frontend): Петербургское сообщество фронтенд-энтузиастов.
       * [Saint P Ruby community (kommunity)](https://kommunity.com/saintpruby), [Saint P Ruby community (telegram)](https://t.me/saintprug): Митапы по Ruby в Санкт-Петербурге
       * [BeerPHP (telegram)](https://t.me/beerphp_spb): Сообщество PHP разработчиков г. Санкт-Петербург.
+      * [ITMO.Opensource](https://t.me/itmo_opensource): Сообщество энтузиастов в области открытого научного кода (плюс [репозиторий](https://github.com/aimclub/open-source-ops)), существующее в рамках Университета ИТМО.
   * Саратов
       * [Saratov IT (vk)](https://vk.com/saratovit): ИТ сообщество Саратовской области.
       * [QA Community Saratov (vk)](https://vk.com/qasaratov): Площадка для поддержки и развития сферы тестирования в Саратове.
