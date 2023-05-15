@@ -48,6 +48,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
       * [java.ural.Meetup (vk)](https://vk.com/java.ural.meetup): cообщество Java-разработчиков Екатеринбурга. Мы хотим обсуждать актуальные задачи в Java-разработке и смежных областях: никаких умирающих технологий и страшных монолитных систем. Организатор: СКБ-Контур.
       * [Конференция разработчиков DUMP-2019 (vk)](https://vk.com/dumpconf): Уральская IT-конференция DUMP (Development, Usability, Management, Practice). Доклады идут в 8 секциях: Backend, Frontend, Mobile, Тестирование и QA, Devops, Design, Science и Management.
       * [PHP Ural Meetups](https://t.me/phpuralmeetups): PHP сообщество в Екатеринбурге.
+      * [Ural Testers Club (UTC)](https://uraltester.ru/): Сообщество тестировщиков Екатеринбурга
   * Иваново
       * [Ivanovo IT Weekend (site)](https://ivanovo-it-weekend.github.io/ivanovo-it-weekend/), [telegram](https://t.me/ivanovo_it_weekend), [youtube](https://www.youtube.com/channel/UCvNa9tbtI1_xgiY6F1QvQZQ): Организация докладов в Ивановском IT-сообществе. Разработка, DevOps, менеджмент, системный анализ, VR, embedded разработка. 
   * Ижевск
