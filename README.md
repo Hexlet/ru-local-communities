@@ -113,8 +113,9 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
   * Махачкала
       * [Dev Seagulls (vk)](https://vk.com/devseagulls): IT-сообщество Махачкалы. Регулярно проводим встречи и мастер-классы на различные темы: от верстки до нейронных сетей. Активная часть сообщества сидит в [телеграм-чате](https://t.me/dev_seagulls)
   * Москва
-      * [moscowcss (vk)](https://vk.com/css_moscow): Регулярные встречи по фронтенду в Москве: CSS, SVG, типографика, дизайн.
-      * [Moscow JS (vk)](https://vk.com/moscowjs): Неформальные встречи JavaScript разработчиков Москвы. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.
+      * [moscowcss (telegram)](https://t.me/moscowcss): Регулярные встречи по фронтенду в Москве: CSS, SVG, типографика, дизайн.
+      * [MoscowJS (telegram)](https://t.me/moscowjs): Неформальные встречи JavaScript разработчиков Москвы. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.
+      * [BeerJS Moscow (telegram)](https://t.me/beerjs_moscow): Четверговые еще менее формальные встречи с пивом, сидром, коктейлями, кофе, чаем и вообще всем жидким, что можно употреблять в пищу.
       * [Moscow (Clojure (Script)) Meetup (www.meetup.com)](https://www.meetup.com/Moscow-Clojure-Script-Meetup/): Встречи и митапы для всех, кто интересуется разработкой на Clojure и ClojureScript
       * [MoscowPython](https://www.facebook.com/groups/MoscowDjango/): Московское Python сообщество. Регулярные митапы, ежегодная конференция про Python и связанные технологии
       * [DC7495](https://dc7495.org/): DC7495 - Москва/Зеленоград - неформальное сообщество энтузиастов, объединяющее под собой программистов, разработчиков, инженеров, студентов и всех тех, кто хоть иногда задумывается об информационной безопасности.
