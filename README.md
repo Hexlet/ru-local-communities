@@ -65,6 +65,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
       * [QA_OLA](https://t.me/qa_ola): Сообщество тестировщиков Йошкар-Олы.
       * [Go Yola](https://t.me/go_yola): Golang сообщество Йошкар-Олы.
       * [IT-вакансии Йошкар-Олы](https://t.me/it_job_yola): IT-вакансии Йошкар-Олы.
+      * [Чат аналитиков Йошкар-Олы](https://t.me/analysts_yo): Чат аналитиков Йошкар-Олы.
   * Казань
       * [Kazan Frontend Developers](https://t.me/kazanfrontend): сообщество фронтенд разработчиков Казани
       * [Kazan DevDay](https://t.me/devdaykzn): Ежемесячный митап. Пьем чай, делимся опытом.
