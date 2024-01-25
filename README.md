@@ -148,6 +148,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [holywar4j](https://boiarshinov.github.io/holywar4j/): Сообщество молодых Java-разработчиков. Устраиваем еженедельные встречи в онлайне и холиварим на выбранную тему.
     * [Beer PHP Moscow](https://t.me/beerphp_moscow): PHP сообщество в Москве.
     * [C++ Moscow (telegram)](https://t.me/cppmoscow_info): Московское сообщество плюсовых программистов.
+    * [MoscowQA (telegram)](https://t.me/moscowqa): Московское сообщество QA\(тестировщиков\).
 
 * Минск
     * [Belarus Big Data User Group (vk)](https://vk.com/belarus.big_data.user.group): Группа для всех, кто заинтересован в больших данных.
