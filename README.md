@@ -262,6 +262,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [DevPro (vk)](https://vk.com/dev_pro), [DevPro (youtube)](https://www.youtube.com/channel/UCL9paXsOKnll7rYn5_4BESA) : Ежегодная конференция.
     * [Debug-Time - Конференция (site)](http://debug-time.unigine.com/): Конференция по C++, 3D.
     * [IT Way.Tomsk](https://vk.com/it_way_tsk): Митапы IT Way для молодых специалистов в Томске
+    * [.NET Митапошная](https://meetup.mcc-soft.de): .NET митапы раз в 3-4 месяца
 * Тула
     * [IT Community Tula](https://tulaitcommunity.ru/), [IT Community Tula (vk)](https://vk.com/it_community_tula), [IT Community Tula (fb)](https://www.facebook.com/itcommunitytula/): Разговоры о цифровых продуктах и инновациях IT-среды
 * Тюмень
