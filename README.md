@@ -117,10 +117,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
       * [PHP Krasnodar](https://t.me/phpkrd): Cообщество PHP-разработчиков Краснодара.
       * [KrdDotNet](https://t.me/KrdDotNetCommunity): Cообщество DotNet-разработчиков Краснодара.
       Сообщество на других площадках: [ВКонтакте](http://vk.com/krddevdays), [Facebook](http://fb.com/krddevdays), [YouTube](http://youtube.com/c/krddevdays), [Twitter](http://twitter.com/krddevdays), [Instagram](http://instagram.com/krddevdays).
-    * [Golang Krasnodar (meetup)](https://www.meetup.com/ru-RU/Golang-Krasnodar): Сообщество Golang-разработчиков Краснодара.
-    * [GDG Krasnodar (meetup)](https://www.meetup.com/ru-RU/meetup-group-IfBrKrSH/): GDG Krasnodar - некоммерческое IT коммьюнити, в основе которого лежат технологии Google для разработчиков - под Android, Maps, App Engine, Chrome, Web Toolkit, Google Plus и другие.
-    * [Red Code (meetup)](https://www.meetup.com/ru-RU/RedCode/): Offline встречи разработчиков - обмен опытом, технологические новинки, живое общение.
-    * [Meetouch (meetup)](https://www.meetup.com/ru-RU/meetouch/): Meetouch — площадка для обмена опытом среди мобильных разработчиков и дизайнеров.
+    * [IT-KRD (Telegram)](https://t.me/itkrd): анонсы IT мероприятий в Краснодаре.
     * [Южное сообщество Drupal (vk)](https://vk.com/drupalyug): Cообщество Drupal-разработчиков Краснодара.
 * Красноярск
     * [Dev2Dev (vk)](https://vk.com/d2dcommunity): IT-сообщество, созданное разработчиками для разработчиков. Конференции, мастер-классы, митапы.
