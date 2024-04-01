@@ -117,7 +117,6 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
       * [PHP Krasnodar](https://t.me/phpkrd): Cообщество PHP-разработчиков Краснодара.
       * [KrdDotNet](https://t.me/KrdDotNetCommunity): Cообщество DotNet-разработчиков Краснодара.
       Сообщество на других площадках: [ВКонтакте](http://vk.com/krddevdays), [Facebook](http://fb.com/krddevdays), [YouTube](http://youtube.com/c/krddevdays), [Twitter](http://twitter.com/krddevdays), [Instagram](http://instagram.com/krddevdays).
-    * [Golang Krasnodar (Telegram)](https://t.me/golangkrasnodar): Сообщество Golang-разработчиков Краснодара.
     * [IT-KRD (Telegram)](https://t.me/itkrd): анонсы IT мероприятий в Краснодаре.
     * [Южное сообщество Drupal (vk)](https://vk.com/drupalyug): Cообщество Drupal-разработчиков Краснодара.
 * Красноярск
