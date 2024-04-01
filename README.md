@@ -309,4 +309,5 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [Yaroslavl Frontend Meetup](http://yarfrontend.ru): Площадка для регулярного неформального общения разработчиков, объединенных „по технологическому признаку“, занимающихся разработкой на веб-технологиях (JavaScript, HTML, CSS, и т.д.)
     * [BeerPHP Yaroslavl](https://t.me/beerphp_yaroslavl): PHP сообщество в Ярославле.
 * Другие
-    * [IT House (Telegram)](https://t.me/ithouse): IT House это международное комьюнити айти специалистов со всех уголков земли. В нем присутствуют специалисты всех специальностей (Тестировщики, Разработчики, Менеджеры, HR).  
+    * [IT House (Telegram)](https://t.me/ithouse): IT House это международное комьюнити айти специалистов со всех уголков земли. В нем присутствуют специалисты всех специальностей (Тестировщики, Разработчики, Менеджеры, HR).
+    * [C++ Armenia (Telegram)](https://t.me/cpparm): Сообщество плюсовых программистов Армении.
