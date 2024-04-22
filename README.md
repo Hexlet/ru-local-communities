@@ -300,7 +300,6 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [Python Community Chelyabinsk (vk)](https://vk.com/pychel): сообщество Python-разработчиков Челябинска. Проводит [митапы](https://pychel.timepad.ru/events/), общается в [телеграм-чате](https://t.me/pychel).
     * [Beer.js Chelyabinsk](https://github.com/beerjs/chelyabinsk): Неформальные встречи челябинских фронтенд разработчиков. Обсуждаем Javascript, фреймворки, новости, проблемы и лучшие практики. Иногда проводим небольшие доклады. [Телеграм-чат](https://t.me/beerjs_chel)
     * [QA meetups (telegram)](https://t.me/qa_meetups): Встречи тестировщиков для обмена опытом в Челябинске (и Санкт-Петербурге)
-
 * Чернигов
     * [ChernigivJS (site)](https://chernihivjs.org.ua/): Встречи JavaScript разработчиков
 * Черновцы
