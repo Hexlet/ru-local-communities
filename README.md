@@ -238,6 +238,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [Saint P Ruby community (kommunity)](https://kommunity.com/saintpruby), [Saint P Ruby community (telegram)](https://t.me/saintprug): Митапы по Ruby в Санкт-Петербурге
     * [BeerPHP (telegram)](https://t.me/beerphp_spb): Сообщество PHP разработчиков г. Санкт-Петербург.
     * [ITMO.Opensource](https://t.me/itmo_opensource): Сообщество энтузиастов в области открытого научного кода (плюс [репозиторий](https://github.com/aimclub/open-source-ops)), существующее в рамках Университета ИТМО.
+    * [QA meetups (telegram)](https://t.me/qa_meetups): Встречи тестировщиков для обмена опытом в Санкт-Петербурге (и Челябинске)
 * Саратов
     * [Saratov IT (vk)](https://vk.com/saratovit): ИТ сообщество Саратовской области.
     * [QA Community Saratov (vk)](https://vk.com/qasaratov): Площадка для поддержки и развития сферы тестирования в Саратове.
@@ -298,6 +299,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 * Челябинск
     * [Python Community Chelyabinsk (vk)](https://vk.com/pychel): сообщество Python-разработчиков Челябинска. Проводит [митапы](https://pychel.timepad.ru/events/), общается в [телеграм-чате](https://t.me/pychel).
     * [Beer.js Chelyabinsk](https://github.com/beerjs/chelyabinsk): Неформальные встречи челябинских фронтенд разработчиков. Обсуждаем Javascript, фреймворки, новости, проблемы и лучшие практики. Иногда проводим небольшие доклады. [Телеграм-чат](https://t.me/beerjs_chel)
+    * [QA meetups (telegram)](https://t.me/qa_meetups): Встречи тестировщиков для обмена опытом в Челябинске (и Санкт-Петербурге)
 * Чернигов
     * [ChernigivJS (site)](https://chernihivjs.org.ua/): Встречи JavaScript разработчиков
 * Черновцы
