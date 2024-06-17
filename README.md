@@ -189,6 +189,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [Хакерспейс CADR (site)](https://cadrspace.ru): Нижегородский хакерспейс CADR
     * [Хакерспейс CADR (telegram)](https://t.me/cadr_hackerspace): Нижегородский хакерспейс CADR
     * [PHP NN](https://t.me/php_nn): PHP сообщество в Нижнем Новгороде.
+    * [PythoNN](https://t.me/pytho_nn): Python сообщество в Нижнем Новгороде.
 * Новосибирск
     * [CodeFest - Ежегодная конференция (site)](https://codefest.ru/), [CodeFest (vk)](https://vk.com/codefest), [CodeFest (twitter)](https://twitter.com/codefest): Ежегодная двухдневная международная конференция.
     * [DEVNSK (telegram)](https://t.me/DEVNSK): Сообщество IT-инженеров г. Новосибирск.
