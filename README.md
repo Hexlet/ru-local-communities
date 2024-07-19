@@ -240,6 +240,8 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [BeerPHP (telegram)](https://t.me/beerphp_spb): Сообщество PHP разработчиков г. Санкт-Петербург.
     * [ITMO.Opensource](https://t.me/itmo_opensource): Сообщество энтузиастов в области открытого научного кода (плюс [репозиторий](https://github.com/aimclub/open-source-ops)), существующее в рамках Университета ИТМО.
     * [QA meetups (telegram)](https://t.me/qa_meetups): Встречи тестировщиков для обмена опытом в Санкт-Петербурге (и Челябинске)
+    * [JUG.ru](https://jugru.org), [JUG.ru (vk)](https://vk.com/jugru): JUG (Java User Group) — это российское сообщество Java-разработчиков. Ежемесячные митапы в Санкт-Петербурге,в рамках которых эксперты из мира Java делают лекции на самые острые и горячие темы.
+    * [Java Underground (vk)](https://vk.com/javatutorial), [Java Underground (telegram)](https://t.me/java_underground): Сообщество для тех, кто хочет научиться Java.
 * Саратов
     * [Saratov IT (vk)](https://vk.com/saratovit): ИТ сообщество Саратовской области.
     * [QA Community Saratov (vk)](https://vk.com/qasaratov): Площадка для поддержки и развития сферы тестирования в Саратове.
