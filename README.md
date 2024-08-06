@@ -92,7 +92,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [PHP Friends Club (site)](http://phpfriends.club/): Украинское сообщество разработчиков, интересующихся PHP и веб-разработкой.
     * [Math.random() (Telegram)](https://t.me/mathrandomcommunity) [site](http://mathrandom.com/) cообщество JavaScript разработчиков.
 * Караганда
-    * [IT-общение. Караганда. (Терриконовая долина) (Telegram)](https://t.me/Terricon): Площадка нетворкинга IT-сообщества Караганды.
+    * [IT-общение. Караганда. (Терриконовая долина) (Telegram)](https://t.me/tvkrg): Площадка нетворкинга IT-сообщества Караганды.
 * Костанай
     * [QoS-IT.channel](https://t.me/qos_it): Группа/чат IT комьюнити.
 * Кривой Рог
