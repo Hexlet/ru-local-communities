@@ -344,6 +344,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [Coffee&Code Mobile | Tashkent](https://t.me/+8oXsMkmNd6hiMTIy): Чат мобильных разработчиков Ташкента.
 * Тбилиси
     * [Coffee&Code Mobile | Tbilisi](https://t.me/+-a7Ybmrn81o4MDli): Чат мобильных разработчиков Тбилиси.
+    * [Tbilisi JS](https://t.me/tbilisi_js): Профессиональное сообщество JS в Тбилиси.
 * Тверь
     * [tverio (site)](http://tver.io): Тверское ИТ сообщество. Основное общение в slack. Периодические митапы и просто посиделки. Лекции в местных вузах на технических и математических факультетах.
 * Тель-Авив
