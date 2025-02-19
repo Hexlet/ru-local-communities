@@ -292,6 +292,8 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [Coffee&Code iOS | Porto](https://t.me/+nTyReU46jy8xOTYy): Чат iOS-разработчиков Порто.
 * Польша
     * [Coffee&Code iOS | Poland](https://t.me/CocoaHeadsPoland): Чат iOS-разработчиков Польши.
+* Псков
+    * [JoyJS](https://t.me/joyjs_conf): Meetup'ы по Frontend в Пскове
 * Ростов-на-Дону
     * [rndrug (facebook)](https://www.facebook.com/groups/rndrug/), [rndrug (telegram)](https://t.me/rndrug): Сообщество ruby-разработчиков.
     * [it61 (site)](https://it61.info): IT-сообщество Ростова-на-Дону. Регулярные митапы и конференции на технические и смежные с ними темы. Важная часть сообщества – онлайн-общение в slack и telegram.
@@ -352,7 +354,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 * Томск
     * [TomskJS (vk)](https://vk.com/tomskjs), [TomskJS (fb)](https://fb.com/tomskjs), [TomskJS (slack)](https://tomskjs.slack.com): Небольшие frontend митапы.
     * [TomskML (vk)](https://vk.com/tomskml), [TomskML (slack)](https://tomskml.slack.com): Машинное обучение.
-    * [Gorod.IT - Ежегодная конференция (site)](https://gorod.it/), [Gorod.IT (vk)](https://vk.com/gorodit), [CodeFest (twitter)](https://twitter.com/Gorod_IT): Ежегодная двухдневная конференция.
+    * [Город IT - Ежегодная конференция (site)](https://gorod.it/), [Город IT (vk)](https://vk.com/gorodit), [Город IT (telegram)](https://t.me/gorod_it): Ежегодная двухдневная конференция.
     * [DevPro (vk)](https://vk.com/dev_pro), [DevPro (youtube)](https://www.youtube.com/channel/UCL9paXsOKnll7rYn5_4BESA) : Ежегодная конференция.
     * [Debug-Time - Конференция (site)](http://debug-time.unigine.com/): Конференция по C++, 3D.
     * [IT Way.Tomsk](https://vk.com/it_way_tsk): Митапы IT Way для молодых специалистов в Томске.
