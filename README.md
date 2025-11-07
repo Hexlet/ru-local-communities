@@ -206,6 +206,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [MoscowQA (telegram)](https://t.me/moscowqa): Московское сообщество QA (тестировщиков).
     * [Coffee&Code iOS | Moscow](https://t.me/+XzaQa0CXlLAzMTM6): Чат iOS-разработчиков Москвы.
     * [Coffee&Code Android | Moscow](https://t.me/+kOTAHr4tfuo0NGIy): Чат Android-разработчиков Москвы.
+    * [LocalLLM Russia](https://t.me/LocalLLaMARussia): Сообщество по локальным и облачным LLM.
 * Майами
     * [Coffee&Code Mobile | Miami](https://t.me/+pfgm3KRoP5djODBi): Чат мобильных разработчиков Майами.
 * Мерсин
