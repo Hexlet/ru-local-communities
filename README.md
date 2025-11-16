@@ -379,6 +379,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 * Уфа
     * [Ufacoder (vk)](https://vk.com/ufacoder), [telegram](https://t.me/ufacoder): Уфимское IT сообщество. Встречи разработчиков в неформальной обстановке.
     * [Coffee&Code Mobile | Ufa](https://t.me/+KTTyAt2yczFmNmUy): Чат мобильных разработчиков Уфы.
+    * [UfaJS](https://ufajs.ru/), [telegram](https://t.me/ufajs): Сообщество JS-разработчиков из Уфы.
 * Ухта
     * [It_Komi](https://t.me/it_Komi): Telegram группа IT специалистов Республики Коми. Объединяемся и общаемся.
 * Хабаровск
