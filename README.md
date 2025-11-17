@@ -290,7 +290,8 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [IT Way.Perm](https://vk.com/it_way_perm): Митапы IT Way для молодых специалистов в Перми.
     * [Cherdak Events. DevRel Perm (telegram)](https://t.me/DevRelPerm): Площадка Xsolla. IT встречи, доклады, митапы, нетворкинг.
     * [GameDev Perm (telegram)](https://t.me/GameDev_Perm): Открытое сообщество игровых разработчиков Перми и тех, кто интересуется игровой индустрией в принципе.
-    * (Сообщество project-менеджеров Перми)[https://t.me/perm_pm]: Митапы, квизы, мероприятия для проджектов, тимлидов и других интересующихся разработкой и управлением
+    * [Сообщество project-менеджеров Перми](https://t.me/perm_pm): Митапы, квизы, мероприятия для проджектов, тимлидов и других интересующихся разработкой и управлением
+    * [QAGuildPerm](https://t.me/QAGuildPerm): активное сообщество тестировщиков Перми
 * Пхукет
     * [Coffee&Code iOS | Phuket](https://t.me/+7umVbrFoP0kxMTEy): Чат iOS-разработчиков Пхукета.
 * Порто
