@@ -323,6 +323,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 * Санкт-Петербург
     * [pitercss (vk)](https://vk.com/pitercss): Регулярные встречи по фронтенду в Петербурге: CSS, SVG, типографика, дизайн.
     * [Piter JS (vk)](https://vk.com/piterjs): JavaScript митап в Санкт-Петербурге.
+    * [Piter QA](https://t.me/piterqa): QA митапы в Санкт-Петербурге.
     * SPB Frontend [vk](https://vk.com/spb_frontend) [tg](https://t.me/spb_frontend_chat): Петербургское сообщество фронтенд-энтузиастов.
     * [Saint P Ruby community (kommunity)](https://kommunity.com/saintpruby), [Saint P Ruby community (telegram)](https://t.me/saintprug): Митапы по Ruby в Санкт-Петербурге.
     * [BeerPHP (telegram)](https://t.me/beerphp_spb): Сообщество PHP разработчиков г. Санкт-Петербург.
