@@ -10,6 +10,8 @@
 
 Самые активные контрибьюторы — на [hexlet-friends](https://friends.hexlet.io/).
 
+Общение и вопросы — в [Хекслет Сообществе](https://t.me/hexletcommunity) в Telegram.
+
 ##
 
 ### Список русскоязычных локальных it-сообществ
