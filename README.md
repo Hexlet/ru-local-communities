@@ -1,4 +1,5 @@
-##
+<div align="center">
+
 <a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-assets">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hexlet/brand-assets/master/images/svg/hexlet_wordmark_white_rus.svg">
@@ -6,29 +7,39 @@
     </picture>
 </a>
 
-Репозиторий создан и поддерживается командой и сообществом Хекслета — образовательного проекта. [Подробнее о Хекслете](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-local-communities).
+# Локальные IT-сообщества
 
-Самые активные контрибьюторы — на [hexlet-friends](https://friends.hexlet.io/).
+**300+ русскоязычных IT-сообществ в 100+ городах и странах** — от Абакана до Ярославля,
+от Алматы до Буэнос-Айреса.
 
-Общение и вопросы — в [Хекслет Сообществе](https://t.me/hexletcommunity) в Telegram.
+Чаты, сайты и группы, собранные по географическому признаку: митапы и конференции,
+языковые и профессиональные комьюнити, городские IT-тусовки.
 
-##
+[![PR welcome](https://img.shields.io/badge/pull_request-welcome-brightgreen?style=flat-square)](#как-помочь)
+[![Хекслет](https://img.shields.io/badge/обучение-Хекслет-116dff?style=flat-square)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-local-communities)
+[![Telegram](https://img.shields.io/badge/сообщество-Telegram-26A5E4?style=flat-square)](https://t.me/hexletcommunity)
 
-### Список русскоязычных локальных it-сообществ
+</div>
 
-Ссылки на чаты/сайты/группы сообществ организованных по географическому признаку
+Список создан и поддерживается командой и сообществом [Хекслета](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-local-communities) —
+образовательного проекта. Самые активные контрибьюторы — на [hexlet-friends](https://friends.hexlet.io/).
 
-### Как помочь?
+> [!TIP]
+> Не нашли свой город? Это повод его завести — присылайте pull-request, правила ниже.
+> А поговорить об IT, обучении и карьере можно в открытом
+> [Telegram-сообществе Хекслета](https://t.me/hexletcommunity).
 
-Мы принимаем Pull Request'ы!
+## Как помочь?
 
-#### Правила
+Мы принимаем pull-request'ы.
+
+### Правила
 
 * Располагайте города в алфавитном порядке
 * Справа от названия сообщества указывайте сервис, который хостит сообщество
 * Через двоеточие описание сообщества
 
-### Сообщества
+## Сообщества
 
 * Абакан
     * [Абаканский клуб программистов "λ-calculus" (site)](http://lambda-calculus.ru/), ["λ-calculus" (vk)](https://vk.com/lambda_club): Организация IT-конференций и турниров по программированию, анонсы мероприятий, предложения о работе.
