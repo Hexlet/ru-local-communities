@@ -27,12 +27,12 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 
 * Абакан
     * [Абаканский клуб программистов "λ-calculus" (site)](http://lambda-calculus.ru/), ["λ-calculus" (vk)](https://vk.com/lambda_club): Организация IT-конференций и турниров по программированию, анонсы мероприятий, предложения о работе.
+* Аланья
+    * [Coffee&Code iOS | Alanya](https://t.me/coffeeCodeAlanya): Чат iOS-разработчиков Аланьи.
 * Алматы
     * [IT Crowd Kazakhstan (Slack)](https://itcrowd-kz.slack.com/): Общение разработчиков Казахстана. Периодические митапы.
     * [Almaty IT Community](https://t.me/aaitcomm): Группа для представителей ИТ и технологических компаний, дислоцирующихся в Алматы.
     * [Coffee&Code iOS | Almaty](https://t.me/CoffeeCodeAlmaty): Чат iOS-разработчиков Алматы.
-* Аланья
-    * [Coffee&Code iOS | Alanya](https://t.me/coffeeCodeAlanya): Чат iOS-разработчиков Аланьи.
 * Амстердам
     * [Coffee&Code iOS | Amsterdam](https://t.me/+MQS1HIeFPTI2MjAy): Чат iOS-разработчиков Амстердама.
 * Анталья
@@ -45,11 +45,11 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [Coffee&Code Mobile | Baku](https://t.me/+0Ciq5dHc9sYwMzMy): Чат мобильных разработчиков Баку.
 * Бали
     * [Coffee&Code iOS | Bali](https://t.me/+3fj3XJlO4hE1MWEy): Чат iOS-разработчиков Бали.
-* Барселона
-    * [Coffee&Code iOS | Barcelona](https://t.me/coffeeCodeBarcelona): Чат iOS-разработчиков Барселоны.
 * Барнаул
     * [Barnaul Digital community](https://vk.com/digicombarnaul) — первое профессиональное сообщество специалистов и управленцев, неравнодушных к digital и IT в целом. Чаты в Telegram: [Основной](https://t.me/dmcbarnaul), [Чат разработчиков](https://t.me/devbarnaul), [PM чат](https://t.me/pmbrn), [Чат дизайнеров](https://t.me/designbrn), [GameDev чат](https://t.me/brn_gamedev).
     * [Coffee&Code iOS | Barnaul](https://t.me/+bzj91rPqBjFkZmFi): Чат iOS-разработчиков Барнаула.
+* Барселона
+    * [Coffee&Code iOS | Barcelona](https://t.me/coffeeCodeBarcelona): Чат iOS-разработчиков Барселоны.
 * Батуми
     * [Coffee&Code iOS | Batumi](https://t.me/coffe_code_batumi): Чат iOS-разработчиков Батуми.
 * Белгород
@@ -57,16 +57,20 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [Белгородский IT-Кластер](https://vk.com/belitcluster): IT-кластер Белгородской области - это коммуникационная площадка для участников IT-сообщества и всех, кто заинтересован сферой информационных технологий. Здесь мы рассказываем обо всех новостях, событиях и возможностях региональной IT-отрасли.
 * Белград
     * [Coffee&Code Mobile | Belgrade](https://t.me/coffeecodeBelgrade): Чат мобильных разработчиков Белграда.
-* Бишкек
-    * [Coffee&Code iOS | Bishkek](https://t.me/coffeeCodeBishkek): Чат iOS-разработчиков Бишкека.
 * Бильбао
     * [Coffee&Code Mobile | Bilbao](https://t.me/+-a7Ybmrn81o4MDli): Чат мобильных разработчиков Бильбао.
+* Бишкек
+    * [Coffee&Code iOS | Bishkek](https://t.me/coffeeCodeBishkek): Чат iOS-разработчиков Бишкека.
 * Бодрум
     * [Coffee&Code iOS | Bodrum](https://t.me/+C6JrPds_h1ZmMmFi): Чат iOS-разработчиков Бодрума.
-* Буэнос-Айрес
-    * [Coffee&Code iOS | Buenos Aires](https://t.me/+tQiXOKvMy2lmOTcy): Чат iOS-разработчиков Буэнос-Айреса.
 * Будва
     * [Coffee&Code iOS | Budva](https://t.me/+pSsu2XMU_Fw2MjAy): Чат iOS-разработчиков Будвы.
+* Буэнос-Айрес
+    * [Coffee&Code iOS | Buenos Aires](https://t.me/+tQiXOKvMy2lmOTcy): Чат iOS-разработчиков Буэнос-Айреса.
+* Валенсия
+    * [Coffee&Code iOS | Valencia](https://t.me/+kyLEvSf4wG81Mzcy): Чат iOS-разработчиков Валенсии.
+* Вильнюс
+    * [Coffee&Code iOS | Vilnius](https://t.me/+axa6EALpUeY4NjIy): Чат iOS-разработчиков Вильнюса.
 * Владивосток
     * [VLDC (site)](https://vldc.org): IT-сообщество Владивостока. Стараемся проводить хотя бы одну-две встречи в год. Годится любой повод: Google DevFest или I/O, Андрей Ситник прилетел, или ещё что. Активная часть сообщества сидит в [телеграм-чате](https://t.me/vldchat).
 * Владимир
@@ -83,16 +87,10 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [Глубокий Рефакторинг(facebook)](https://www.facebook.com/groups/deeprefactoring/): Открытый клуб разработчиков и профессионалов IT-индустрии Воронежа. Мы регулярно проводим встречи в неформальной обстановке, на которых любой желающий может сделать доклад.
     * [BeerJS Voronezh](https://github.com/beerjs/voronezh): Пабные JavaScript посиделки с докладами и опциональным пивом.
     * [PHP_VRN](https://github.com/phpvrn): Общение PHP (и около того) разработчиков из Воронежа ([чат](https://t.me/php_vrn), [сайт](https://phpvrn.github.io)).
-* Валенсия
-    * [Coffee&Code iOS | Valencia](https://t.me/+kyLEvSf4wG81Mzcy): Чат iOS-разработчиков Валенсии.
-* Вильнюс
-    * [Coffee&Code iOS | Vilnius](https://t.me/+axa6EALpUeY4NjIy): Чат iOS-разработчиков Вильнюса.
 * Гомель
     * [Coffee&Code iOS | Gomel](https://t.me/+S683vskmRItkZTIy): Чат iOS-разработчиков Гомеля.
 * Дубай
     * [Coffee&Code Mobile | Dubai](https://t.me/+upBod70P6SI2NDIy): Чат мобильных разработчиков Дубая.
-* Ереван
-    * [Coffee&Code Mobile | Yerevan](https://t.me/+4fKMNFv68WQ0YTM6): Чат мобильных разработчиков Еревана.
 * Екатеринбург
     * [JUG.EKB (vk)](https://vk.com/jugekb): Сообщество Java разработчиков Екатеринбурга. Мы регулярно проводим встречи JUG.EKB с лекциями Java экспертов на самые интересные темы. Организатор: Naumen.
     * [java.ural.Meetup (vk)](https://vk.com/java.ural.meetup): Сообщество Java-разработчиков Екатеринбурга. Мы хотим обсуждать актуальные задачи в Java-разработке и смежных областях: никаких умирающих технологий и страшных монолитных систем. Организатор: СКБ-Контур.
@@ -100,6 +98,8 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [PHP Ural Meetups](https://t.me/phpuralmeetups): PHP сообщество в Екатеринбурге.
     * [Ural Testers Club (UTC)](https://uraltester.ru/): Сообщество тестировщиков Екатеринбурга.
     * [Coffee&Code iOS | Ekaterinburg](https://t.me/+5cXopAlQp7MwMTE6): Чат iOS-разработчиков Екатеринбурга.
+* Ереван
+    * [Coffee&Code Mobile | Yerevan](https://t.me/+4fKMNFv68WQ0YTM6): Чат мобильных разработчиков Еревана.
 * Запорожье
     * [Zengineers (site)](http://zengineers.it/), [(vk group)](https://vk.com/zengineers): Встречи с докладами и практикой по программированию. Общение в Slack.
 * Иваново
@@ -143,10 +143,10 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [Kievfprog (site)](http://kievfprog.net/): Встречи любителей функционального программирования.
     * [PHP Friends Club (site)](http://phpfriends.club/): Украинское сообщество разработчиков, интересующихся PHP и веб-разработкой.
     * [Math.random() (Telegram)](https://t.me/mathrandomcommunity) [site](http://mathrandom.com/) cообщество JavaScript разработчиков.
+* Кишинев
+    * [DeveloperMD (facebook)](https://www.facebook.com/groups/DeveloperMD/): DeveloperMD is Moldova developer community that unites IT specialists from different domains from all over the country. DeveloperMD Community is the place where we discuss IT related topics and share our experience.
 * Костанай
     * [QoS-IT.channel](https://t.me/qos_it): Группа/чат IT комьюнити.
-* Кривой Рог
-    * [kranonit (site)](https://kranonit.wordpress.com/): криворожский клуб анонимных айтишников.
 * Краснодар
     * [krd.dev (ex Krasnodar Dev Days)](https://krd.dev/): Крупнейшее IT-сообщество Краснодара, организация конференций и митапов, а также освещение городских IT-событий.
       Чаты и каналы сообщества в Telegram:
@@ -176,10 +176,10 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [Krasdevmeetups](https://devmeetups.ru/): Еженедельные неформальные встречи разработчиков. Мы встречаемся, чтобы делиться опытом, обсуждать интересные темы, вместе создавать проекты и общаться с единомышленниками.
     * [PHP Красноярск](https://t.me/php_krsk): PHP сообщество в Красноярске.
     * [Coffee&Code iOS | Krasnoyarsk](https://t.me/+3EeGtvfkV00yNzAy): Чат iOS-разработчиков Красноярска.
+* Кривой Рог
+    * [kranonit (site)](https://kranonit.wordpress.com/): криворожский клуб анонимных айтишников.
 * Крым
     * [CrimeaJS (telegram)](https://t.me/crimeajschat/): Сообщество фронтенд-разработчиков Крыма и города Севастополь. Также есть связанный [канал](https://t.me/crimeajs).
-* Кишинев
-    * [DeveloperMD (facebook)](https://www.facebook.com/groups/DeveloperMD/): DeveloperMD is Moldova developer community that unites IT specialists from different domains from all over the country. DeveloperMD Community is the place where we discuss IT related topics and share our experience.
 * Кызылорда
     * [Coffee&Code iOS | Kyzylorda](https://t.me/+om2cGYy9-jplZjI6): Чат iOS-разработчиков Кызылорды.
 * Липецк
@@ -189,11 +189,25 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [Coffee&Code iOS | London](https://t.me/coffeecode_london_ios): Чат iOS-разработчиков Лондона.
 * Львов
     * [LvivJS (site)](http://lvivjs.org.ua/): Конференции для JavaScript разработчиков.
+* Майами
+    * [Coffee&Code Mobile | Miami](https://t.me/+pfgm3KRoP5djODBi): Чат мобильных разработчиков Майами.
 * Майкоп
     * [Run it mkp](https://t.me/run_it_mkp): IT-сообщество города Майкоп.
 * Махачкала
     * [Dev Seagulls (vk)](https://vk.com/devseagulls): IT-сообщество Махачкалы. Регулярно проводим встречи и мастер-классы на различные темы: от верстки до нейронных сетей. Активная часть сообщества сидит в [телеграм-чате](https://t.me/dev_seagulls).
     * [Coffee&Code Mobile | Makhachkala](https://t.me/+mWBoIUFhLKw5ZTEy): Чат мобильных разработчиков Махачкалы.
+* Мерсин
+    * [Coffee&Code Mobile | Mersin](https://t.me/+jrUhcganM-FmNzQy): Чат мобильных разработчиков Мерсина.
+* Минск
+    * [Belarus Big Data User Group (vk)](https://vk.com/belarus.big_data.user.group): Группа для всех, кто заинтересован в больших данных.
+    * [brug (site)](http://brug.by/): Белорусская Ruby User Group - сообщество Ruby-разработчиков Беларуси, созданное для обмена идеями и опытом.
+    * [Frontend Belarus on Slack](https://frontendbelarus.slack.com): Slack-чат сообщества frontend-разработчиков Беларуси.
+    * [dev.by on Slack](https://devby.slack.com): Slack-чат портала [dev.by](https://dev.by/) для всех, кому небезразлична сфера IT в Беларуси.
+    * [Minsk .NET User Group (facebook)](https://www.facebook.com/groups/dotnet.minsk/): Сообщество .NET-разработчиков.
+    * [PHPofBy](https://t.me/phpofby): Белорусское сообщество PHP-разработчиков. Проводит [митапы](https://wearecommunity.io/communities/php-of-by).
+    * [Coffee&Code Mobile | Minsk](https://t.me/coffeeCodeMinskMobile): Чат мобильных разработчиков Минска.
+* Монтенегро
+    * [Coffee&Code iOS | Montenegro](https://t.me/+TLh4_X-rQig2MGI6): Чат iOS-разработчиков Черногории.
 * Москва
     * [moscowcss (telegram)](https://t.me/moscowcss): Регулярные встречи по фронтенду в Москве: CSS, SVG, типографика, дизайн.
     * [MoscowJS (telegram)](https://t.me/moscowjs): Неформальные встречи JavaScript разработчиков Москвы. Обсуждается все, что связано с JavaScript: клиентские фреймворки, серверные платформы, инструменты, опыт, проекты и т.д.
@@ -207,29 +221,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [MoscowQA (telegram)](https://t.me/moscowqa): Московское сообщество QA (тестировщиков).
     * [Coffee&Code iOS | Moscow](https://t.me/+XzaQa0CXlLAzMTM6): Чат iOS-разработчиков Москвы.
     * [Coffee&Code Android | Moscow](https://t.me/+kOTAHr4tfuo0NGIy): Чат Android-разработчиков Москвы.
-    * [LLM Crew](llmcrew.org): Русскоязычное инженерное сообщество людей, которые строят системы и инструменты вокруг LLM.
-* Майами
-    * [Coffee&Code Mobile | Miami](https://t.me/+pfgm3KRoP5djODBi): Чат мобильных разработчиков Майами.
-* Мерсин
-    * [Coffee&Code Mobile | Mersin](https://t.me/+jrUhcganM-FmNzQy): Чат мобильных разработчиков Мерсина.
-* Минск
-    * [Belarus Big Data User Group (vk)](https://vk.com/belarus.big_data.user.group): Группа для всех, кто заинтересован в больших данных.
-    * [brug (site)](http://brug.by/): Белорусская Ruby User Group - сообщество Ruby-разработчиков Беларуси, созданное для обмена идеями и опытом.
-    * [Frontend Belarus on Slack](https://frontendbelarus.slack.com): Slack-чат сообщества frontend-разработчиков Беларуси.
-    * [dev.by on Slack](https://devby.slack.com): Slack-чат портала [dev.by](https://dev.by/) для всех, кому небезразлична сфера IT в Беларуси.
-    * [Minsk .NET User Group (facebook)](https://www.facebook.com/groups/dotnet.minsk/): Сообщество .NET-разработчиков.
-    * [PHPofBy](https://t.me/phpofby): Белорусское сообщество PHP-разработчиков. Проводит [митапы](https://wearecommunity.io/communities/php-of-by).
-    * [Coffee&Code Mobile | Minsk](https://t.me/coffeeCodeMinskMobile): Чат мобильных разработчиков Минска.
-* Монтенегро
-    * [Coffee&Code iOS | Montenegro](https://t.me/+TLh4_X-rQig2MGI6): Чат iOS-разработчиков Черногории.
-* Нови-Сад
-    * [Coffee&Code iOS | Novi Sad](https://t.me/+alNZgMdYD585ZWYy): Чат iOS-разработчиков Нови-Сада.
-* Новосибирск
-    * [CodeFest - Ежегодная конференция (site)](https://codefest.ru/), [CodeFest (vk)](https://vk.com/codefest), [CodeFest (twitter)](https://twitter.com/codefest): Ежегодная двухдневная международная конференция.
-    * [DEVNSK (telegram)](https://t.me/DEVNSK): Сообщество IT-инженеров г. Новосибирск.
-    * [JUGNsk (meetup)](https://www.meetup.com/JUGNsk/), [JUGNsk (vk)](https://vk.com/jugnsk), [JUGNsk (twitter)](https://twitter.com/jugnsk), [JUGNsk (telegram)](https://t.me/jugnsk): Сообщество Java разработчиков в Новосибирске. Митапы, встречи, обсуждения про Java.
-    * [BeerPHP (telegram)](https://t.me/beerphp_nsk): Сообщество PHP разработчиков г. Новосибирск.
-    * [Coffee&Code Mobile | Novosibirsk](https://t.me/+NeSrdTYzMrg1NGRi): Чат мобильных разработчиков Новосибирска.
+    * [LLM Crew](https://llmcrew.org): Русскоязычное инженерное сообщество людей, которые строят системы и инструменты вокруг LLM.
 * Нижний Новгород
     * [it52.info (site)](https://www.it52.info/): Нижегородское IT-сообщество.
     * [IT52 - Нижегородское IT-сообщество (vk)](https://vk.com/it52info): IT и около в Нижнем Новгороде: конференции, митапы, хакатоны, встречи и, конечно, афтепати.
@@ -266,6 +258,14 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [PHP NN](https://t.me/php_nn): PHP сообщество в Нижнем Новгороде.
     * [PythoNN](https://t.me/pytho_nn): Python сообщество в Нижнем Новгороде.
     * [Coffee&Code Mobile | Nizhny Novgorod](https://t.me/+u7Mhkp2SNANhMWM6): Чат мобильных разработчиков Нижнего Новгорода.
+* Нови-Сад
+    * [Coffee&Code iOS | Novi Sad](https://t.me/+alNZgMdYD585ZWYy): Чат iOS-разработчиков Нови-Сада.
+* Новосибирск
+    * [CodeFest - Ежегодная конференция (site)](https://codefest.ru/), [CodeFest (vk)](https://vk.com/codefest), [CodeFest (twitter)](https://twitter.com/codefest): Ежегодная двухдневная международная конференция.
+    * [DEVNSK (telegram)](https://t.me/DEVNSK): Сообщество IT-инженеров г. Новосибирск.
+    * [JUGNsk (meetup)](https://www.meetup.com/JUGNsk/), [JUGNsk (vk)](https://vk.com/jugnsk), [JUGNsk (twitter)](https://twitter.com/jugnsk), [JUGNsk (telegram)](https://t.me/jugnsk): Сообщество Java разработчиков в Новосибирске. Митапы, встречи, обсуждения про Java.
+    * [BeerPHP (telegram)](https://t.me/beerphp_nsk): Сообщество PHP разработчиков г. Новосибирск.
+    * [Coffee&Code Mobile | Novosibirsk](https://t.me/+NeSrdTYzMrg1NGRi): Чат мобильных разработчиков Новосибирска.
 * Нячанг
     * [Coffee&Code iOS | Nha Trang](https://t.me/+BLBTjCFTvqliMzQ6): Чат iOS-разработчиков Нячанга.
     * [Coffee&Code Mobile | Nha Trang](https://t.me/+iYGkX4BkDrs1OTgy): Чат мобильных разработчиков Нячанга.
@@ -293,14 +293,14 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [GameDev Perm (telegram)](https://t.me/GameDev_Perm): Открытое сообщество игровых разработчиков Перми и тех, кто интересуется игровой индустрией в принципе.
     * [Сообщество project-менеджеров Перми](https://t.me/perm_pm): Митапы, квизы, мероприятия для проджектов, тимлидов и других интересующихся разработкой и управлением
     * [QAGuildPerm](https://t.me/QAGuildPerm): активное сообщество тестировщиков Перми
-* Пхукет
-    * [Coffee&Code iOS | Phuket](https://t.me/+7umVbrFoP0kxMTEy): Чат iOS-разработчиков Пхукета.
-* Порто
-    * [Coffee&Code iOS | Porto](https://t.me/+nTyReU46jy8xOTYy): Чат iOS-разработчиков Порто.
 * Польша
     * [Coffee&Code iOS | Poland](https://t.me/CocoaHeadsPoland): Чат iOS-разработчиков Польши.
+* Порто
+    * [Coffee&Code iOS | Porto](https://t.me/+nTyReU46jy8xOTYy): Чат iOS-разработчиков Порто.
 * Псков
     * [JoyJS](https://t.me/joyjs_conf): Meetup'ы по Frontend в Пскове
+* Пхукет
+    * [Coffee&Code iOS | Phuket](https://t.me/+7umVbrFoP0kxMTEy): Чат iOS-разработчиков Пхукета.
 * Ростов-на-Дону
     * [rndrug (facebook)](https://www.facebook.com/groups/rndrug/), [rndrug (telegram)](https://t.me/rndrug): Сообщество ruby-разработчиков.
     * [it61 (site)](https://it61.info): IT-сообщество Ростова-на-Дону. Регулярные митапы и конференции на технические и смежные с ними темы. Важная часть сообщества – онлайн-общение в slack и telegram.
@@ -406,8 +406,6 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [Sync.NET (site)](https://sync.net.ua/): Сообщество .Net разработчиков Харькова.
 * Чебоксары
     * [IT в солнечной Чувашии](https://t.me/itcheb): Группа в Telegram об ИТ в солнечной Чувашии.
-* Чечня
-    * [Chechen IT Community]( https://t.me/chitcom): IT сообщество Чечни.
 * Челябинск
     * [Python Community Chelyabinsk (vk)](https://vk.com/pychel): сообщество Python-разработчиков Челябинска. Проводит [митапы](https://pychel.timepad.ru/events/), общается в [телеграм-чате](https://t.me/pychel).
     * [Beer.js Chelyabinsk](https://github.com/beerjs/chelyabinsk): Неформальные встречи челябинских фронтенд разработчиков. Обсуждаем Javascript, фреймворки, новости, проблемы и лучшие практики. Иногда проводим небольшие доклады. [Телеграм-чат](https://t.me/beerjs_chel)
@@ -417,6 +415,8 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
     * [ChernigivJS (site)](https://chernihivjs.org.ua/): Встречи JavaScript разработчиков.
 * Черновцы
     * [ChernivtsiJS (site)](http://chernivtsi.js.org/): Встречи JavaScript разработчиков.
+* Чечня
+    * [Chechen IT Community](https://t.me/chitcom): IT сообщество Чечни.
 * Шымкент
     * [Coffee&Code iOS | Shymkent](https://t.me/+0riE8P4vsR9kYTQy): Чат iOS-разработчиков Шымкента.
 * Ярославль
