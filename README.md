@@ -1,6 +1,9 @@
 ##
 <a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-assets">
-    <img src="https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo.svg" alt="Hexlet Ltd. logo" height="128">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hexlet/brand-assets/master/images/svg/hexlet_wordmark_white_rus.svg">
+        <img src="https://raw.githubusercontent.com/Hexlet/brand-assets/master/images/svg/hexlet_wordmark_primary_rus.svg" alt="Хекслет" height="64">
+    </picture>
 </a>
 
 Репозиторий создан и поддерживается командой и сообществом Хекслета — образовательного проекта. [Подробнее о Хекслете](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-local-communities).
