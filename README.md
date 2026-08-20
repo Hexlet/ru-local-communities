@@ -22,7 +22,7 @@
 </div>
 
 Список создан и поддерживается командой и сообществом [Хекслета](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-local-communities) —
-образовательного проекта. Самые активные контрибьюторы — на [hexlet-friends](https://friends.hexlet.io/).
+образовательного проекта.
 
 > [!TIP]
 > Не нашли свой город? Это повод его завести — присылайте pull-request, правила ниже.
