@@ -1,0 +1,64 @@
+name: Links
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 7 * * 1"   # понедельник, 10:00 МСК
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: lycheeverse/lychee-action@v2
+        id: lychee
+        with:
+          args: >-
+            --no-progress --root-dir "$GITHUB_WORKSPACE"
+            --accept 200,206,403,429 --max-retries 3 --timeout 30
+            --user-agent "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+            --cache --max-cache-age 1d
+            .
+          fail: false
+          format: markdown
+          output: lychee/report.md
+
+      - name: Обновить сводный issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EXIT_CODE: ${{ steps.lychee.outputs.exit_code }}
+        run: |
+          set -euo pipefail
+
+          if [ "$EXIT_CODE" = "0" ]; then
+            title="Ссылки: все живы, проверено $(date +%d.%m.%Y)"
+          else
+            title="Ссылки: есть мёртвые, проверено $(date +%d.%m.%Y)"
+          fi
+
+          {
+            cat lychee/report.md
+            echo
+            echo "---"
+            echo
+            echo "Отчёт перезаписывается каждым прогоном \`.github/workflows/links.yml\`."
+            echo "Последний прогон: [$GITHUB_RUN_ID]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID)."
+          } > body.md
+
+          gh label create link-check --color 0e8a16 --description "Сводка проверки ссылок" --force
+
+          number=$(gh issue list --label link-check --state all --limit 1 --json number --jq '.[0].number // empty')
+
+          if [ -z "$number" ]; then
+            gh issue create --title "$title" --label link-check --body-file body.md
+          else
+            gh issue edit "$number" --title "$title" --body-file body.md
+            if [ "$(gh issue view "$number" --json state --jq .state)" = "CLOSED" ] && [ "$EXIT_CODE" != "0" ]; then
+              gh issue reopen "$number"
+            fi
+          fi
