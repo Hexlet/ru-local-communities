@@ -9,7 +9,7 @@
 
 # Локальные IT-сообщества
 
-**300+ русскоязычных IT-сообществ в 100+ городах и странах** — от Абакана до Ярославля,
+**Больше 280 русскоязычных IT-сообществ в 100 городах и странах** — от Абакана до Ярославля,
 от Алматы до Буэнос-Айреса.
 
 Чаты, сайты и группы, собранные по географическому признаку: митапы и конференции,
@@ -110,7 +110,6 @@
 * Дубай
     * [Coffee&Code Mobile | Dubai](https://t.me/+upBod70P6SI2NDIy): Чат мобильных разработчиков Дубая.
 * Екатеринбург
-    * [JUG.EKB (vk)](https://vk.com/jugekb): Сообщество Java разработчиков Екатеринбурга. Мы регулярно проводим встречи JUG.EKB с лекциями Java экспертов на самые интересные темы. Организатор: Naumen.
     * [java.ural.Meetup (vk)](https://vk.com/java.ural.meetup): Сообщество Java-разработчиков Екатеринбурга. Мы хотим обсуждать актуальные задачи в Java-разработке и смежных областях: никаких умирающих технологий и страшных монолитных систем. Организатор: СКБ-Контур.
     * [Конференция разработчиков DUMP-2019 (vk)](https://vk.com/dumpconf): Уральская IT-конференция DUMP (Development, Usability, Management, Practice). Доклады идут в 8 секциях: Backend, Frontend, Mobile, Тестирование и QA, Devops, Design, Science и Management.
     * [PHP Ural Meetups](https://t.me/phpuralmeetups): PHP сообщество в Екатеринбурге.
@@ -120,7 +119,7 @@
 * Ереван
     * [Coffee&Code Mobile | Yerevan](https://t.me/+4fKMNFv68WQ0YTM6): Чат мобильных разработчиков Еревана.
 * Запорожье
-    * [Zengineers (site)](http://zengineers.it/), [(vk group)](https://vk.com/zengineers): Встречи с докладами и практикой по программированию. Общение в Slack.
+    * [Zengineers (vk)](https://vk.com/zengineers): Встречи с докладами и практикой по программированию. Общение в Slack.
 * Иваново
     * [Ivanovo IT Weekend (site)](https://ivanovo-it-weekend.github.io/ivanovo-it-weekend/), [telegram](https://t.me/ivanovo_it_weekend), [youtube](https://www.youtube.com/channel/UCvNa9tbtI1_xgiY6F1QvQZQ): Организация докладов в Ивановском IT-сообществе. Разработка, DevOps, менеджмент, системный анализ, VR, embedded разработка.
 * Ижевск
@@ -157,10 +156,7 @@
 * Кемерово
     * [IT-community Kemerovo (tg)](https://t.me/IT_kmr): IT-тусовка Кемерово. Мероприятия: митапы, хакатоны и встречи.
 * Киев
-    * [KyivJS (site)](http://kyivjs.org/): Конференции для JavaScript разработчиков.
     * [Котаны (site)](http://kottans.org/): Уникальный образовательный проект, созданный программистами-энтузиастами. Все обучение проходит бесплатно. В сообщество входят программисты разных направлений, поэтому и обучающие программы разнообразные. Изначально базировались в Киеве, но сейчас у них уже есть опыт проведения мероприятий и в других городах Украины, благодаря вовлечению в сообщество опытных специалистов из других городов.
-    * [Kievfprog (site)](http://kievfprog.net/): Встречи любителей функционального программирования.
-    * [PHP Friends Club (site)](http://phpfriends.club/): Украинское сообщество разработчиков, интересующихся PHP и веб-разработкой.
     * [Math.random() (Telegram)](https://t.me/mathrandomcommunity) [site](http://mathrandom.com/) cообщество JavaScript разработчиков.
 * Кишинев
     * [DeveloperMD (facebook)](https://www.facebook.com/groups/DeveloperMD/): DeveloperMD is Moldova developer community that unites IT specialists from different domains from all over the country. DeveloperMD Community is the place where we discuss IT related topics and share our experience.
@@ -234,7 +230,6 @@
     * [BeerJS Moscow (telegram)](https://t.me/beerjs_moscow): Четверговые ещё менее формальные встречи с пивом, сидром, коктейлями, кофе, чаем и вообще всем жидким, что можно употреблять в пищу.
     * [Moscow (Clojure (Script)) Meetup (www.meetup.com)](https://www.meetup.com/Moscow-Clojure-Script-Meetup/): Встречи и митапы для всех, кто интересуется разработкой на Clojure и ClojureScript.
     * [MoscowPython](https://www.facebook.com/groups/MoscowDjango/): Московское Python сообщество. Регулярные митапы, ежегодная конференция про Python и связанные технологии.
-    * [DC7495](https://dc7495.org/): DC7495 - Москва/Зеленоград - неформальное сообщество энтузиастов, объединяющее под собой программистов, разработчиков, инженеров, студентов и всех тех, кто хоть иногда задумывается об информационной безопасности.
     * [holywar4j](https://boiarshinov.github.io/holywar4j/): Сообщество молодых Java-разработчиков. Устраиваем еженедельные встречи в онлайне и холиварим на выбранную тему.
     * [Beer PHP Moscow](https://t.me/beerphp_moscow): PHP сообщество в Москве.
     * [C++ Moscow (telegram)](https://t.me/cppmoscow_info): Московское сообщество плюсовых программистов.
@@ -255,7 +250,6 @@
     * [GDG Нижний Новгород (telegram channel)](https://t.me/gdgnn): Google Developers Group в Нижнем Новгороде.
     * [Golang Nizhny Novgorod (telegram)](https://t.me/golang_events_nizhny): События, связанные с Go в Нижнем Новгороде.
     * [Golang Nizhny Novgorod (vk)](https://vk.com/golang_nizhny): События, связанные с Go в Нижнем Новгороде.
-    * [Golang Nizhny Novgorod (slack)](http://slack.golang-ru.com): Go в Нижнем Новгороде.
     * [Gamedevnn (telegram)](https://t.me/gamedevnn): Сообщество людей, неравнодушных к геймдеву.
     * [iOS NN devs (telegram)](https://t.me/iosnndevs): iOS (Objective-C, Swift), шарим книжки, статьи и экспириенс.
     * [Java User Group NN (telegram)](https://t.me/jugnn): Сообщество Java/Scala/Kotlin/Groovy программистов Нижнего Новгорода.
@@ -334,10 +328,8 @@
 * Рыбинск
     * [IT-Friday](https://vk.com/it_friday): IT-Friday - уникальное для Рыбинска мероприятие, куда приглашаются все те, кто живет ИТ-технологиями. Вас будут ждать интересные люди, различные проекты, соответствующая атмосфера, печеньки и плюшки.
 * Рязань
-    * [WebPurple](https://webpurple.net/): Рязанское сообщество веб-разработчиков и веб-дизайнеров. Общаемся и организуемся в чатике в [Telegram](https://t.me/WebPurple).
     * [Coffee&Code iOS | Ryazan](https://t.me/+QSUYUAVJ1xg2MTMy): Чат iOS-разработчиков Рязани.
 * Самара
-    * [SamaraJS (site)](http://samarajs.ru): Сообщество (не только JavaScript) разработчиков. Основное общение в [slack](https://samarajsin.herokuapp.com).
     * [Samara IT Community (vk)](https://vk.com/samara_it_community): Сообщество Самарских работников и новичков сферы ИТ.
     * [IT Way.Samara](https://vk.com/it_way_samara): Митапы IT Way для молодых специалистов в Самаре.
     * [PHP Самара](https://t.me/samara_php): PHP сообщество в Самаре ([Youtube](https://www.youtube.com/@phpSamara)).
@@ -363,7 +355,6 @@
     * [St. Petersburg Jenkins Meetup (telegram)](https://t.me/jenkins_spb): Митапы по Jenkins в Санкт-Петербурге.
 * Саратов
     * [Saratov IT (vk)](https://vk.com/saratovit): ИТ сообщество Саратовской области.
-    * [QA Community Saratov (vk)](https://vk.com/qasaratov): Площадка для поддержки и развития сферы тестирования в Саратове.
     * [SaratovJS (vk)](https://vk.com/saratovjs): Саратовское сообщество веб-разработчиков и дизайнеров.
     * [SarDotNet (vk)](https://vk.com/sardotnet): Саратовское сообщество .NET-разработчиков.
     * [PHP Saratov](https://t.me/beerphp_saratov): PHP сообщество в Саратове.
@@ -399,14 +390,13 @@
     * [.NET Митапошная](https://meetup.mcc-soft.de): .NET митапы раз в 3-4 месяца.
     * [Coffee&Code iOS | Tomsk](https://t.me/+nhDohcytqtI4MTZi): Чат iOS-разработчиков Томска.
 * Тула
-    * [IT Community Tula](https://tulaitcommunity.ru/), [IT Community Tula (vk)](https://vk.com/it_community_tula), [IT Community Tula (fb)](https://www.facebook.com/itcommunitytula/): Разговоры о цифровых продуктах и инновациях IT-среды.
+    * [IT Community Tula (vk)](https://vk.com/it_community_tula), [IT Community Tula (fb)](https://www.facebook.com/itcommunitytula/): Разговоры о цифровых продуктах и инновациях IT-среды.
 * Тюмень
-    * [GDG Tyumen](http://tmncode.cio72.ru/): Сообщество программистов Тюмени. Проводим митапы, встречаемся, общаемся.
     * [PHP Tyumen](https://t.me/php_tyumen): PHP сообщество в Тюмени.
 * Ульяновск
     * [it-ulsk (facebook)](https://www.facebook.com/groups/it.ulsk/): Общение обо всем, преимущественно местные новости и активности.
     * [CocoaHeads Ulyanovsk (facebook)](https://www.facebook.com/groups/cocoaheads.ulsk/): Сообщество и регулярные встречи разработчиков под iOS и Mac OS.
-    * [Fronthub (site)](http://fronthub.ru/), [slack](https://slack-fronthub.herokuapp.com/): Городское front-end сообщество с ежегодной конференцией.
+    * [Fronthub (site)](http://fronthub.ru/): Городское front-end сообщество с ежегодной конференцией.
     * [IT Way.ULSK](https://vk.com/it_way_conf): Митапы IT Way для молодых специалистов в Ульяновске.
     * [ulskPHP](https://t.me/ulskphp): PHP сообщество в Ульяновске.
 * Уфа
@@ -418,13 +408,12 @@
     * [It_Komi](https://t.me/it_Komi): Telegram группа IT специалистов Республики Коми. Объединяемся и общаемся.
 * Хабаровск
     * [XADEV](https://t.me/xadev_chat): Самое большое и быстро растущее сообщество разработчиков Хабаровска.
-    * [DevDv](https://devdv.ru): Объединяем разработчиков ДВ в профессиональное сообщество.
     * [DersuDev](https://dersudev.wordpress.com): IT-сообщество профессиональных разработчиков в Хабаровске. Организуем онлайн обучение командной разработке для студентов дальневосточных университетов. Проводим конференцию "Программисты для программистов" раз в год. Без повода встречаемся гораздо чаще.
     * [nixDV](https://www.facebook.com/nixdv/): Дальневосточная open source конференция. А также прямые текстовые/фото/видео/звуковые трансляции с ИТ-мероприятий в Хабаровске.
 * Харьков
     * [KharkivJS (site)](http://kharkivjs.org/): Конференции для JavaScript разработчиков.
     * [KharkivCSS (site)](http://kharkivcss.org/): Конференции для фронтенд разработчиков, с уклоном в CSS.
-    * [Kharkiv Frontend (site)](https://kharkivfrontend.org/), [(Facebook)](https://www.facebook.com/KharkivFrontend/), [(YouTube)](https://www.youtube.com/channel/UCjzSZ-j72m-AoAup9Tq6EoQ/playlists): митапы по фронтенду.
+    * [Kharkiv Frontend (Facebook)](https://www.facebook.com/KharkivFrontend/), [(YouTube)](https://www.youtube.com/channel/UCjzSZ-j72m-AoAup9Tq6EoQ/playlists): митапы по фронтенду.
     * [KharkivPy (site)](http://kharkivpy.org.ua/): Встречи python разработчиков.
     * [DjangoGirls Харьков (facebook)](https://www.facebook.com/djangogirlskh/?fref=ts): Митап для девушек, на котором они создают свой блог на python и django. Django Girls - это всемирная инициатива, направленная на то, чтобы помочь девушкам сделать первые шаги в IT.
     * [Съесть собаку (site)](https://eatdog.com.ua/): Регулярные встречи с экспертами в разработке. Приглашаются докладчики из различных отраслей.
@@ -432,8 +421,6 @@
     * [Kharkov AI club (site)](https://aikharkov.wordpress.com/): Встречи любителей искусственного интеллекта, Machine learning...
     * [ThinkPHP (site)](https://thinkphp.io/): Регулярные встречи веб-разработчиков и экспертов по PHP.
     * [KharkivWP (site)](https://wp.org.ua/): WordPress сообщество в Харькове.
-    * [ThinkJAVA (site)](https://thinkjava.io/): Мы собираем джавистов Харькова (и не только), чтобы обсудить актуальные темы за чашкой чая, поделиться ценным опытом с коллегами и вместе найти решение сложных проблем.
-    * [Sync.NET (site)](https://sync.net.ua/): Сообщество .Net разработчиков Харькова.
 * Чебоксары
     * [IT в солнечной Чувашии](https://t.me/itcheb): Группа в Telegram об ИТ в солнечной Чувашии.
 * Челябинск
@@ -442,8 +429,6 @@
     * [QA meetups (telegram)](https://t.me/qa_meetups): Встречи тестировщиков для обмена опытом в Челябинске (и Санкт-Петербурге).
     * [Coffee&Code iOS | Chelyabinsk](https://t.me/coffeecodechl): Чат iOS-разработчиков Челябинска.
     * [Sysadminka (telegram)](https://t.me/sysadminka): Чат челябинских системных администраторов и devops-инженеров.
-* Чернигов
-    * [ChernigivJS (site)](https://chernihivjs.org.ua/): Встречи JavaScript разработчиков.
 * Черновцы
     * [ChernivtsiJS (site)](http://chernivtsi.js.org/): Встречи JavaScript разработчиков.
 * Чечня
