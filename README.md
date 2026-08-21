@@ -319,7 +319,6 @@
     * [Coffee&Code iOS | Phuket](https://t.me/+7umVbrFoP0kxMTEy): Чат iOS-разработчиков Пхукета.
 * Ростов-на-Дону
     * [rndrug (facebook)](https://www.facebook.com/groups/rndrug/), [rndrug (telegram)](https://t.me/rndrug): Сообщество ruby-разработчиков.
-    * [it61 (site)](https://it61.info): IT-сообщество Ростова-на-Дону. Регулярные митапы и конференции на технические и смежные с ними темы. Важная часть сообщества – онлайн-общение в slack и telegram.
     * [it61 (telegram)](https://t.me/it_61): IT-сообщество Ростова-на-Дону, участников меньше чем в slack, но обсуждения активнее.
     * [JS Weekdays](https://t.me/jsweekdays): Периодические неформальные встречи любителей JavaScript в Ростове-на-Дону.
     * [RndTech (vk)](https://vk.com/rndtech), [RndTech (telegram)](https://t.me/rndtechchat), [RndTech (meetup)](https://www.meetup.com/ru-RU/RostovITEvents/): Городское IT-сообщество Ростова-на-Дону и Таганрога. Митапы, конференции, соревнования и общение.
@@ -414,12 +413,10 @@
     * [KharkivJS (site)](http://kharkivjs.org/): Конференции для JavaScript разработчиков.
     * [KharkivCSS (site)](http://kharkivcss.org/): Конференции для фронтенд разработчиков, с уклоном в CSS.
     * [Kharkiv Frontend (Facebook)](https://www.facebook.com/KharkivFrontend/), [(YouTube)](https://www.youtube.com/channel/UCjzSZ-j72m-AoAup9Tq6EoQ/playlists): митапы по фронтенду.
-    * [KharkivPy (site)](http://kharkivpy.org.ua/): Встречи python разработчиков.
     * [DjangoGirls Харьков (facebook)](https://www.facebook.com/djangogirlskh/?fref=ts): Митап для девушек, на котором они создают свой блог на python и django. Django Girls - это всемирная инициатива, направленная на то, чтобы помочь девушкам сделать первые шаги в IT.
     * [Съесть собаку (site)](https://eatdog.com.ua/): Регулярные встречи с экспертами в разработке. Приглашаются докладчики из различных отраслей.
     * [Smart Club (facebook)](https://www.facebook.com/groups/smartcl/?fref=ts): Регулярные митапы на различные темы.
     * [Kharkov AI club (site)](https://aikharkov.wordpress.com/): Встречи любителей искусственного интеллекта, Machine learning...
-    * [ThinkPHP (site)](https://thinkphp.io/): Регулярные встречи веб-разработчиков и экспертов по PHP.
     * [KharkivWP (site)](https://wp.org.ua/): WordPress сообщество в Харькове.
 * Чебоксары
     * [IT в солнечной Чувашии](https://t.me/itcheb): Группа в Telegram об ИТ в солнечной Чувашии.
