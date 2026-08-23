@@ -382,6 +382,7 @@
 * Томск
     * [TomskJS (vk)](https://vk.com/tomskjs), [TomskJS (fb)](https://fb.com/tomskjs), [TomskJS (slack)](https://tomskjs.slack.com): Небольшие frontend митапы.
     * [TomskML (vk)](https://vk.com/tomskml), [TomskML (slack)](https://tomskml.slack.com): Машинное обучение.
+    * [Tomsk Data Science (site)](https://tomsk-data-science.mynka.tech/), [Tomsk Data Science (telegram-канал)](https://t.me/dataDinnersTomsk), [Tomsk Data Science (telegram-чат)](https://t.me/+7m4Imv-VArJhYTBi): Томское сообщество специалистов по анализу данных, машинному обучению и разработке. Проводим встречи, общаемся, питаем любовь к мемам про вагонетку.
     * [Город IT - Ежегодная конференция (site)](https://gorod.it/), [Город IT (vk)](https://vk.com/gorodit), [Город IT (telegram)](https://t.me/gorod_it): Ежегодная двухдневная конференция.
     * [DevPro (vk)](https://vk.com/dev_pro), [DevPro (youtube)](https://www.youtube.com/channel/UCL9paXsOKnll7rYn5_4BESA) : Ежегодная конференция.
     * [Debug-Time - Конференция (site)](http://debug-time.unigine.com/): Конференция по C++, 3D.
