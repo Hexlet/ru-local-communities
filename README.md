@@ -42,7 +42,7 @@
 ## Сообщества
 
 * Абакан
-    * [Абаканский клуб программистов "λ-calculus" (site)](http://lambda-calculus.ru/), ["λ-calculus" (vk)](https://vk.com/lambda_club): Организация IT-конференций и турниров по программированию, анонсы мероприятий, предложения о работе.
+    * [Абаканский клуб программистов "λ-calculus" (vk)](https://vk.com/lambda_club): Организация IT-конференций и турниров по программированию, анонсы мероприятий, предложения о работе.
 * Аланья
     * [Coffee&Code iOS | Alanya](https://t.me/coffeeCodeAlanya): Чат iOS-разработчиков Аланьи.
 * Алматы
@@ -113,7 +113,7 @@
     * [java.ural.Meetup (vk)](https://vk.com/java.ural.meetup): Сообщество Java-разработчиков Екатеринбурга. Мы хотим обсуждать актуальные задачи в Java-разработке и смежных областях: никаких умирающих технологий и страшных монолитных систем. Организатор: СКБ-Контур.
     * [Конференция разработчиков DUMP-2019 (vk)](https://vk.com/dumpconf): Уральская IT-конференция DUMP (Development, Usability, Management, Practice). Доклады идут в 8 секциях: Backend, Frontend, Mobile, Тестирование и QA, Devops, Design, Science и Management.
     * [PHP Ural Meetups](https://t.me/phpuralmeetups): PHP сообщество в Екатеринбурге.
-    * [Ural Testers Club (UTC)](https://uraltester.ru/): Сообщество тестировщиков Екатеринбурга.
+    * [Ural Testers Club (UTC) (telegram)](https://t.me/UTCNews): Сообщество тестировщиков Екатеринбурга.
     * [Coffee&Code iOS | Ekaterinburg](https://t.me/+5cXopAlQp7MwMTE6): Чат iOS-разработчиков Екатеринбурга.
     * [IT EKB (telegram)](https://t.me/IT_EKB): Чат айтишников Екатеринбурга и окрестностей.
 * Ереван
