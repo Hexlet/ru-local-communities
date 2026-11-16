@@ -269,7 +269,6 @@
     * [Scala NN (vk)](https://vk.com/scala_nn): Scala-митапы в Нижнем Новгороде.
     * [Scala NN (telegram)](https://t.me/scala_nn): Scala-митапы в Нижнем Новгороде.
     * [WTM Nizhny Novgorod (telegram channel)](https://t.me/wtm_nn): Women Techmakers от Google в Нижнем Новгороде.
-    * [Хакерспейс CADR (site)](https://cadrspace.ru): Нижегородский хакерспейс CADR.
     * [Хакерспейс CADR (telegram)](https://t.me/cadr_hackerspace): Нижегородский хакерспейс CADR.
     * [PHP NN](https://t.me/php_nn): PHP сообщество в Нижнем Новгороде.
     * [PythoNN](https://t.me/pytho_nn): Python сообщество в Нижнем Новгороде.
