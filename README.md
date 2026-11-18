@@ -422,7 +422,7 @@
 * Чебоксары
     * [IT в солнечной Чувашии](https://t.me/itcheb): Группа в Telegram об ИТ в солнечной Чувашии.
 * Челябинск
-    * [Python Community Chelyabinsk (vk)](https://vk.com/pychel): сообщество Python-разработчиков Челябинска. Проводит [митапы](https://pychel.timepad.ru/events/), общается в [телеграм-чате](https://t.me/pychel).
+    * [Python Community Chelyabinsk (vk)](https://vk.com/pychel): сообщество Python-разработчиков Челябинска. Проводит митапы, общается в [телеграм-чате](https://t.me/pychel).
     * [Beer.js Chelyabinsk](https://github.com/beerjs/chelyabinsk): Неформальные встречи челябинских фронтенд разработчиков. Обсуждаем Javascript, фреймворки, новости, проблемы и лучшие практики. Иногда проводим небольшие доклады. [Телеграм-чат](https://t.me/beerjs_chel)
     * [QA meetups (telegram)](https://t.me/qa_meetups): Встречи тестировщиков для обмена опытом в Челябинске (и Санкт-Петербурге).
     * [Coffee&Code iOS | Chelyabinsk](https://t.me/coffeecodechl): Чат iOS-разработчиков Челябинска.
